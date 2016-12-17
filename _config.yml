@@ -9,8 +9,7 @@ permalink:        pretty
 title:            Alamgir
 tagline:          ',,,,'
 description:      '.....'
-url:              
-
+baseurl:          /blog
 author:
   name:           'Alamgir Qazi'
   url:            https://twitter.com/alamgirqazi
