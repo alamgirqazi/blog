@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Alamgir
+tagline:          ',,,,'
+description:      '.....'
+url:              
+
+author:
+  name:           'Alamgir Qazi'
+  url:            https://twitter.com/alamgirqazi
+
+paginate:         5
+gems: [jekyll-paginate]
+# Custom vars
+version:          2.0.0
+
+github:
+  # repo:           https://github.com/poole/lanyon
