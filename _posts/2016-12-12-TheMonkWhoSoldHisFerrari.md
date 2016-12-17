@@ -4,6 +4,8 @@ title: The Monk Who Sold His Ferrari - Robin Sharma
 permalink: TheMonkWhoSoldHisFerrari
 ---
 
+![The Monk Who Sold His Ferrari - Robin Sharma](public/The Monk Who Sold His Ferrari - Robin Sharma.jpg "The Monk Who Sold His Ferrari - Robin Sharma")
+
 ### rating (10/10)
 
 ### An amazing and fantastic read. This book is filled with endless wisdom. 
