@@ -15,9 +15,9 @@ permalink: listofbooks
 ![How to Win Friends and Infuence People - Dale Carnegie](public/How to Win Friends and Influence People.jpg "How to Win Friends and Infuence People - Dale Carnegie")
 
 
-Rating 9/10   
+Rating 10/10   
 
-Excellent read.
+Excellent read. See my reading-notes [How to Win Friends and Infuence People - Dale Carnegie](https://alamgirqazi.github.io/blog/HowToWinFriendsandInfluencePeople)
 <hr>
 
 <br/>
@@ -27,7 +27,7 @@ Excellent read.
 
 Rating 10/10  
 
-WOW. 
+WOW. This book will really blow your mind out of the water. See my reading-notes [The Monk Who Sold His Ferrari - Robin Sharma](https://alamgirqazi.github.io/blog/TheMonkWhoSoldHisFerrari)
 <hr>
 
 <br/>
@@ -38,7 +38,7 @@ WOW.
 
 Rating 8.5/10  
 
-Very Interesting read. 
+Very Fascinating and absorbing research. Emotional Intelligence is indeed extremely essential. 
 <hr>
 
 <br/>
@@ -47,7 +47,7 @@ Very Interesting read.
 
 Rating 8.5/10  
 
-Very Informative. 
+Very Informative and compelling read.
 <hr>
 
 <br/>
@@ -63,7 +63,11 @@ A funny little book.
 
 ![The Tipping Point - Malcolm Gladwell](public/The Tipping Point.jpg "The Tipping Point - Malcolm Gladwell")
 
-Rating (coming soon)  
+Rating 8/10
+
+A very riveting concept on how some things get so ubiquotous and some don't.
+
+
 
 <hr>
 <br/>
