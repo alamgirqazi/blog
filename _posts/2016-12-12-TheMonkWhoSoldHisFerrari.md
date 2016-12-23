@@ -67,7 +67,7 @@ Benjamin Disraeli said: ‘The secret of success is constancy of purpose’.
 
 Set clearly defined objectives. You will never be able to get a target you cannot see.
 
-We each think about 60,000 thoughts on an average day.By writing out your desires and goals on a piece of paper, you send a red flag to your subconscious mind that these thoughts are far more important than the remaining 59,999 other ones. Your mind will then start to seek out all opportunities to realize your destiny like a guided missile.  
+We each think about 60,000 thoughts on an average day. By writing out your desires and goals on a piece of paper, you send a red flag to your subconscious mind that these thoughts are far more important than the remaining 59,999 other ones. Your mind will then start to seek out all opportunities to realize your destiny like a guided missile.  
 
 Fill your dream book with pictures of the things you desire and images of people who have cultivated the abilities, talents and qualities you hope to emulate. Then review this book daily. 
 
