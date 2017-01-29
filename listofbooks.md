@@ -87,8 +87,7 @@ A very emotional book for me.
 <br/>
 
 ### The Alchemist - Paulo Coelho
-
-![The Alchemist - Paulo Coelho](public/The Alchemist - Paulo Coelho.jpg "The Alchemist - Paulo Coelho")
+![The Alchemist - Paulo Coelho](public/the alchemist - paulo coelho.jpg "The Alchemist - Paulo Coelho")
 
 Rating 9/10
 
