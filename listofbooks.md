@@ -17,7 +17,7 @@ permalink: listofbooks
 
 Rating 10/10   
 
-Excellent read. See my reading-notes [How to Win Friends and Infuence People - Dale Carnegie](https://alamgirqazi.github.io/blog/HowToWinFriendsandInfluencePeople)
+This book is a top 5 favourite of most of my mentors and now I know why. A breathtaking and a magnificient read. Everything about this book is perfect. See my reading-notes [How to Win Friends and Infuence People - Dale Carnegie](https://alamgirqazi.github.io/blog/HowToWinFriendsandInfluencePeople)
 <hr>
 
 <br/>
@@ -27,7 +27,7 @@ Excellent read. See my reading-notes [How to Win Friends and Infuence People - D
 
 Rating 10/10  
 
-WOW. This book will really blow your mind out of the water. See my reading-notes [The Monk Who Sold His Ferrari - Robin Sharma](https://alamgirqazi.github.io/blog/TheMonkWhoSoldHisFerrari)
+Astonishing. Stupendous. Remarkable. This book will really blow your mind. See my reading-notes [The Monk Who Sold His Ferrari - Robin Sharma](https://alamgirqazi.github.io/blog/TheMonkWhoSoldHisFerrari)
 <hr>
 
 <br/>
@@ -38,7 +38,7 @@ WOW. This book will really blow your mind out of the water. See my reading-notes
 
 Rating 9.5/10
 
-A really remarkable book. I've listened to a few of Mark Manson's podcasts and videos and read some of this articles, he has a way to convey his points. 
+A really phenomenal book. I've listened to a few of Mark Manson's podcasts and videos and read some of this articles and this guy is good. Like really, really good. 
 See my reading-notes [The Subtle Art of Not Giving a F*ck - Mark Manson](https://alamgirqazi.github.io/blog/MarkManson)
 
 
@@ -51,7 +51,7 @@ See my reading-notes [The Subtle Art of Not Giving a F*ck - Mark Manson](https:/
 
 Rating 9.5/10
 
-Sensational book. They really mean it when they say it's one of the best Self-help book out there.
+A Sensational book. They really mean it when they say it's one of the best Self-help book out there.
 <hr>
 <br/>
 
@@ -61,7 +61,7 @@ Sensational book. They really mean it when they say it's one of the best Self-he
 
 Rating 9/10
 
-A very emotional book for me.
+A very soul-stirring and poignant book for me.
 
 <hr>
 <br/>
@@ -82,7 +82,7 @@ A really fascinating story of Santiago who went out to search for hidden treasur
 
 Rating 9/10
 
-WOW. Sidney Sheldon knows how to tell a story. This novel made me fall in love with Fiction.
+Amazeballs. Damn Sidney Sheldon knows how to tell a story. This novel made me fall in love with Fiction.
 
 <hr>
 <br/>
@@ -102,21 +102,23 @@ Very Fascinating and absorbing research. Emotional Intelligence is indeed extrem
 
 Rating 8.5/10  
 
-Very Informative and compelling read.
+Very Instructive and compelling read.
 <hr>
 
 <br/>
 
-### Dairy of a Wimpy Kid - Jeff Kinney
+### Outliers | The Story of Success - Malcolm Gladwell
 
-![Dairy of a Wimpy Kid - Jeff Kinney](public/Dairy of a Wimpy Kid.jpg "Dairy of a Wimpy Kid - Jeff Kinney")
+![Outliers | The Story of Success - Malcolm Gladwell](public/Outliers - Malcolm Gladwell.jpg "Outliers | The Story of Success - Malcolm Gladwell")
 
-Rating 8/10  
+Rating 8.5/10
 
-A funny little book.
+A very spectacular read indeed. The concept of outliers is truly astonishing.
+
 <hr>
-
 <br/>
+
+
 
 ### The Tipping Point - Malcolm Gladwell
 
@@ -131,18 +133,16 @@ A very riveting concept on how some things get so ubiquotous and some don't.
 
 
 
-### Outliers | The Story of Success - Malcolm Gladwell
+### Dairy of a Wimpy Kid - Jeff Kinney
 
-![Outliers | The Story of Success - Malcolm Gladwell](public/Outliers - Malcolm Gladwell.jpg "Outliers | The Story of Success - Malcolm Gladwell")
+![Dairy of a Wimpy Kid - Jeff Kinney](public/Dairy of a Wimpy Kid.jpg "Dairy of a Wimpy Kid - Jeff Kinney")
 
-Rating 8.5/10
+Rating 8/10  
 
-A very interesting read indeed. The concept of outliers is truly astonishing.
-
+A funny little book.
 <hr>
+
 <br/>
-
-
 
 
 ### Good to Great - Jim Collins

@@ -8,7 +8,7 @@ permalink: HowToWinFriendsandInfluencePeople
 
 ### rating (10/10)
 
-### Really amazing book. Dale Carnegie's writing style is splendid. Even though this book was first published in 1937, It still is very much valid in current era.
+### This book is a top 5 favourite of most of my mentors and now I know why. A breathtaking and a magnificient read. Everything about this book is perfect.
 
 #### Reading Notes:
 

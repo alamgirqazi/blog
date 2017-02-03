@@ -8,7 +8,7 @@ permalink: MarkManson
 
 ### rating (9.5/10)
 
-### An amazing and fantastic read. This book is filled with endless wisdom. 
+### A really phenomenal book. I've listened to a few of Mark Manson's podcasts and videos and read some of this articles and this guy is good. Like really, really good.
 
 
 #### Reading Notes:
@@ -39,7 +39,7 @@ all of our sweat and strain, we end up feeling eerily similar to how we started:
 Psychologists sometimes refer to this concept as the “hedonic treadmill”: the idea that we’re
 always working hard to change our life situation, but we actually never feel very different.
 
- “What pain do you want in your life? What are you willing to struggle for?” Because that seems to be a greater
+ > “What pain do you want in your life? What are you willing to struggle for?” Because that seems to be a greater
 determinant of how our lives turn out.
 
 Real, serious, lifelong fulfillment and meaning have to be earned through the choosing and managing of our struggles. Whether you suffer from anxiety or loneliness
@@ -47,7 +47,7 @@ or obsessive-compulsive disorder or a dickhead boss who ruins half of your wakin
 the solution lies in the acceptance and active engagement of that negative experience—not the
 avoidance of it, not the salvation from it.
 
-What is the pain that you want to sustain? That’s the hard
+> What is the pain that you want to sustain? That’s the hard
 question that matters, the question that will actually get you somewhere. It’s the question that can
 change a perspective, a life. It’s what makes me, me, and you, you. It’s what defines us and separates
 us and ultimately brings us together.
@@ -57,7 +57,7 @@ not the fight but only the victory.
 And life doesn’t work that way.
 Who you are is defined by what you’re willing to struggle for.
 
-The rare people who do become truly exceptional at something do so not because they believe
+> The rare people who do become truly exceptional at something do so not because they believe
 they’re exceptional. On the contrary, they become amazing because they’re obsessed with
 improvement. And that obsession with improvement stems from an unerring belief that they are, in
 fact, not that great at all. It’s anti-entitlement. People who become great at something become great
@@ -70,22 +70,23 @@ You will have a growing appreciation for life’s basic experiences: the pleasur
 friendship, creating something, helping a person in need, reading a good book, laughing with
 someone you care about.
 
-Self-awareness is like an onion. There are multiple layers to it, and the more you peel them back, the
+> Self-awareness is like an onion. There are multiple layers to it, and the more you peel them back, the
 more likely you’re going to start crying at inappropriate times.
 
-But there’s another, even deeper level of the self-awareness onion. And that one is full of fucking
+> But there’s another, even deeper level of the self-awareness onion. And that one is full of fucking
 tears. The third level is our personal values: Why do I consider this to be success/failure? How am I
 choosing to measure myself? By what standard am I judging myself and everyone around me?
 
 This level, which takes constant questioning and effort, is incredibly difficult to reach. But it’s the
 most important, because our values determine the nature of our problems, and the nature of our
 problems determines the quality of our lives.
-Values underlie everything we are and do. If what we value is unhelpful, if what we consider
+
+> Values underlie everything we are and do. If what we value is unhelpful, if what we consider
 success/failure is poorly chosen, then everything based upon those values—the thoughts, the
 emotions, the day-to-day feelings—will all be out of whack. Everything we think and feel about a
 situation ultimately comes back to how valuable we perceive it to be.
 
-If you want to change how you see your problems, you have to change what you value and/or how
+> If you want to change how you see your problems, you have to change what you value and/or how
 you measure failure/success.
 
 Often the only difference between a problem being painful or being powerful is a sense that we
@@ -108,7 +109,7 @@ read this. You are choosing to think about the concepts. You are choosing to acc
 concepts. It may be my fault that you think my ideas are lame, but you are responsible for coming to
 your own conclusions.
 
-Many people may be to blame for your unhappiness, but nobody is ever responsible for your
+> Many people may be to blame for your unhappiness, but nobody is ever responsible for your
 unhappiness but you. This is because you always get to choose how you see things, how you react to
 things, how you value things. You always get to choose the metric by which to measure your
 experiences.
@@ -118,7 +119,7 @@ be responsible for success and happiness. But taking responsibility for our prob
 important, because that’s where the real learning comes from. That’s where the real-life improvement
 comes from. To simply blame others is only to hurt yourself.
 
-we don’t know how
+> we don’t know how
 attractive we are; we don’t know how successful we could potentially become. The only way to
 achieve these things is to remain uncertain of them and be open to finding them out through
 experience
@@ -140,7 +141,7 @@ When the student admits to himself, “You know, maybe I’m not a rebel; maybe 
 then he’s free to be ambitious again. He has no reason to feel threatened by pursuing his academic
 dreams and maybe failing.
 
- don’t be special; don’t be unique. Redefine your metrics in mundane and
+ > don’t be special; don’t be unique. Redefine your metrics in mundane and
 broad ways. Choose to measure yourself not as a rising star or an undiscovered genius. Choose to
 measure yourself not as some horrible victim or dismal failure. Instead, measure yourself by more
 mundane identities: a student, a partner, a friend, a creator.
@@ -183,7 +184,7 @@ growth. And to deny that pain is to deny our own potential. Just as one must suf
 build stronger bone and muscle, one must suffer emotional pain to develop greater emotional
 resilience, a stronger sense of self, increased compassion, and a generally happier life.
 
-Learn to sustain the pain you’ve chosen. When you choose a new value, you are choosing to
+> Learn to sustain the pain you’ve chosen. When you choose a new value, you are choosing to
 introduce a new form of pain into your life. Relish it. Savor it. Welcome it with open arms. Then act
 despite it.
 
@@ -194,7 +195,7 @@ problem, don’t sit there and think about it; just start working on it. Even if
 you’re doing, the simple act of working on it will eventually cause the right ideas to show up in your
 head.”
 
- Freud once said, “One day, in retrospect, the years of struggle will strike you as the most
+ > Freud once said, “One day, in retrospect, the years of struggle will strike you as the most
 beautiful.”
 
 This is why these values—pleasure, material success, always being right, staying positive—are
@@ -204,22 +205,22 @@ successful, not known, and not positive.
 The point is to nail down some good values and metrics, and pleasure and success will naturally
 emerge as a result. These things are side effects of good values. By themselves, they are empty highs.
 
-This, in a nutshell, is what “self-improvement” is really about: prioritizing better values, choosing
+> This, in a nutshell, is what “self-improvement” is really about: prioritizing better values, choosing
 better things to give a fuck about.
 
-Ultimately, the only way to achieve meaning and a sense of importance in one’s
+> Ultimately, the only way to achieve meaning and a sense of importance in one’s
 life is through a rejection of alternatives, a narrowing of freedom, a choice of commitment to one
 place, one belief, or (gulp) one person
 
-To truly appreciate something, you must confine yourself to it. There’s a certain level of joy and
+> To truly appreciate something, you must confine yourself to it. There’s a certain level of joy and
 meaning that you reach in life only when you’ve spent decades investing in a single relationship, a
 single craft, a single career. And you cannot achieve those decades of investment without rejecting the
 alternatives.
 
-We are defined by what we choose to reject. And if we reject nothing (perhaps in fear of
+> We are defined by what we choose to reject. And if we reject nothing (perhaps in fear of
 being rejected by something ourselves), we essentially have no identity at all.
 
-But more is not always better. In fact, the opposite is true. We are actually often happier with less.
+> But more is not always better. In fact, the opposite is true. We are actually often happier with less.
 When we’re overloaded with opportunities and options, we suffer from what psychologists refer to as
 the paradox of choice. Basically, the more options we’re given, the less satisfied we become with
 whatever we choose, because we’re aware of all the other options we’re potentially forfeiting.

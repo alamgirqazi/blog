@@ -8,7 +8,7 @@ permalink: TheMonkWhoSoldHisFerrari
 
 ### rating (10/10)
 
-### An amazing and fantastic read. This book is filled with endless wisdom. 
+### Astonishing. Stupendous. Remarkable. This book will really blow your mind.
 
 
 #### Reading Notes:
