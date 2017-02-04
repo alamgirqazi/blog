@@ -4,7 +4,7 @@ title: The Subtle Art of Not Giving a Fu*k - Mark Manson
 permalink: MarkManson
 ---
 
-![The Subtle Art of Not Giving a Fu*k - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a Fu*k - Mark Manson")
+![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a Fu*k - Mark Manson")
 
 ### rating (9.5/10)
 
