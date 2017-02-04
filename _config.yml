@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Alamgir
-tagline:          ',,,,'
-description:      '.....'
+tagline:          'blog'
+description:      "a blog that contain reading notes for various books I've read"
 baseurl:          /blog
 author:
   name:           'Alamgir Qazi'
@@ -20,4 +20,4 @@ gems: [jekyll-paginate]
 version:          2.0.0
 
 github:
-  # repo:           https://github.com/poole/lanyon
+   repo:           https://github.com/alamgirqazi/blog
