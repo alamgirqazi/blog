@@ -63,8 +63,9 @@ See my reading-notes [Think and Grow Rich - Napoleon Hill](https://alamgirqazi.g
 
 ![Ego is the enemy - Ryan Holiday](public/Ego is the enemy - Ryan Holiday.jpg "Ego is the enemy - Ryan Holiday")
 
-Rating (coming soon)
+Rating 9.5/10
 
+Ryan Holiday is one of the best writers out there. I love his blogs and podcasts. He's the first person to introduce the stoic philosophy to me. This book from him is a masterpiece. Amazing insight on how to always stay humble and keep your ego in control. Ryan really is an inspiration for the new generation. 
 
 <hr>
 
@@ -125,7 +126,7 @@ Very Instructive and compelling read.
 
 ### Outliers | The Story of Success - Malcolm Gladwell
 
-![Outliers | The Story of Success - Malcolm Gladwell](public/Outliers - Malcolm Gladwell.jpg "Outliers | The Story of Success - Malcolm Gladwell")
+![Outliers - The Story of Success - Malcolm Gladwell](public/Outliers - Malcolm Gladwell.jpg "Outliers - The Story of Success - Malcolm Gladwell")
 
 Rating 8.5/10
 
