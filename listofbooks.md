@@ -7,8 +7,8 @@ permalink: listofbooks
 <!--
 <p class="message">
   Hey therefefsdf! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>-->
-<br/>
+</p>
+<br/>-->
 
 ### How to Win Friends and Infuence People
 
@@ -17,7 +17,9 @@ permalink: listofbooks
 
 Rating 10/10   
 
-This book is a top 5 favourite of most of my mentors and now I know why. A breathtaking and a magnificient read. Everything about this book is perfect. See my reading-notes [How to Win Friends and Infuence People - Dale Carnegie](https://alamgirqazi.github.io/blog/HowToWinFriendsandInfluencePeople)
+ This book is a top 5 favourite of most of my mentors and now I know why. A breathtaking and a magnificient read. Everything about this book is perfect.
+ See my reading-notes [How to Win Friends and Infuence People - Dale Carnegie](https://alamgirqazi.github.io/blog/HowToWinFriendsandInfluencePeople)
+
 <hr>
 
 <br/>
@@ -34,7 +36,7 @@ Astonishing. Stupendous. Remarkable. This book will really blow your mind. See m
 
 ### The Subtle Art of Not Giving a F*ck - Mark Manson
 
-![The Subtle Art of Not Giving a F*ck - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a F*ck - Mark Manson")
+![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a F*ck - Mark Manson")
 
 Rating 9.5/10
 
@@ -52,7 +54,20 @@ See my reading-notes [The Subtle Art of Not Giving a F*ck - Mark Manson](https:/
 Rating 9.5/10
 
 A Sensational book. They really mean it when they say it's one of the best Self-help book out there.
+See my reading-notes [Think and Grow Rich - Napoleon Hill](https://alamgirqazi.github.io/blog/ThinkAndGrowRich)
 <hr>
+<br/>
+
+
+### Ego is the enemy - Ryan Holiday
+
+![Ego is the enemy - Ryan Holiday](public/Ego is the enemy - Ryan Holiday.jpg "Ego is the enemy - Ryan Holiday")
+
+Rating (coming soon)
+
+
+<hr>
+
 <br/>
 
 ### Tuesdays with Morrie - Mitch Albom
@@ -67,6 +82,7 @@ A very soul-stirring and poignant book for me.
 <br/>
 
 ### The Alchemist - Paulo Coelho
+
 ![The Alchemist - Paulo Coelho](public/the alchemist - paulo coelho.jpg "The Alchemist - Paulo Coelho")
 
 Rating 9/10
@@ -156,17 +172,6 @@ Rating (coming soon)
 <br/>
 
 
-
-### Ego is the enemy - Ryan Holiday
-
-![Ego is the enemy - Ryan Holiday](public/Ego is the enemy - Ryan Holiday.jpg "Ego is the enemy - Ryan Holiday")
-
-Rating (coming soon)
-
-
-<hr>
-
-<br/>
 
 <!-- ### The Five People You Meet In Heaven - Mitch Albom
 
