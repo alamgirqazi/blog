@@ -66,6 +66,7 @@ See my reading-notes [Think and Grow Rich - Napoleon Hill](https://alamgirqazi.g
 Rating 9.5/10
 
 Ryan Holiday is one of the best writers out there. I love his blogs and podcasts. He's the first person to introduce the stoic philosophy to me. This book from him is a masterpiece. Amazing insight on how to always stay humble and keep your ego in control. Ryan really is an inspiration for the new generation. 
+See my reading-notes [Ego is the Enemy - Ryan Holiday](https://alamgirqazi.github.io/blog/EgoIsTheEnemy)
 
 <hr>
 
