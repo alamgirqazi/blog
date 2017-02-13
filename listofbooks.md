@@ -47,6 +47,20 @@ See my reading-notes [The Subtle Art of Not Giving a F*ck - Mark Manson](https:/
 <hr>
 <br/>
 
+ ### The Compound Effect - Darren Hardy
+
+![The Compound Effect - Darren Hardy](public/the compound effect - darren hardy.jpg "The Compound Effect - Darren Hardy")
+
+Rating 9.5/10
+
+See my reading-notes [The Compound Effect - Darren Hardy](https://alamgirqazi.github.io/blog/TheCompoundEffect)
+
+
+<hr>
+<br/> 
+
+
+
 ### Think and Grow Rich - Napoleon Hill
 
 ![Think and Grow Rich - Napoleon Hill](public/Think and Grow Rich - Napoleon Hill.jpg "Think and Grow Rich - Napoleon Hill")
@@ -187,15 +201,6 @@ Rating (coming soon)
 
 
 
-<!-- ### The Compound Effect - Darren Hardy
-
-![The Compound Effect - Darren Hardy](public/the compound effect - darren hardy.jpg "The Compound Effect - Darren Hardy")
-
-Rating (coming soon)
-
-
-<hr>
-<br/> -->
 
 
 
