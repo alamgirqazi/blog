@@ -28,6 +28,7 @@ Have you ever been bitten by an elephant? How about a mosquito? It’s the littl
 > If I always took 100 percent responsibility for everything I experienced—completely owning all of my choices and all the ways I responded to whatever happened to me—I held the power. Everything was up to me. I was responsible for everything I did, didn’t do, or how I responded to what was done to me. You alone are responsible for what you do, don’t do, or how you respond to what’s done to you.
 
 Everyone has the opportunity to be “lucky,” because beyond having the basics of health and sustenance, luck simply comes down to a series of choices.
+
 Preparation (personal growth) + Attitude (belief/mindset) + Opportunity (a good thing coming your way) + Action (doing something about it) = Luck
 
 Arnold Palmer, who told SUCCESS magazine in February of 2009, “It’s a funny thing; the more I practice, the luckier I get.”
