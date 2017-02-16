@@ -22,19 +22,21 @@ title: Home
   {% endfor %}
 </div>
 
-<div class="pagination">
+<!--<div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page | prepend: site.baseurl }}">Older</a>
+    <a class="pagination-item older" href="/page{{paginator.next_page  |prepend: site.baseurl}}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
+      <a class="pagination-item newer" href="/page{{ paginator.previous_page }}">Newer</a>
     {% else %}
       <a class="pagination-item newer" href="/page{{paginator.previous_page | prepend: site.baseurl }}">Newer</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div>-->
+
+<hr>
