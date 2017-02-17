@@ -8,7 +8,6 @@ permalink: quotes
 
 <p class="message">
 We live on an island surrounded by a sea of ignorance. As our island of knowledge grows. so does the shore of our ignorance.
-
 ~ John Archibald Wheeler
 </p>
 <br>
@@ -43,8 +42,8 @@ Sometimes its not the what you learn from the journey, its the epiphany of learn
 
 <br>
 
-> people will forget what you said, people will forget what you did, but people will never forget how you made them feel.
-~ Maya Angelou
+> "Care about what other people think and you will always be their prisoner."
+~ Lao Tzu
 
 <br>
 
@@ -71,7 +70,7 @@ The purpose of goal-setting isn't to control the future. The point of goal-setti
 <br>
 
 <p class="message">
-self-awareness is like an onion, there are always more deeper layers to peel back, and the further you get the more likely you are to spontaneously start crying.
+Self-awareness is like an onion, there are always more deeper layers to peel back, and the further you get the more likely you are to spontaneously start crying.
 
 </p>
 
