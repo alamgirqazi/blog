@@ -6,7 +6,9 @@ permalink: TheCompoundEffect
 
 ![The Compound Effect - Darren Hardy](public/the compound effect - darren hardy.jpg "The Compound Effect - Darren Hardy")
 
-### Rating 9.5/10
+**Rating 9.5/10**
+
+<br>
 
 #### Reading Notes:
 
@@ -37,7 +39,7 @@ Arnold Palmer, who told SUCCESS magazine in February of 2009, “It’s a funny 
 
 > Jim Rohn said, “The day you graduate from childhood to adulthood is the day you take full responsibility for your life.”
 
-We canceled her subscription to People magazine (it was time to study her own life)
+We canceled her subscription to People magazine (it was time to study her own life).
 
 Aristotle wrote, “We are what we repeatedly do.”
 
