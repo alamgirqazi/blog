@@ -49,13 +49,15 @@ See my reading-notes [The Subtle Art of Not Giving a F*ck - Mark Manson](https:/
 
 <br>
 
+
+
 ![The Compound Effect - Darren Hardy](public/the compound effect - darren hardy.jpg "The Compound Effect - Darren Hardy")
 
 **Rating 9.5/10** 
 
 <br>
 
-See my reading-notes [The Compound Effect - Darren Hardy](https://alamgirqazi.github.io/blog/TheCompoundEffect)
+A very interesting self-help book. Darren Hardy says that we can make huge breakthroughs by making very small subtle changes in our life. These small changes compound over time to bring massive improvements in our lives. See my reading-notes [The Compound Effect - Darren Hardy](https://alamgirqazi.github.io/blog/TheCompoundEffect)
 
 
 <hr>
@@ -85,6 +87,20 @@ Ryan Holiday is one of the best writers out there. I love his blogs and podcasts
 See my reading-notes [Ego is the Enemy - Ryan Holiday](https://alamgirqazi.github.io/blog/EgoIsTheEnemy)
 
 <hr>
+
+## When Breath becomes Air - Paul Kalanithi
+<br>
+![When Breath becomes Air - Paul Kalanithi](public/When Breath becomes Air - Paul Kalanithi.jpg "When Breath becomes Air - Paul Kalanithi")
+
+**Rating 9/10** 
+
+<br>
+
+I was in tears reading this book on two occasions. Paul talks about what makes our lives meaningful.
+Paul Kalanithi graduated in 2000 with a B.A. and M.A. in English Literature from Stanford University and a B.A. in Human Biology. He earned an M.Phil in History and Philosophy of Science and Medicine from the University of Cambridge before attending Medical school. In 2007, Paul graduated cum laude from the Yale School of Medicine. He returned to Stanford for residency training in Neurological Surgery and a postdoctoral fellowship in neuroscience. In May 2013, Paul Kalanithi was diagnosed with metastatic stage IV lung cancer. He wrote this book on his deathbed.
+
+<hr>
+
 
 ## Tuesdays with Morrie - Mitch Albom
 <br>
