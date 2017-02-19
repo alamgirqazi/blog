@@ -6,10 +6,11 @@ permalink: ThinkAndGrowRich
 
 ![Think and Grow Rich - Napoleon Hill](public/Think and Grow Rich - Napoleon Hill.jpg "Think and Grow Rich - Napoleon Hill")
 
-### Rating 9.5/10
+**Rating 9.5/10**
 
 ### A Sensational book. They really mean it when they say it's one of the best Self-help book out there.
 
+<br>
 
 #### Reading Notes:
 
@@ -24,7 +25,7 @@ There is one quality which one must possess to win, and that is DEFINITENESS OF 
 
 There is a difference between WISHING for a thing and being READY to receive it. No one is ready for a thing, until he believes he can acquire it. The state of mind must be BELIEF, not mere hope or wish.
 
-> "Our only limitations are those we set up in our own minds"
+> "Our only limitations are those we set up in our own minds."
 
 One may develop faith by voluntarily suggesting to the subconscious mind that one has faith.
 
@@ -36,7 +37,7 @@ Every man is what he is, because of the DOMINATING THOUGHTS which he permits to 
 
  We are what we are, because of the vibrations of thought which we pick up and register, through the stimuli of our daily environment.
 
-“THERE ARE NO LIMITATIONS TO THE MIND EXCEPT THOSE WE ACKNOWLEDGE”
+“THERE ARE NO LIMITATIONS TO THE MIND EXCEPT THOSE WE ACKNOWLEDGE.”
 
 The world has the habit of making room for the man whose words and actions show that he knows where he is going.
 
