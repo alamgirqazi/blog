@@ -6,10 +6,11 @@ permalink: MarkManson
 
 ![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a Fu*k - Mark Manson")
 
-### rating (9.5/10)
+**rating (9.5/10)**
 
 ### A really phenomenal book. I've listened to a few of Mark Manson's podcasts and videos and read some of this articles and this guy is good. Like really, really good.
 
+<br>
 
 #### Reading Notes:
 
@@ -24,10 +25,9 @@ a lot of shit, trust me), you become invincible in a sort of low-level spiritual
 We suffer for the simple reason that suffering is biologically useful. It is nature’s preferred agent
 for inspiring change. We have evolved to always live with a certain degree of dissatisfaction and
 insecurity, because it’s the mildly dissatisfied and insecure creature that’s going to do the most work
-to innovate and survive
+to innovate and survive.
 
-Pain is what teaches us what to pay attention to when
-we’re young or careless. It helps show us what’s good for us versus what’s bad for us. It helps us
+Pain is what teaches us what to pay attention to when we’re young or careless. It helps show us what’s good for us versus what’s bad for us. It helps us
 understand and adhere to our own limitations.
 
 True happiness occurs only when you find the problems you enjoy having and enjoy solving.
@@ -122,7 +122,7 @@ comes from. To simply blame others is only to hurt yourself.
 > we don’t know how
 attractive we are; we don’t know how successful we could potentially become. The only way to
 achieve these things is to remain uncertain of them and be open to finding them out through
-experience
+experience.
 
 Manson’s law of avoidance on them:
 The more something threatens your identity, the more you will avoid it.
@@ -210,7 +210,7 @@ better things to give a fuck about.
 
 > Ultimately, the only way to achieve meaning and a sense of importance in one’s
 life is through a rejection of alternatives, a narrowing of freedom, a choice of commitment to one
-place, one belief, or (gulp) one person
+place, one belief, or (gulp) one person.
 
 > To truly appreciate something, you must confine yourself to it. There’s a certain level of joy and
 meaning that you reach in life only when you’ve spent decades investing in a single relationship, a
