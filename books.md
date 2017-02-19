@@ -191,6 +191,62 @@ A very riveting concept on how some things get so ubiquotous and some don't.
 <br>
 ![Good to Great - Jim Collins](public/Good to Great - Jim Collins.jpg "Good to Great - Jim Collins")
 
+currently reading
+
+Rating (coming soon)
+
+<br>
+
+## Meditations - Marcus Aurelius
+<br>
+![Meditations - Marcus Aurelius](public/meditations - marcus aurelius.jpg "Meditations - Marcus Aurelius")
+
+currently reading
+
+Rating (coming soon)
+
+<br>
+
+## Muhammad - Karen Armstrong
+<br>
+![Muhammad - Karen Armstrong](public/Muhammad - Karen Armstrong.jpg "Muhammad - Karen Armstrong")
+
+currently reading
+
+Rating (coming soon)
+
+<br>
+
+## So Good They Can't Ignore You - Cal Newport
+<br>
+![So Good They Can't Ignore You - Cal Newport](public/so good they can't ignore you - cal newport.jpg "So Good They Can't Ignore You - Cal Newport")
+
+currently reading
+
+Rating (coming soon)
+
+<br>
+
+## 4 Hour Work Week - Tim Ferriss
+<br>
+![4 Hour Work Week - Tim Ferriss](public/four hour work week - tim ferriss.jpg "4 Hour Work Week - Tim Ferriss")
+
+Rating (coming soon)
+
+<br>
+
+## Obstacle is the way - Ryan Holiday
+<br>
+![Obstacle is the way - Ryan Holiday](public/obstacle is the way - ryan holiday.jpg "Obstacle is the way - Ryan Holiday")
+
+Rating (coming soon)
+
+<br>
+
+## Personal Development for Smart People - Steve Pavlina
+<br>
+![Personal Development for Smart People - Steve Pavlina](public/personal development for smart people - steve pavlina.jpg "Personal Development for Smart People - Steve Pavlina")
+
 Rating (coming soon)
 
 <br>
