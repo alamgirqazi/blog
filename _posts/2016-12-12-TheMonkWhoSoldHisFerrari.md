@@ -6,12 +6,14 @@ permalink: TheMonkWhoSoldHisFerrari
 
 ![The Monk Who Sold His Ferrari - Robin Sharma](public/The Monk Who Sold His Ferrari - Robin Sharma.jpg "The Monk Who Sold His Ferrari - Robin Sharma")
 
-### rating (10/10)
+**rating (10/10)**
 
 ### Astonishing. Stupendous. Remarkable. This book will really blow your mind.
 
+<br>
 
 #### Reading Notes:
+
 
 Self Mastery and the consistent care of one’s mind, body and soul are essential to finding one’s highest self and living the life of one’s dreams.
 How can you do good if you don’t even feel good? I can’t love you if I cannot love myself.
@@ -34,7 +36,7 @@ Then less you focus on the end result, the quicker it will come.
 
 With one eye fixed on the destination, there is only one left to guide you along the journey.
 
-> The secret of happiness is simple, “find out what you truly love to do and then direct all of your energy towards doing it.
+> The secret of happiness is simple, “find out what you truly love to do and then direct all of your energy towards doing it."
 
 Worry causes your precious mental energy and potential to leak, just like air leaking out of an inner tube. Soon, you have no energy left. All of your creativity, optimism and motivation has been drained, leaving you exhausted.
 
