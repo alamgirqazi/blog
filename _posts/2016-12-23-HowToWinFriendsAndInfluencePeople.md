@@ -6,12 +6,15 @@ permalink: HowToWinFriendsandInfluencePeople
 
 ![How To Win Friends and Influence People - Dale Carnegie](public/How to Win Friends and Influence People.jpg "How To Win Friends and Influence People - Dale Carnegie")
 
-### rating (10/10)
+**rating (10/10)**
 
 ### This book is a top 5 favourite of most of my mentors and now I know why. A breathtaking and a magnificient read. Everything about this book is perfect.
 
-#### Reading Notes:
 
+<br>
+
+
+#### Reading Notes:
 
 Criticism is futile. Because it puts a person on the defensive and usually makes him strive to justify himself. Criticism is dangerous, because it wounds a person’s precious pride, hurts his sense of importance and arouses resentment. 
  
@@ -19,7 +22,7 @@ When dealing with people, let us remember we are not dealing with creatures of l
 
 Principle: Don’t criticize, condemn or complain. 
 
-Dr. Dewey one of America’s most profound philosopher said that the deepest urge in human nature is "the desire to be important" 
+Dr. Dewey one of America’s most profound philosopher said that the deepest urge in human nature is "the desire to be important". 
 
 William James said, “The deepest principle in human nature is the craving to be appreciated”. 
 
@@ -33,7 +36,7 @@ Why do people go insane? People who go insane find in insanity a feeling of impo
 
 There is nothing else that so kills the ambitions of a person as criticism from superiors.
 
-Principle: Give honest and sincere appreciation
+Principle: Give honest and sincere appreciation.
 
 “If there is any one secret of success, “ said Henry Ford, “It lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own.”
 
