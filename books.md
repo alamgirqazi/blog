@@ -102,8 +102,19 @@ Paul Kalanithi graduated in 2000 with a B.A. and M.A. in English Literature from
 <hr>
 
 
+
+## Meditations - Marcus Aurelius
+<br>
+![Meditations - Marcus Aurelius](public/meditations - marcus aurelius.jpg "Meditations - Marcus Aurelius")
+
+
+**Rating 9/10** 
+
+<br>
+
 ## Tuesdays with Morrie - Mitch Albom
 <br>
+
 ![Tuesdays with Morrie - Mitch Albom](public/Tuesdays with Morrie - Mitch Albom.jpg "Tuesdays with Morrie - Mitch Albom")
 
 **Rating 9/10** 
@@ -147,7 +158,7 @@ Amazeballs. Damn Sidney Sheldon knows how to tell a story. This novel made me fa
 
 <br>
 
-Very Fascinating and absorbing research. Emotional Intelligence is indeed extremely essential.
+Very Fascinating and absorbing research. Emotional Intelligence is indeed extremely essential. See my reading-notes [Emotional Intelligence - Daniel Goleman](https://alamgirqazi.github.io/blog/Emotionalintelligence)
 <hr>
 
 ## Rich Dad Poor Dad - Robert Kiyosaki
@@ -197,15 +208,7 @@ Rating (coming soon)
 
 <br>
 
-## Meditations - Marcus Aurelius
-<br>
-![Meditations - Marcus Aurelius](public/meditations - marcus aurelius.jpg "Meditations - Marcus Aurelius")
 
-currently reading
-
-Rating (coming soon)
-
-<br>
 
 ## Muhammad - Karen Armstrong
 <br>
