@@ -110,8 +110,11 @@ Paul Kalanithi graduated in 2000 with a B.A. and M.A. in English Literature from
 
 **Rating 9/10** 
 
-<br>
+Marcus Aurelius was the Roman emperor and probably the most powerful man of his time. This book is basically a collection of his journals which he wrote to himself and wasn't meant to be published. 
+See my reading-notes [Meditations - Marcus Aurelius](https://alamgirqazi.github.io/blog/meditations)
 
+<br>
+<hr>
 ## Tuesdays with Morrie - Mitch Albom
 <br>
 
