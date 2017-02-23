@@ -95,7 +95,7 @@ One of the gifts of maturity is to realize that happiness is bigger, broader and
 
 <p class="message">
 
-The easiest way to fail, is to try pleasing everyone."
+"The easiest way to fail, is to try pleasing everyone."
 </p>
 
 <br>
