@@ -59,6 +59,9 @@ Sometimes its not the what you learn from the journey, its the epiphany of learn
 
 <br>
 
+<p class="center">  <strong>11 - 20</strong></p>
+<br>
+
 <p class="message">
 The purpose of goal-setting isn't to control the future. The point of goal-setting is to improve the quality of the present. 
 </p>
@@ -113,4 +116,72 @@ The easiest way to fail, is to try pleasing everyone."
 
 
 <br>
+<p class="center">  <strong>21 - 30</strong></p>
+
+
+<br>
+
+<p class="message">
+
+The learning of life is about what to avoid.
+~ Nassem Taleb
+</p>
+
+<br>
+
+> Mentoring is your true legacy. It is the greatest inheritance you can give to others. And it should never end. It is why you get up every day. To teach and be taught.
+~ John Wooden
+
+<br>
+
+<p class="message">
+
+“Immature artists imitate. Mature artists steal.”
+~ Lionel Trilling
+</p>
+
+<br>
+
+> We are defined by what we choose to reject. And if we reject nothing (perhaps in fear of being rejected by something ourselves), we essentially have no identity at all.
+
+<br>
+
+<p class="message">
+
+"If you've found meaning in your life, you don't want to go back. you want to go forward. You want to see more, do more."
+</p>
+
+<br>
+
+> “The day you graduate from childhood to adulthood is the day you take full responsibility for your life.”
+~ Jim Rohn
+
+<br>
+
+<p class="message">
+
+ “Many persons call a doctor when all they want is an audience.”</p>
+
+<br>
+
+>Because most of what we say and do is not essential. If you can eliminate it, you’ll have more time, and more tranquility. Ask yourself at every moment, “Is this necessary?”
+~ Marcus Aurelius
+
+<br>
+
+<p class="message">
+the great failing is “to see yourself as more than you are and to value yourself at less than your true worth.”
+ ~ Johann Wolfgang von Goethe
+ </p>
+
+<br>
+
+> Change the definition of success. “Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to do your best to become the best that you are capable of becoming.”
+~ John Wooden
+
+<br>
+
+
+
+
 <hr>

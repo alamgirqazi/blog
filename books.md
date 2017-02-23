@@ -40,7 +40,7 @@ Astonishing. Stupendous. Remarkable. This book will really blow your mind. See m
 <br>
 
 
-A really phenomenal book. I've listened to a few of Mark Manson's podcasts and videos and read some of this articles and this guy is good. Like really, really good. 
+A really phenomenal book. I've listened to a few of Mark Manson's podcasts and videos and read some of this articles and this guy is good. Like really good. 
 See my reading-notes [The Subtle Art of Not Giving a F*ck - Mark Manson](https://alamgirqazi.github.io/blog/MarkManson)
 
 <hr>

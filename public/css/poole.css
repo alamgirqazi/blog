@@ -243,6 +243,12 @@ tbody tr:nth-child(odd) th {
  * or to a parent if there are multiple elements to show.
  */
 
+.center
+{
+  text-align: center;
+font-size: 22px;
+}
+
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
