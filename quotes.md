@@ -28,7 +28,7 @@ We live on an island surrounded by a sea of ignorance. As our island of knowledg
 <br>
 
 <p class="message">
-“He who asks a question is a fool for five minutes; he who does not ask a question remains a fool forever”</p>
+People who study others are wise but those who study themselves are enlightened.
 
 <br>
 >people will forget what you said, people will forget what you did, but people will never forget how you made them feel.
@@ -182,6 +182,59 @@ the great failing is “to see yourself as more than you are and to value yourse
 <br>
 
 
+<p class="center">  <strong>31 - 40</strong></p>
 
+<br>
+
+<p class="message">
+It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.
+~ Marcus Aurelius</p>
+
+<br>
+
+> don’t be special; don’t be unique. Redefine your metrics in mundane and broad ways. Choose to measure yourself not as a rising star or an undiscovered genius. Choose to measure yourself not as some horrible victim or dismal failure. Instead, measure yourself by more mundane identities: a student, a partner, a friend, a creator.
+~ Mark Manson
+<br>
+
+<p class="message">
+“People learn from their failures. Seldom do they learn anything from success.”
+~ Harold Geneen</p>
+
+<br>
+
+> “The deepest principle in human nature is the craving to be appreciated”.
+~ William James 
+<br>
+
+<p class="message">
+“People who can put themselves in the place of other people, who can understand the workings of their minds, need never worry about what the future has in store for them.”
+~ Owen D. Young</p>
+
+<br>
+
+>  “Sympathy the human species universally craves. The child eagerly displays his injury; or even inflicts a cut or bruise in order to reap abundant sympathy.”
+~ Dr. Arthur I. Gates
+<br>
+
+
+<p class="message">
+‘No man is free who is not a master of himself’.
+~ Epictetus</p>
+
+<br>
+
+>  Pain is often the precursor to personal growth. Don’t dread it. Instead, embrace it.
+
+<br>
+
+<p class="message">
+‘Happiness comes through good judgement, good judgement comes through experience, and experience comes through bad judgement.’
+</p>
+
+<br>
+
+>  The only thing you can take with you at the end of your life is your conscience. Listen to your conscience. Let it guide you. It knows what is right. It will tell you that your calling in life is ultimately selfless service to others in some form or another.
+
+<br>
 
 <hr>
