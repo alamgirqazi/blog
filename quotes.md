@@ -28,10 +28,10 @@ We live on an island surrounded by a sea of ignorance. As our island of knowledg
 <br>
 
 <p class="message">
-People who study others are wise but those who study themselves are enlightened.
+People who study others are wise but those who study themselves are enlightened. </p>
 
 <br>
->people will forget what you said, people will forget what you did, but people will never forget how you made them feel.
+> people will forget what you said, people will forget what you did, but people will never forget how you made them feel.
 ~ Maya Angelou
 
 <br>
@@ -60,6 +60,7 @@ Sometimes its not the what you learn from the journey, its the epiphany of learn
 <br>
 
 <p class="center">  <strong>11 - 20</strong></p>
+
 <br>
 
 <p class="message">
@@ -80,6 +81,7 @@ Self-awareness is like an onion, there are always more deeper layers to peel bac
 <br>
 
 > If you want to live happy, live hidden.    
+
 <br>
 
 <p class="message">
@@ -102,6 +104,7 @@ One of the gifts of maturity is to realize that happiness is bigger, broader and
 
 > "The true voyage of discovery, the only fountain of Eternal Youth, would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another"
 ~ Marcel Proust   
+
 <br>
 
 <p class="message">
@@ -116,6 +119,7 @@ One of the gifts of maturity is to realize that happiness is bigger, broader and
 
 
 <br>
+
 <p class="center">  <strong>21 - 30</strong></p>
 
 
@@ -164,7 +168,7 @@ The learning of life is about what to avoid.
 
 <br>
 
->Because most of what we say and do is not essential. If you can eliminate it, you’ll have more time, and more tranquility. Ask yourself at every moment, “Is this necessary?”
+> Because most of what we say and do is not essential. If you can eliminate it, you’ll have more time, and more tranquility. Ask yourself at every moment, “Is this necessary?”
 ~ Marcus Aurelius
 
 <br>
@@ -194,6 +198,7 @@ It never ceases to amaze me: we all love ourselves more than other people, but c
 
 > don’t be special; don’t be unique. Redefine your metrics in mundane and broad ways. Choose to measure yourself not as a rising star or an undiscovered genius. Choose to measure yourself not as some horrible victim or dismal failure. Instead, measure yourself by more mundane identities: a student, a partner, a friend, a creator.
 ~ Mark Manson
+
 <br>
 
 <p class="message">
@@ -204,6 +209,7 @@ It never ceases to amaze me: we all love ourselves more than other people, but c
 
 > “The deepest principle in human nature is the craving to be appreciated”.
 ~ William James 
+
 <br>
 
 <p class="message">
@@ -214,6 +220,7 @@ It never ceases to amaze me: we all love ourselves more than other people, but c
 
 >  “Sympathy the human species universally craves. The child eagerly displays his injury; or even inflicts a cut or bruise in order to reap abundant sympathy.”
 ~ Dr. Arthur I. Gates
+
 <br>
 
 
@@ -223,7 +230,7 @@ It never ceases to amaze me: we all love ourselves more than other people, but c
 
 <br>
 
->  Pain is often the precursor to personal growth. Don’t dread it. Instead, embrace it.
+> Pain is often the precursor to personal growth. Don’t dread it. Instead, embrace it.
 
 <br>
 
@@ -233,7 +240,7 @@ It never ceases to amaze me: we all love ourselves more than other people, but c
 
 <br>
 
->  The only thing you can take with you at the end of your life is your conscience. Listen to your conscience. Let it guide you. It knows what is right. It will tell you that your calling in life is ultimately selfless service to others in some form or another.
+> The only thing you can take with you at the end of your life is your conscience. Listen to your conscience. Let it guide you. It knows what is right. It will tell you that your calling in life is ultimately selfless service to others in some form or another.
 
 <br>
 
