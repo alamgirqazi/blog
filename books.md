@@ -35,7 +35,7 @@ Astonishing. Stupendous. Remarkable. This book will really blow your mind. See m
 
 ![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a F*ck - Mark Manson")
 
-**Rating 9.5/10** 
+**Rating 10/10** 
 
 <br>
 
@@ -115,8 +115,21 @@ See my reading-notes [Meditations - Marcus Aurelius](https://alamgirqazi.github.
 
 <br>
 <hr>
-## Tuesdays with Morrie - Mitch Albom
+## Man's Search for Meaning - Viktor Frankl
 <br>
+
+![Man's Search for Meaning - Viktor Frankl](public/man's search for meaning - viktor frankl.jpg "Man's Search for Meaning - Viktor Frankl")
+
+**Rating 9/10** 
+
+<br>
+
+Viktor Frankl is a surviver of Nazi's concentration camp during the 2nd World War. This book he wrote on his time at the camp and how he found meaning in his life during all the suffering.
+
+See my reading-notes [Man's Search for Meaning - Viktor Frankl](https://alamgirqazi.github.io/blog/MansSearchForMeaning)
+
+<br>
+<hr>
 
 ![Tuesdays with Morrie - Mitch Albom](public/Tuesdays with Morrie - Mitch Albom.jpg "Tuesdays with Morrie - Mitch Albom")
 
@@ -125,6 +138,7 @@ See my reading-notes [Meditations - Marcus Aurelius](https://alamgirqazi.github.
 <br>
 
 A very soul-stirring and poignant book for me.
+
 
 <hr>
 
@@ -148,7 +162,7 @@ A really fascinating story of Santiago who went out to search for hidden treasur
 
 <br>
 
-Amazeballs. Damn Sidney Sheldon knows how to tell a story. This novel made me fall in love with Fiction.
+Amazeballs. Sidney Sheldon knows how to tell a story. This novel made me fall in love with Fiction.
 
 <hr>
 ### Emotional Intelligence - Daniel Goleman

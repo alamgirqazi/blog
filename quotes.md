@@ -48,8 +48,8 @@ Sometimes its not the what you learn from the journey, its the epiphany of learn
 <br>
 
 <p class="message">
-"Anyone who isn't embarrassed of who they were last year probably isnt learning enough."
-~ Alai de Botton 
+"The only questions that really matter are the ones you ask yourself"
+Ursula K. Le Guin 
 </p>
 
 <br>
