@@ -64,8 +64,7 @@ Ursula K. Le Guin
 <br>
 
 <p class="message">
-The purpose of goal-setting isn't to control the future. The point of goal-setting is to improve the quality of the present. 
-</p>
+“When you are content to be simply yourself and don't compare or compete, everyone will respect you.” - Lao Tzu  </p>
 
 <br>
 
@@ -140,8 +139,7 @@ The learning of life is about what to avoid.
 
 <p class="message">
 
-“Immature artists imitate. Mature artists steal.”
-~ Lionel Trilling
+Stop Lying - Every time you tell someone a lie, you are telling yourself that they are more important than you. You are telling them that who you are isn't enough for them.
 </p>
 
 <br>

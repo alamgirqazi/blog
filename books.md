@@ -131,6 +131,20 @@ See my reading-notes [Man's Search for Meaning - Viktor Frankl](https://alamgirq
 <br>
 <hr>
 
+## Love Yourself Like Your Life Depends On It - Kamil Ravikant
+<br>
+![Love Yourself Like Your Life Depends On It - Kamil Ravikant](public/love yourself like your life depends on it.jpg "Love Yourself Like Your Life Depends On It - Kamil Ravikant")
+
+**Rating 9/10** 
+
+<br>
+
+An incredibly short read but still a fantastic book. The basic idea is that you repeat "I love myself" over and over in your head as a mantra.  
+See my reading-notes [Love Yourself Like Your Life Depends On It - Kamil Ravikant](https://alamgirqazi.github.io/blog/kamalravikant)
+
+<br>
+<hr>
+
 ![Tuesdays with Morrie - Mitch Albom](public/Tuesdays with Morrie - Mitch Albom.jpg "Tuesdays with Morrie - Mitch Albom")
 
 **Rating 9/10** 

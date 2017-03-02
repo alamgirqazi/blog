@@ -22,7 +22,7 @@ There is a scene in Arthur Miller’s play Incident at Vichy in which an upper-m
 
 Don’t aim at success—the more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side-effect of one’s dedication to a cause greater than oneself or as the by-product of one’s surrender to a person other than oneself. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it.
 
-The truth—that love is the ultimate and the highest goal to which man can aspire. Then I grasped the meaning of the greatest secret that human poetry and human thought and belief have to impart: The salvation of man is through love and in love.
+> The truth—that love is the ultimate and the highest goal to which man can aspire. Then I grasped the meaning of the greatest secret that human poetry and human thought and belief have to impart: The salvation of man is through love and in love.
 
 They may have been few in number, but they are sufficient proof that everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.
 
@@ -30,11 +30,11 @@ Dostoevski said once, “There is only one thing that I dread: not to be worthy 
 
 The way in which a man accepts his fate and all the suffering it entails, the way in which he takes up his cross, gives him ample opportunity—even under the most difficult circumstances—to add a deeper meaning to his life.
 
-People forgot that often it is just such an exceptionally difficult external situation which gives man the opportunity to grow spiritually beyond himself.
+> People forgot that often it is just such an exceptionally difficult external situation which gives man the opportunity to grow spiritually beyond himself.
 
 Words of Bismarck could be applied: “Life is like being at the dentist. You always think that the worst is still to come, and yet it is over already.”
 
-A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits for him, or to an unfinished work, will never be able to throw away his life. He knows the “why” for his existence, and will be able to bear almost any “how.”
+> A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits for him, or to an unfinished work, will never be able to throw away his life. He knows the “why” for his existence, and will be able to bear almost any “how.”
 
 Psychologically, what was happening to the liberated prisoners could be called “depersonalization.” Everything appeared unreal, unlikely, as in a dream. We could not believe it was true.
 
@@ -46,13 +46,13 @@ In logotherapy the patient is actually confronted with and reoriented toward the
 
 There is nothing in the world, I venture to say, that would so effectively help one to survive even the worst conditions as the knowledge that there is a meaning in one’s life.
 
-Or the meaning of life differs from man to man, from day to day and from hour to hour. What matters, therefore, is not the meaning of life in general but rather the specific meaning of a person’s life at a given moment.
+> Or the meaning of life differs from man to man, from day to day and from hour to hour. What matters, therefore, is not the meaning of life in general but rather the specific meaning of a person’s life at a given moment.
 
 “Live as if you were living already for the second time and as if you had acted the first time as wrongly as you are about to act now!”
 
 The true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system.
 
-The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself. What is called self-actualization is not an attainable aim at all, for the simple reason that the more one would strive for it, the more he would miss it. In other words, self-actualization is possible only as a side-effect of self- transcendence.
+> The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself. What is called self-actualization is not an attainable aim at all, for the simple reason that the more one would strive for it, the more he would miss it. In other words, self-actualization is possible only as a side-effect of self- transcendence.
 
 According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.
 
@@ -60,11 +60,11 @@ Once, an elderly general practitioner consulted me because of his severe depress
 
 “It is we ourselves who must answer the questions that life asks of us, and to these questions we can respond only by being responsible for our existence.”
 
-To achieve personal meaning, he says, one must transcend subjective pleasures by doing something that “points, and is directed, to something, or someone, other than oneself … by giving himself to a cause to serve or another person to love.” Frankl himself chose to focus on his parents by staying in Vienna when he could have had safe passage to America. While he was in the same concentration camp as his father, Frankl managed to obtain morphine to ease his father’s pain and stayed by his side during his dying days.
+> To achieve personal meaning, he says, one must transcend subjective pleasures by doing something that “points, and is directed, to something, or someone, other than oneself … by giving himself to a cause to serve or another person to love.” Frankl himself chose to focus on his parents by staying in Vienna when he could have had safe passage to America. While he was in the same concentration camp as his father, Frankl managed to obtain morphine to ease his father’s pain and stayed by his side during his dying days.
 
 In Man’s Search for Meaning, he hastens to add that suffering is not necessary to find meaning, only that “meaning is possible in spite of suffering.”
 
-It is a question of the attitude one takes toward life’s challenges and opportunities, both large and small. A positive attitude enables a person to endure suffering and disappointment as well as enhance enjoyment and satisfaction. A negative attitude intensifies pain and deepens disappointments; it undermines and diminishes pleasure, happiness, and satisfaction; it may even lead to depression or physical illness.
+> It is a question of the attitude one takes toward life’s challenges and opportunities, both large and small. A positive attitude enables a person to endure suffering and disappointment as well as enhance enjoyment and satisfaction. A negative attitude intensifies pain and deepens disappointments; it undermines and diminishes pleasure, happiness, and satisfaction; it may even lead to depression or physical illness.
 
 Frankl was once asked to express in one sentence the meaning of his own life. He wrote the response on paper and asked his students to guess what he had written. After some moments of quiet reflection, a student surprised Frankl by saying, “The meaning of your life is to help others find the meaning of theirs.”
 “That was it, exactly,” Frankl said. “Those are the very words I had written.”
