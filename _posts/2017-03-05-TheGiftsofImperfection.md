@@ -99,7 +99,7 @@ Choosing authenticity means
 
 The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself.
 — ANNA QUINDLEN
-
+ 
 
 Perfectionism is not the same thing as striving to be your best. Perfectionism is not about healthy achievement and growth. Perfectionism is the belief that if we live perfect, look perfect, and act perfect, we can minimize or avoid the pain of blame, judgment, and shame.
 

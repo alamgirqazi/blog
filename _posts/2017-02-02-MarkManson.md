@@ -6,7 +6,7 @@ permalink: MarkManson
 
 ![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a Fu*k - Mark Manson")
 
-**rating (9.5/10)**
+**rating (10/10)**
 
 ### A really phenomenal book. I've listened to a few of Mark Manson's podcasts and videos and read some of this articles and this guy is good. Like really, really good.
 

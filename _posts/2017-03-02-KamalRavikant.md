@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Love Yourself Like Your Life Depends On It - Kamil Ravikant
+title: Love Yourself Like Your Life Depends On It - Kamal Ravikant
 permalink: kamalravikant
 ---
 
-![Love Yourself Like Your Life Depends On It - Kamil Ravikant](public/love yourself like your life depends on it.jpg "Love Yourself Like Your Life Depends On It - Kamil Ravikant")
+![Love Yourself Like Your Life Depends On It - Kamal Ravikant](public/love yourself like your life depends on it.jpg "Love Yourself Like Your Life Depends On It - Kamal Ravikant")
 
 
 **Rating 9/10** 
