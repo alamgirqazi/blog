@@ -45,6 +45,20 @@ See my reading-notes [The Subtle Art of Not Giving a F*ck - Mark Manson](https:/
 
 <hr>
 
+## The Gifts of Imperfection - Brene Brown
+<br>
+
+![The Gifts of Imperfection - Brene Brown](public/the gifts of imperfection.jpg "The Gifts of Imperfection - Brene Brown")
+
+
+**Rating 10/10** 
+
+<br>
+
+What a splendid and mindblowing book. Superb research by Brene Brown on how we can cultivate more in life by showing courage, compassion and cultivating connection. See my reading-notes [The Gifts of Imperfection - Brene Brown](https://alamgirqazi.github.io/blog/TheGiftsofImperfection)
+
+<hr>
+
 ## The Compound Effect - Darren Hardy
 
 <br>
