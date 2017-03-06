@@ -27,7 +27,7 @@ I now see that cultivating a Wholehearted life is not like trying to reach a des
 
 When we’re looking for compassion, we need someone who is deeply rooted, able to bend, and, most of all, we need someone who embraces us for our strengths and struggles. We need to honor our struggle by sharing it with someone who has earned the right to hear it. When we’re looking for compassion, it’s about connecting with the right person at the right time about the right issue.
 
-the Wholehearted journey. To top it off, my willingness to let someone I care about see me as imperfect led to a strengthening of our relationship that continues today—that’s why I can call courage, compassion, and connection the gifts of imperfection.
+To top it off, my willingness to let someone I care about see me as imperfect led to a strengthening of our relationship that continues today—that’s why I can call courage, compassion, and connection the gifts of imperfection.
 
 Courage originally meant “To speak one’s mind by telling all one’s heart.” Over time, this definition has changed, and, today, courage is more synonymous with being heroic. Heroics is important and we certainly need heroes, but I think we’ve lost touch with the idea that speaking honestly and openly about who we are, about what we’re feeling, and about our experiences (good and bad) is the definition of courage. Heroics is often about putting our life on the line. Ordinary courage is about putting our vulnerability on the line. In today’s world, that’s pretty extraordinary.
 
