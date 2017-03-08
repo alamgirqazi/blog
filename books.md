@@ -159,6 +159,9 @@ See my reading-notes [Love Yourself Like Your Life Depends On It - Kamil Ravikan
 <br>
 <hr>
 
+## Tuesdays with Morrie - Mitch Albom
+<br>
+
 ![Tuesdays with Morrie - Mitch Albom](public/Tuesdays with Morrie - Mitch Albom.jpg "Tuesdays with Morrie - Mitch Albom")
 
 **Rating 9/10** 
