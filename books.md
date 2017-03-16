@@ -246,19 +246,19 @@ A very riveting concept on how some things get so ubiquotous and some don't.
 
 <hr>
 
+
 ## Good to Great - Jim Collins
 <br>
 ![Good to Great - Jim Collins](public/Good to Great - Jim Collins.jpg "Good to Great - Jim Collins")
 
-currently reading
+**Rating 8/10** 
 
-Rating (coming soon)
 
 <br>
 
+<hr>
 
-
-## Muhammad - Karen Armstrong
+<!--## Muhammad - Karen Armstrong
 <br>
 ![Muhammad - Karen Armstrong](public/Muhammad - Karen Armstrong.jpg "Muhammad - Karen Armstrong")
 
@@ -266,7 +266,21 @@ currently reading
 
 Rating (coming soon)
 
+<br>-->
+
+
+## Personal Development for Smart People - Steve Pavlina
 <br>
+![Personal Development for Smart People - Steve Pavlina](public/personal development for smart people - steve pavlina.jpg "Personal Development for Smart People - Steve Pavlina")
+
+currently reading
+
+Rating (coming soon)
+
+<br>
+
+<hr>
+
 
 ## So Good They Can't Ignore You - Cal Newport
 <br>
@@ -277,6 +291,19 @@ currently reading
 Rating (coming soon)
 
 <br>
+<hr>
+
+## Daring Greatly - Brene Brown
+<br>
+![Daring Greatly - Brene Brown](public/Daring Greatly - Brene Brown.jpg "Daring Greatly - Brene Brown")
+
+currently reading
+
+Rating (coming soon)
+
+<br>
+<hr>
+
 
 ## 4 Hour Work Week - Tim Ferriss
 <br>
@@ -285,6 +312,7 @@ Rating (coming soon)
 Rating (coming soon)
 
 <br>
+<hr>
 
 ## Obstacle is the way - Ryan Holiday
 <br>
@@ -293,15 +321,8 @@ Rating (coming soon)
 Rating (coming soon)
 
 <br>
-
-## Personal Development for Smart People - Steve Pavlina
-<br>
-![Personal Development for Smart People - Steve Pavlina](public/personal development for smart people - steve pavlina.jpg "Personal Development for Smart People - Steve Pavlina")
-
-Rating (coming soon)
-
-<br>
-
 <hr>
+
+
 
 
