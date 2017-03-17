@@ -264,8 +264,9 @@ A very riveting concept on how some things get so ubiquotous and some don't.
 
 **Rating 8/10** 
 
-
 <br>
+
+Jim Collins has done an outstanding research on how some companies transitioned from good to great while some stayed mediocre or regressed. 
 
 <hr>
 
