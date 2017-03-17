@@ -116,6 +116,17 @@ Paul Kalanithi graduated in 2000 with a B.A. and M.A. in English Literature from
 <hr>
 
 
+## Personal Development for Smart People - Steve Pavlina
+<br>
+![Personal Development for Smart People - Steve Pavlina](public/personal development for smart people - steve pavlina.jpg "Personal Development for Smart People - Steve Pavlina")
+
+**Rating 9/10** 
+
+Plenty of insight in this book. Steve Pavlina is one of the most famous bloggers on Personal Development. This book is pretty much covers all areas of personal development. See my reading-notes [Personal Development for Smart People - Steve Pavlina](https://alamgirqazi.github.io/blog/PersonalDevelopmentForSmartPeople)
+
+<br>
+
+<hr>
 
 ## Meditations - Marcus Aurelius
 <br>
@@ -269,17 +280,6 @@ Rating (coming soon)
 <br>-->
 
 
-## Personal Development for Smart People - Steve Pavlina
-<br>
-![Personal Development for Smart People - Steve Pavlina](public/personal development for smart people - steve pavlina.jpg "Personal Development for Smart People - Steve Pavlina")
-
-currently reading
-
-Rating (coming soon)
-
-<br>
-
-<hr>
 
 
 ## So Good They Can't Ignore You - Cal Newport
