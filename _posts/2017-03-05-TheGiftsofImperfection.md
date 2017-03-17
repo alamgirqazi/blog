@@ -81,8 +81,6 @@ Shame is about who we are, and guilt is about our behaviors.
 
 > Our stories are not meant for everyone. Hearing them is a privilege, and we should always ask ourselves this before we share: “Who has earned the right to hear my story?” If we have one or two people in our lives who can sit with us and hold space for our shame stories, and love us for our strengths and struggles, we are incredibly lucky.
 
-If we have one or two people in our lives who can sit with us and hold space for our shame stories, and love us for our strengths and struggles, we are incredibly lucky.
-
 > Often people attempt to live their lives backwards: they try to have more things, or more money, in order to do more of what they want so that they will be happier. The way it actually works is the reverse. You must first be who you really are, then do what you really need to do, in order to have what you want. — Margaret Young
 
 Authenticity is a collection of choices that we have to make every day. It’s about the choice to show up and be real. The choice to be honest. The choice to let our true selves be seen.
@@ -120,7 +118,7 @@ Perfectionism is addictive because when we invariably do experience shame, judgm
 
 Entitlement is “I deserve this just because I want it” and agency is “I know I can do this.”
 
-Elisabeth Kübler-Ross: “People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in, their beauty is revealed only if there is a light from within.”
+> Elisabeth Kübler-Ross: “People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in, their beauty is revealed only if there is a light from within.”
 
 
 Joy seems to me a step beyond happiness. Happiness is a sort of atmosphere you can live in sometimes when you’re lucky. Joy is a light that fills you with hope and faith and love.
