@@ -29,6 +29,16 @@ permalink: books
 Astonishing. Stupendous. Remarkable. This book will really blow your mind. See my reading-notes [The Monk Who Sold His Ferrari - Robin Sharma](https://alamgirqazi.github.io/blog/TheMonkWhoSoldHisFerrari)
 <hr>
 
+## Daring Greatly - Brene Brown
+<br>
+![Daring Greatly - Brene Brown](public/Daring Greatly - Brene Brown.jpg "Daring Greatly - Brene Brown")
+
+**Rating 10/10**   
+
+<br>
+
+Definitely a Life-changing book for me. Brene Brown has been an inspiration. Her two books (this one and "The Gifts of Imperfection") are definitely must read for everyone. Brene Brown talks about the problems that we face everyday and how we can overcome problems such as vulnerability and shame. See my reading-notes [Daring Greatly - Brene Brown](https://alamgirqazi.github.io/blog/DaringGreatly)
+<hr>
 
 ## The Subtle Art of Not Giving a F*ck - Mark Manson
 <br>
@@ -294,16 +304,6 @@ Rating (coming soon)
 <br>
 <hr>
 
-## Daring Greatly - Brene Brown
-<br>
-![Daring Greatly - Brene Brown](public/Daring Greatly - Brene Brown.jpg "Daring Greatly - Brene Brown")
-
-currently reading
-
-Rating (coming soon)
-
-<br>
-<hr>
 
 
 ## 4 Hour Work Week - Tim Ferriss
