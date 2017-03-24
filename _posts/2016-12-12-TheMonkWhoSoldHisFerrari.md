@@ -8,8 +8,6 @@ permalink: TheMonkWhoSoldHisFerrari
 
 **rating (10/10)**
 
-### Astonishing. Stupendous. Remarkable. This book will really blow your mind.
-
 <br>
 
 #### Reading Notes:

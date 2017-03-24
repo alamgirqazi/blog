@@ -8,8 +8,6 @@ permalink: ThinkAndGrowRich
 
 **Rating 9.5/10**
 
-### A Sensational book. They really mean it when they say it's one of the best Self-help book out there.
-
 <br>
 
 #### Reading Notes:

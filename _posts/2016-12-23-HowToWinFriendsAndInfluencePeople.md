@@ -8,9 +8,6 @@ permalink: HowToWinFriendsandInfluencePeople
 
 **rating (10/10)**
 
-### This book is a top 5 favourite of most of my mentors and now I know why. A breathtaking and a magnificient read. Everything about this book is perfect.
-
-
 <br>
 
 

@@ -8,8 +8,6 @@ permalink: MarkManson
 
 **rating (10/10)**
 
-### A really phenomenal book. I've listened to a few of Mark Manson's podcasts and videos and read some of this articles and this guy is good. Like really, really good.
-
 <br>
 
 #### Reading Notes:
