@@ -304,6 +304,28 @@ Rating (coming soon)
 <br>
 <hr>
 
+## Thinking, Fast and Slow - Daniel Kahneman
+<br>
+![Thinking, Fast and Slow - Daniel Kahneman](public/Thinking, Fast and Slow - Daniel Kahneman.jpg" Thinking, Fast and Slow - Daniel Kahneman")
+
+currently reading
+
+Rating (coming soon)
+
+<br>
+<hr>
+
+## The Kite Runner - Khaled Hosseini
+<br>
+![The Kite Runner - Khaled Hosseini](public/The Kite Runner - Khaled Hosseini.jpg "The Kite Runner - Khaled Hosseini")
+
+currently reading
+
+Rating (coming soon)
+
+<br>
+<hr>
+
 
 
 ## 4 Hour Work Week - Tim Ferriss
