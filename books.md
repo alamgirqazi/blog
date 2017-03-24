@@ -306,7 +306,7 @@ Rating (coming soon)
 
 ## Thinking, Fast and Slow - Daniel Kahneman
 <br>
-![Thinking, Fast and Slow - Daniel Kahneman](public/Thinking, Fast and Slow - Daniel Kahneman.jpg" Thinking, Fast and Slow - Daniel Kahneman")
+![Thinking, Fast and Slow - Daniel Kahneman](public/Thinking Fast and Slow - Daniel Kahneman.jpg " Thinking, Fast and Slow - Daniel Kahneman")
 
 currently reading
 
