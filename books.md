@@ -14,7 +14,7 @@ permalink: books
 **Rating 10/10**  
 <br>
 
- This book is a top 5 favourite of most of my mentors and now I know why. A breathtaking and a magnificient read. Everything about this book is perfect.
+ This book is a top 5 favourite of most of my mentors and now I know why. A breathtaking and a magnificient read. Everything about this book is pitch perfect.
  See my reading-notes [How to Win Friends and Infuence People - Dale Carnegie](https://alamgirqazi.github.io/blog/HowToWinFriendsandInfluencePeople)
 
 <hr>
@@ -50,7 +50,7 @@ Definitely a Life-changing book for me. Brene Brown has been an inspiration. Her
 <br>
 
 
-A really phenomenal book. I've listened to a few of Mark Manson's podcasts and videos and read some of this articles and this guy is good. Like really good. 
+A really phenomenal book. Mark Manson has packaged all the self-help in a very provocative read. 
 See my reading-notes [The Subtle Art of Not Giving a F*ck - Mark Manson](https://alamgirqazi.github.io/blog/MarkManson)
 
 <hr>
@@ -107,7 +107,7 @@ See my reading-notes [Think and Grow Rich - Napoleon Hill](https://alamgirqazi.g
 
 <br>
 
-Ryan Holiday is one of the best writers out there. I love his blogs and podcasts. He's the first person to introduce the stoic philosophy to me. This book from him is a masterpiece. Amazing insight on how to always stay humble and keep your ego in control. Ryan really is an inspiration for the new generation. 
+Ryan Holiday is one of the best writers out there. I love his blogs and podcasts. This book from him is a masterpiece. Amazing insight on how to always stay humble and keep your ego in control. Ryan really is an inspiration for the new generation. 
 See my reading-notes [Ego is the Enemy - Ryan Holiday](https://alamgirqazi.github.io/blog/EgoIsTheEnemy)
 
 <hr>
@@ -132,7 +132,7 @@ Paul Kalanithi graduated in 2000 with a B.A. and M.A. in English Literature from
 
 **Rating 9/10** 
 
-Plenty of insight in this book. Steve Pavlina is one of the most famous bloggers on Personal Development. This book is pretty much covers all areas of personal development. See my reading-notes [Personal Development for Smart People - Steve Pavlina](https://alamgirqazi.github.io/blog/PersonalDevelopmentForSmartPeople)
+Plenty of insight in this book. Steve Pavlina is one of the most famous bloggers on Personal Development. This book is pretty much covers all areas of personal development. It might seem a little lengthy and repititive at some stage but its still worth reading.  See my reading-notes [Personal Development for Smart People - Steve Pavlina](https://alamgirqazi.github.io/blog/PersonalDevelopmentForSmartPeople)
 
 <br>
 
@@ -145,7 +145,7 @@ Plenty of insight in this book. Steve Pavlina is one of the most famous bloggers
 
 **Rating 9/10** 
 
-Marcus Aurelius was the Roman emperor and probably the most powerful man of his time. This book is basically a collection of his journals which he wrote to himself and wasn't meant to be published. 
+Marcus Aurelius was the Roman emperor and probably the most powerful man of his time. This book is basically a collection of his journals which he wrote to himself and weren't meant to be published. 
 See my reading-notes [Meditations - Marcus Aurelius](https://alamgirqazi.github.io/blog/meditations)
 
 <br>
