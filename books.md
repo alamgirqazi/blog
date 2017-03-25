@@ -6,18 +6,17 @@ permalink: books
 
 <br>
 
-## How to Win Friends and Infuence People
+## Daring Greatly - Brene Brown
 <br>
-![How to Win Friends and Infuence People - Dale Carnegie](public/How to Win Friends and Influence People.jpg "How to Win Friends and Infuence People - Dale Carnegie")
+![Daring Greatly - Brene Brown](public/Daring Greatly - Brene Brown.jpg "Daring Greatly - Brene Brown")
 
+**Rating 10/10**   
 
-**Rating 10/10**  
 <br>
 
- This book is a top 5 favourite of most of my mentors and now I know why. A breathtaking and a magnificient read. Everything about this book is pitch perfect.
- See my reading-notes [How to Win Friends and Infuence People - Dale Carnegie](https://alamgirqazi.github.io/blog/HowToWinFriendsandInfluencePeople)
-
+Definitely a Life-changing book for me. Brene Brown has been an inspiration. Her two books (this one and "The Gifts of Imperfection") are definitely must read for everyone. Brene Brown talks about the problems that we face everyday and how we can overcome problems such as vulnerability and shame. See my reading-notes [Daring Greatly - Brene Brown](https://alamgirqazi.github.io/blog/DaringGreatly)
 <hr>
+
 
 ## The Monk Who Sold His Ferrari
 <br>
@@ -29,15 +28,17 @@ permalink: books
 Astonishing. Stupendous. Remarkable. This book will really blow your mind. See my reading-notes [The Monk Who Sold His Ferrari - Robin Sharma](https://alamgirqazi.github.io/blog/TheMonkWhoSoldHisFerrari)
 <hr>
 
-## Daring Greatly - Brene Brown
+## How to Win Friends and Infuence People
 <br>
-![Daring Greatly - Brene Brown](public/Daring Greatly - Brene Brown.jpg "Daring Greatly - Brene Brown")
+![How to Win Friends and Infuence People - Dale Carnegie](public/How to Win Friends and Influence People.jpg "How to Win Friends and Infuence People - Dale Carnegie")
 
-**Rating 10/10**   
 
+**Rating 10/10**  
 <br>
 
-Definitely a Life-changing book for me. Brene Brown has been an inspiration. Her two books (this one and "The Gifts of Imperfection") are definitely must read for everyone. Brene Brown talks about the problems that we face everyday and how we can overcome problems such as vulnerability and shame. See my reading-notes [Daring Greatly - Brene Brown](https://alamgirqazi.github.io/blog/DaringGreatly)
+ This book is a top 5 favourite of most of my mentors and now I know why. A breathtaking and a magnificient read. Everything about this book is pitch perfect.
+ See my reading-notes [How to Win Friends and Infuence People - Dale Carnegie](https://alamgirqazi.github.io/blog/HowToWinFriendsandInfluencePeople)
+
 <hr>
 
 ## The Subtle Art of Not Giving a F*ck - Mark Manson
@@ -291,19 +292,6 @@ Rating (coming soon)
 <br>-->
 
 
-
-
-## So Good They Can't Ignore You - Cal Newport
-<br>
-![So Good They Can't Ignore You - Cal Newport](public/so good they can't ignore you - cal newport.jpg "So Good They Can't Ignore You - Cal Newport")
-
-currently reading
-
-Rating (coming soon)
-
-<br>
-<hr>
-
 ## Thinking, Fast and Slow - Daniel Kahneman
 <br>
 ![Thinking, Fast and Slow - Daniel Kahneman](public/Thinking Fast and Slow - Daniel Kahneman.jpg " Thinking, Fast and Slow - Daniel Kahneman")
@@ -318,6 +306,17 @@ Rating (coming soon)
 ## The Kite Runner - Khaled Hosseini
 <br>
 ![The Kite Runner - Khaled Hosseini](public/The Kite Runner - Khaled Hosseini.jpg "The Kite Runner - Khaled Hosseini")
+
+currently reading
+
+Rating (coming soon)
+
+<br>
+<hr>
+
+## Tiny Beautiful Things - Cheryl Strayed
+<br>
+![Tiny Beautiful Things - Cheryl Strayed](public/tiny beautiful things - cheryl strayed.jpg "Tiny Beautiful Things - Cheryl Strayed")
 
 currently reading
 
@@ -346,6 +345,14 @@ Rating (coming soon)
 <br>
 <hr>
 
+## So Good They Can't Ignore You - Cal Newport
+<br>
+![So Good They Can't Ignore You - Cal Newport](public/so good they can't ignore you - cal newport.jpg "So Good They Can't Ignore You - Cal Newport")
+
+Rating (coming soon)
+
+<br>
+<hr>
 
 
 
