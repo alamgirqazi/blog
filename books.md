@@ -87,6 +87,18 @@ A very interesting self-help book. Darren Hardy says that we can make huge break
 
 <hr>
 
+## The Obstacle Is The Way - Ryan Holiday
+<br>
+![The Obstacle is the way - Ryan Holiday](public/obstacle is the way - ryan holiday.jpg "The Obstacle is the way - Ryan Holiday")
+
+**Rating 9.5/10** 
+
+<br>
+
+
+<hr>
+
+
 ## Think and Grow Rich - Napoleon Hill
 <br>
 ![Think and Grow Rich - Napoleon Hill](public/Think and Grow Rich - Napoleon Hill.jpg "Think and Grow Rich - Napoleon Hill")
@@ -336,14 +348,6 @@ Rating (coming soon)
 <br>
 <hr>
 
-## Obstacle is the way - Ryan Holiday
-<br>
-![Obstacle is the way - Ryan Holiday](public/obstacle is the way - ryan holiday.jpg "Obstacle is the way - Ryan Holiday")
-
-Rating (coming soon)
-
-<br>
-<hr>
 
 ## So Good They Can't Ignore You - Cal Newport
 <br>
