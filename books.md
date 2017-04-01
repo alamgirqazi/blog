@@ -95,7 +95,7 @@ A very interesting self-help book. Darren Hardy says that we can make huge break
 
 <br>
 
-
+Another gold mine book from Ryan Holiday. Fantastic read. Plenty of stoic philosophy in this book. I probably read this book at the perfect time because I really needed this. See my reading-notes [The Obstacle is the way - Ryan Holiday](https://alamgirqazi.github.io/blog/TheObstacleIsTheWay)
 <hr>
 
 
