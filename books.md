@@ -145,9 +145,11 @@ Paul Kalanithi graduated in 2000 with a B.A. and M.A. in English Literature from
 
 **Rating 9/10** 
 
+<br>
+
 Plenty of insight in this book. Steve Pavlina is one of the most famous bloggers on Personal Development. This book is pretty much covers all areas of personal development. It might seem a little lengthy and repititive at some stage but its still worth reading.  See my reading-notes [Personal Development for Smart People - Steve Pavlina](https://alamgirqazi.github.io/blog/PersonalDevelopmentForSmartPeople)
 
-<br>
+
 
 <hr>
 
@@ -158,11 +160,28 @@ Plenty of insight in this book. Steve Pavlina is one of the most famous bloggers
 
 **Rating 9/10** 
 
+<br>
+
 Marcus Aurelius was the Roman emperor and probably the most powerful man of his time. This book is basically a collection of his journals which he wrote to himself and weren't meant to be published. 
 See my reading-notes [Meditations - Marcus Aurelius](https://alamgirqazi.github.io/blog/meditations)
 
-<br>
 <hr>
+
+## So Good They Can't Ignore You - Cal Newport
+<br>
+![So Good They Can't Ignore You - Cal Newport](public/so good they can't ignore you - cal newport.jpg "So Good They Can't Ignore You - Cal Newport")
+
+**Rating 9/10** 
+
+<br>
+
+Cal Newport has a PhD in Computer Science from MIT and is a Professor at GeorgeTown University. Cal provides an amazing insight on how you should forget about searching for passion and instead look to cultivate rare and valuable skills. Cal debunks the myth of finding your passion and calls passion as over-rated. Must read book for someone who is into their career or even starting out. I'll probably have to re-read this book in a year. See my reading-notes [So Good They Can't Ignore You - Cal Newport](https://alamgirqazi.github.io/blog/SoGoodTheyCantIgnoreYou)
+
+<hr>
+
+
+
+
 ## Man's Search for Meaning - Viktor Frankl
 <br>
 
@@ -176,7 +195,6 @@ Viktor Frankl is a surviver of Nazi's concentration camp during the 2nd World Wa
 
 See my reading-notes [Man's Search for Meaning - Viktor Frankl](https://alamgirqazi.github.io/blog/MansSearchForMeaning)
 
-<br>
 <hr>
 
 ## Love Yourself Like Your Life Depends On It - Kamil Ravikant
@@ -190,7 +208,6 @@ See my reading-notes [Man's Search for Meaning - Viktor Frankl](https://alamgirq
 An incredibly short read but still a fantastic book. The basic idea is that you repeat "I love myself" over and over in your head as a mantra.  
 See my reading-notes [Love Yourself Like Your Life Depends On It - Kamil Ravikant](https://alamgirqazi.github.io/blog/kamalravikant)
 
-<br>
 <hr>
 
 ## Tuesdays with Morrie - Mitch Albom
@@ -230,6 +247,7 @@ A really fascinating story of Santiago who went out to search for hidden treasur
 Amazeballs. Sidney Sheldon knows how to tell a story. This novel made me fall in love with Fiction.
 
 <hr>
+
 ### Emotional Intelligence - Daniel Goleman
 
 <br>
@@ -241,6 +259,7 @@ Amazeballs. Sidney Sheldon knows how to tell a story. This novel made me fall in
 <br>
 
 Very Fascinating and absorbing research. Emotional Intelligence is indeed extremely essential. See my reading-notes [Emotional Intelligence - Daniel Goleman](https://alamgirqazi.github.io/blog/Emotionalintelligence)
+
 <hr>
 
 ## Rich Dad Poor Dad - Robert Kiyosaki
@@ -313,6 +332,8 @@ currently reading
 Rating (coming soon)
 
 <br>
+
+
 <hr>
 
 ## The Kite Runner - Khaled Hosseini
@@ -324,6 +345,8 @@ currently reading
 Rating (coming soon)
 
 <br>
+
+
 <hr>
 
 ## Tiny Beautiful Things - Cheryl Strayed
@@ -335,6 +358,8 @@ currently reading
 Rating (coming soon)
 
 <br>
+
+
 <hr>
 
 
@@ -346,17 +371,10 @@ Rating (coming soon)
 Rating (coming soon)
 
 <br>
+
+
 <hr>
 
-
-## So Good They Can't Ignore You - Cal Newport
-<br>
-![So Good They Can't Ignore You - Cal Newport](public/so good they can't ignore you - cal newport.jpg "So Good They Can't Ignore You - Cal Newport")
-
-Rating (coming soon)
-
-<br>
-<hr>
 
 
 
