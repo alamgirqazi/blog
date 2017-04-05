@@ -70,10 +70,23 @@ What a splendid and mindblowing book. Superb research by Brene Brown on how we c
 
 <hr>
 
-## The Compound Effect - Darren Hardy
+## 5 Major Pieces To The Life Puzzle - Jim Rohn
 
 <br>
 
+
+
+
+![5 Major Pieces To The Life Puzzle - Jim Rohn](public/5 major pieces to the life puzzle - jim rohn.jpg "5 Major Pieces To The Life Puzzle - Jim Rohn")
+
+**Rating 9.5/10** 
+
+<br>
+
+"success is a condition that must be attracted and not pursued. We achieve rewards and we make progress not by our intense pursuits, but by what we become". Classic self-help book from Jim Rohn. Plenty of insights in this book on how to become a better version of yourself. Alot of this stuff I  read in the book "The Compound Effect" by Darren Hardy. Jim Rohn was a mentor of Darren Hardy. See my reading-notes [5 Major Pieces To The Life Puzzle - Jim Rohn](https://alamgirqazi.github.io/blog/5MajorPiecesToTheLifePuzzle)
+
+
+<hr>
 
 
 ![The Compound Effect - Darren Hardy](public/the compound effect - darren hardy.jpg "The Compound Effect - Darren Hardy")
