@@ -88,6 +88,17 @@ What a splendid and mindblowing book. Superb research by Brene Brown on how we c
 
 <hr>
 
+## The Kite Runner - Khaled Hosseini
+<br>
+![The Kite Runner - Khaled Hosseini](public/The Kite Runner - Khaled Hosseini.jpg "The Kite Runner - Khaled Hosseini")
+
+**Rating 9.5/10** 
+
+<br>
+
+What a thrilling read. Wow. Reading it gave me goosebumps. Ridiculously good.
+
+<hr>
 
 ![The Compound Effect - Darren Hardy](public/the compound effect - darren hardy.jpg "The Compound Effect - Darren Hardy")
 
@@ -349,18 +360,7 @@ Rating (coming soon)
 
 <hr>
 
-## The Kite Runner - Khaled Hosseini
-<br>
-![The Kite Runner - Khaled Hosseini](public/The Kite Runner - Khaled Hosseini.jpg "The Kite Runner - Khaled Hosseini")
 
-currently reading
-
-Rating (coming soon)
-
-<br>
-
-
-<hr>
 
 ## Tiny Beautiful Things - Cheryl Strayed
 <br>
