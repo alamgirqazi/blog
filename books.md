@@ -14,7 +14,7 @@ permalink: books
 
 <br>
 
-Definitely a Life-changing book for me. Brene Brown has been an inspiration. Her two books (this one and "The Gifts of Imperfection") are definitely must read for everyone. Brene Brown talks about the problems that we face everyday and how we can overcome problems such as vulnerability and shame. See my reading-notes [Daring Greatly - Brene Brown](https://alamgirqazi.github.io/blog/DaringGreatly)
+Definitely a Life-changing book for me. Brene Brown has been an inspiration. Her two books (this one and "The Gifts of Imperfection") are definitely must read for everyone. Brene Brown talks about the difficulties that we face everyday and how we can overcome problems such as vulnerability and shame. See my reading-notes [Daring Greatly - Brene Brown](https://alamgirqazi.github.io/blog/DaringGreatly)
 <hr>
 
 
@@ -51,8 +51,7 @@ Astonishing. Stupendous. Remarkable. This book will really blow your mind. See m
 <br>
 
 
-A really phenomenal book. Mark Manson has packaged all the self-help in a very provocative read. 
-See my reading-notes [The Subtle Art of Not Giving a F*ck - Mark Manson](https://alamgirqazi.github.io/blog/MarkManson)
+A really phenomenal book. Mark Manson has packaged all the self-help in a very provocative read. Arguably the best self-help book out there. See my reading-notes [The Subtle Art of Not Giving a F*ck - Mark Manson](https://alamgirqazi.github.io/blog/MarkManson)
 
 <hr>
 
@@ -157,8 +156,8 @@ See my reading-notes [Ego is the Enemy - Ryan Holiday](https://alamgirqazi.githu
 
 <br>
 
-I was in tears reading this book on two occasions. Paul talks about what makes our lives meaningful.
-Paul Kalanithi graduated in 2000 with a B.A. and M.A. in English Literature from Stanford University and a B.A. in Human Biology. He earned an M.Phil in History and Philosophy of Science and Medicine from the University of Cambridge before attending Medical school. In 2007, Paul graduated cum laude from the Yale School of Medicine. He returned to Stanford for residency training in Neurological Surgery and a postdoctoral fellowship in neuroscience. In May 2013, Paul Kalanithi was diagnosed with metastatic stage IV lung cancer. He wrote this book on his deathbed.
+I was in tears reading this book. Paul talks about what makes our lives meaningful.
+Paul Kalanithi graduated in 2000 with a B.A. and M.A. in English Literature from Stanford University and a B.A. in Human Biology. He earned an M.Phil in History and Philosophy of Science and Medicine from the University of Cambridge before attending Medical school. In 2007, Paul graduated cum laude from the Yale School of Medicine. He returned to Stanford for residency training in Neurological Surgery and a postdoctoral fellowship in neuroscience. In May 2013, Paul Kalanithi was diagnosed with metastatic stage IV lung cancer. Paul was into his 6th year of Residency when he was diagnosed. He wrote this book on his deathbed.
 
 <hr>
 
@@ -175,6 +174,17 @@ Plenty of insight in this book. Steve Pavlina is one of the most famous bloggers
 
 
 
+<hr>
+
+## Tiny Beautiful Things - Cheryl Strayed
+<br>
+![Tiny Beautiful Things - Cheryl Strayed](public/tiny beautiful things - cheryl strayed.jpg "Tiny Beautiful Things - Cheryl Strayed")
+
+Rating 9/10
+
+<br>
+
+Cheryl Strayed is a wonderful writer and a brilliant story-teller who gives advice enriched with compassion. This books contains letters and their answers which Cheryl wrote in her column on an online site TheRumpus.net
 <hr>
 
 ## Meditations - Marcus Aurelius
@@ -357,14 +367,11 @@ Rating (coming soon)
 
 <br>
 
-
 <hr>
 
-
-
-## Tiny Beautiful Things - Cheryl Strayed
+## Stumbling on Happiness - Daniel Gilbert
 <br>
-![Tiny Beautiful Things - Cheryl Strayed](public/tiny beautiful things - cheryl strayed.jpg "Tiny Beautiful Things - Cheryl Strayed")
+![Stumbling on Happiness - Daniel Gilbert](public/Stumbling on Happiness - Daniel Gilbert.jpg " Stumbling on Happiness - Daniel Gilbert")
 
 currently reading
 
@@ -372,9 +379,33 @@ Rating (coming soon)
 
 <br>
 
+<hr>
+
+## Influence | The Psychology of Persuasion - Robert Cialdini
+
+<br>
+![Influence | The Psychology of Persuasion - Robert Cialdini](public/Influence - Robert Cialdini.jpg " Influence | The Psychology of Persuasion - Robert Cialdini")
+
+currently reading
+
+Rating (coming soon)
+
+<br>
 
 <hr>
 
+## Rising Strong - Brene Brown
+
+<br>
+![Rising Strong - Brene Brown](public/Rising Strong - Brene Brown.jpg " Rising Strong - Brene Brown")
+
+currently reading
+
+Rating (coming soon)
+
+<br>
+
+<hr>
 
 
 ## 4 Hour Work Week - Tim Ferriss
