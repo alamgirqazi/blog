@@ -18,7 +18,7 @@ permalink: 5MajorPiecesToTheLifePuzzle
 
 When the winds change, we must change. We must struggle to our feet once more and reset the sail in the manner that will steer us toward the destination of our own of our own deliberate choosing. The set of the sail, how we think and how we respond, has a far greater capacity to destroy our lives than any challenges we face. How quickly and responsibly we react to adversity is far more important than the adversity itself. Once we discipline ourselves to understand this, we will finally and willingly conclude that the great challenge of life is to control the process of our own thinking.
 
-Each of us should be in constant search of people we can admire and respect, people after whom e can pattern part of our own behavior. Much of who and what we are at this very moment is a composite of the many people who have influenced us over the years.
+Each of us should be in constant search of people we can admire and respect, people after whom we can pattern part of our own behavior. Much of who and what we are at this very moment is a composite of the many people who have influenced us over the years.
 
 We are all being influenced by someone. Since this influence will determine to some extent the direction of our lives, it is far better to deliberately choose the people we will permit to influence us than to allow the power of the wrong influence to weave its effect on us without our knowledge or conscious choice.
 

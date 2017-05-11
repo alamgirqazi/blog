@@ -24,15 +24,6 @@ The surest thing I took away from my BSW, MSW, and Ph.D. in social work is this:
 > We humans have a tendency to define things by what they are not.
 
 Cultivating Authenticity: Letting Go of What People Think
-* Cultivating Self-Compassion: Letting Go of Perfectionism
-* Cultivating a Resilient Spirit: Letting Go of Numbing and Powerlessness
-* Cultivating Gratitude and Joy: Letting Go of Scarcity and Fear of the Dark
-* Cultivating Intuition and Trusting Faith: Letting Go of the Need for Certainty
-* Cultivating Creativity: Letting Go of Comparison
-* Cultivating Play and Rest: Letting Go of Exhaustion as a Status Symbol and Productivity as Self-Worth
-* Cultivating Calm and Stillness: Letting Go of Anxiety as a Lifestyle
-* Cultivating Meaningful Work: Letting Go of Self-Doubt and “Supposed To”
-* Cultivating Laughter, Song, and Dance: Letting Go of Being Cool and “Always in Control”
 
 Vulnerability is the core, the heart, the center, of meaningful human experiences.
 
