@@ -99,6 +99,21 @@ What a thrilling read. Wow. Reading it gave me goosebumps. Ridiculously good.
 
 <hr>
 
+## Too Soon Old Too Late Smart - Gordon Livingston
+<br>
+![Too Soon Old Too Late Smart - Gordon Livingston](public/too soon old too late smart.jpg "The Compound Effect - Darren Hardy")
+
+**Rating 9.5/10** 
+
+<br>
+
+I read a summary of this book at sivers.org and its probably the one that got me into reading books. I didn't had a copy of this book until recently so I had to wait a while to complete this book. Absolutely sensational read. There is just so much about this book that just hits you. See my reading-notes [Too Soon Old Too Late Smart - Gordon Livingston](https://alamgirqazi.github.io/blog/TooSoonOldTooLateSmart)
+
+
+<hr>
+
+## The Compound Effect - Darren Hardy
+<br>
 ![The Compound Effect - Darren Hardy](public/the compound effect - darren hardy.jpg "The Compound Effect - Darren Hardy")
 
 **Rating 9.5/10** 
