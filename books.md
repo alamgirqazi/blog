@@ -95,9 +95,30 @@ What a splendid and mindblowing book. Superb research by Brene Brown on how we c
 
 <br>
 
-What a thrilling read. Wow. Reading it gave me goosebumps. Ridiculously good.
+## Rising Strong - Brene Brown
+<br>
+![Rising Strong - Brene Brown](public/Rising Strong - Brene Brown.jpg "Rising Strong - Brene Brown")
+
+**Rating 9.5/10** 
+
+<br>
+
+description
+<hr>
+
+
+## Steal Like An Artist - Austin Kleon
+<br>
+![Steal Like An Artist - Austin Kleon](public/Steal like an Artist - Austin Kleon.jpg "Steal Like An Artist - Austin Kleon")
+
+**Rating 9.5/10** 
+
+<br>
+
+description
 
 <hr>
+
 
 ## Too Soon Old Too Late Smart - Gordon Livingston
 <br>
@@ -390,7 +411,7 @@ Rating (coming soon)
 
 currently reading
 
-Rating (coming soon)
+**Rating (coming soon)** 
 
 <br>
 
@@ -403,22 +424,23 @@ Rating (coming soon)
 
 currently reading
 
-Rating (coming soon)
+**Rating (coming soon)** 
 
 <br>
 
 <hr>
 
-## Rising Strong - Brene Brown
+
+
+## Show Your Work - Austin Kleon
+<br>
+![Show Your Work - Austin Kleon](public/Show Your Work - Austin Kleon.jpg "Show Your Work - Austin Kleon")
+
+**Rating (coming soon)** 
 
 <br>
-![Rising Strong - Brene Brown](public/Rising Strong - Brene Brown.jpg " Rising Strong - Brene Brown")
 
-currently reading
-
-Rating (coming soon)
-
-<br>
+description
 
 <hr>
 
@@ -427,10 +449,63 @@ Rating (coming soon)
 <br>
 ![4 Hour Work Week - Tim Ferriss](public/four hour work week - tim ferriss.jpg "4 Hour Work Week - Tim Ferriss")
 
-Rating (coming soon)
+**Rating (coming soon)** 
 
 <br>
 
+
+<hr>
+
+
+
+## Quiet - Susan Cain
+<br>
+![Quiet - Susan Cain](public/Quiet - Susan Cain.jpg "Quiet - Susan Cain")
+
+**Rating (coming soon)** 
+
+<br>
+
+
+<hr>
+## Dairy of a Young Girl - Anne Frank
+<br>
+![Dairy of a Young Girl - Anne Frank](public/the dairy of a young girl - anne frank.jpg "Dairy of a Young Girl - Anne Frank")
+
+**Rating (coming soon)** 
+
+<br>
+
+<hr>
+
+
+
+## The Power Of Now - Eckhart Tolle
+<br>
+![The Power Of Now - Eckhart Tolle](public/the power of now - eckhart tolle.jpg "The Power Of Now - Eckhart Tolle")
+
+**Rating (coming soon)** 
+
+<br>
+
+<hr>
+
+
+## Catcher in the Rye - JD Salinger
+<br>
+![Catcher in the Rye - JD Salinger](public/Catcher in the Rye - JD Salinger.jpg "Catcher in the Rye - JD Salinger")
+
+**Rating (coming soon)** 
+
+<br>
+
+## Muhammad - Karen Armstrong
+<br>
+![Muhammad - Karen Armstrong](public/Muhammad - Karen Armstrong.jpg "Muhammad - Karen Armstrong")
+
+**Rating (coming soon)** 
+
+<br>
 
 <hr>
 
