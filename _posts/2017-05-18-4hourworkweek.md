@@ -13,6 +13,7 @@ permalink: 4hourworkweek
 
 Whenever you find yourself on the side of the majority, it is time to pause and reflect.
 —MARK TWAIN
+
 Anyone who lives within their means suffers from a lack of imagination.
 —OSCAR WILDE
 

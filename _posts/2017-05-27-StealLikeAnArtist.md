@@ -11,7 +11,7 @@ permalink: StealLikeAnArtist
 
 #### Reading Notes:
 
-Art is theft.”
+"Art is theft.”
 —Pablo Picasso
 
 “Immature poets imitate; mature poets steal; bad poets deface what they take, and good poets make it into something better, or at least something different. The good poet welds his theft into a whole of feeling which is unique, utterly different from that from which it was torn.”
