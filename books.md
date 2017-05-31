@@ -69,12 +69,22 @@ What a splendid and mindblowing book. Superb research by Brene Brown on how we c
 
 <hr>
 
-## 5 Major Pieces To The Life Puzzle - Jim Rohn
+## The Kite Runner - Khaled Hosseini
+<br>
+![The Kite Runner - Khaled Hosseini](public/The Kite Runner - Khaled Hosseini.jpg "The Kite Runner - Khaled Hosseini")
+
+**Rating 10/10** 
 
 <br>
 
+This might very well be my favourite fiction book ever. What an electrifying read from start to finish. 
+
+<hr>
 
 
+## 5 Major Pieces To The Life Puzzle - Jim Rohn
+
+<br>
 
 ![5 Major Pieces To The Life Puzzle - Jim Rohn](public/5 major pieces to the life puzzle - jim rohn.jpg "5 Major Pieces To The Life Puzzle - Jim Rohn")
 
@@ -82,28 +92,23 @@ What a splendid and mindblowing book. Superb research by Brene Brown on how we c
 
 <br>
 
-"success is a condition that must be attracted and not pursued. We achieve rewards and we make progress not by our intense pursuits, but by what we become". Classic self-help book from Jim Rohn. Plenty of insights in this book on how to become a better version of yourself. Alot of this stuff I  read in the book "The Compound Effect" by Darren Hardy. Jim Rohn was a mentor of Darren Hardy. See my reading-notes [5 Major Pieces To The Life Puzzle - Jim Rohn](https://alamgirqazi.github.io/blog/5MajorPiecesToTheLifePuzzle)
+"Success is a condition that must be attracted and not pursued. We achieve rewards and we make progress not by our intense pursuits, but by what we become." Classic self-help book from Jim Rohn. Plenty of insights in this book on how to become a better version of yourself. Alot of this stuff I  read in the book "The Compound Effect" by Darren Hardy. Jim Rohn was a mentor of Darren Hardy. See my reading-notes [5 Major Pieces To The Life Puzzle - Jim Rohn](https://alamgirqazi.github.io/blog/5MajorPiecesToTheLifePuzzle)
 
 
 <hr>
 
-## The Kite Runner - Khaled Hosseini
-<br>
-![The Kite Runner - Khaled Hosseini](public/The Kite Runner - Khaled Hosseini.jpg "The Kite Runner - Khaled Hosseini")
-
-**Rating 9.5/10** 
-
-<br>
-
 ## Rising Strong - Brene Brown
+
 <br>
+
 ![Rising Strong - Brene Brown](public/Rising Strong - Brene Brown.jpg "Rising Strong - Brene Brown")
 
 **Rating 9.5/10** 
 
 <br>
 
-description
+Another amazing book from Brene Brown. This book includes alot more real life experiences of Brene and her family and how she dealth with self-righteousness and Integrity in her own life. [Rising Strong - Brene Brown](https://alamgirqazi.github.io/blog/RisingStrong)
+
 <hr>
 
 
@@ -115,7 +120,7 @@ description
 
 <br>
 
-description
+Excellent little book which I completed in a day. A very inspiring book for all creative people. Austin stresses on just doing what you want to do everyday and forget about trying to be completely original because nothing is completely original. See my reading-notes [Steal Like An Artist - Austin Kleon](https://alamgirqazi.github.io/blog/StealLikeAnArtist)
 
 <hr>
 
@@ -280,6 +285,35 @@ See my reading-notes [Love Yourself Like Your Life Depends On It - Kamil Ravikan
 
 <hr>
 
+
+## Show Your Work - Austin Kleon
+<br>
+![Show Your Work - Austin Kleon](public/Show Your Work - Austin Kleon.jpg "Show Your Work - Austin Kleon")
+
+**Rating 9/10** 
+
+<br>
+
+Another awesome book from Austin Kleon. See my reading-notes [Show Your Work - Austin Kleon](https://alamgirqazi.github.io/blog/ShowYourWork)
+
+<hr>
+
+## Anything You Want - Derek Sivers
+<br>
+
+![Anything You Want - Derek Sivers](public/Anything You Want - Derek Sivers.jpg "Anything You Want - Derek Sivers")
+
+**Rating 9/10** 
+
+<br>
+
+Derek Sivers shares his amazing story of how he built CD Baby from scratch. Derek explains his business model and why he didn't wanted his business to expand or make too much money. He also made interesting comments like he'd rather prefer being CEO of a company with 5 people than 85 people. CD baby was sold for 22 million and had 85 employees at the time. See my reading-notes [Anything You Want - Derek Sivers](https://alamgirqazi.github.io/blog/AnythingYouWant)
+
+<hr>
+
+
+
+
 ## Tuesdays with Morrie - Mitch Albom
 <br>
 
@@ -382,16 +416,6 @@ Jim Collins has done an outstanding research on how some companies transitioned 
 
 <hr>
 
-<!--## Muhammad - Karen Armstrong
-<br>
-![Muhammad - Karen Armstrong](public/Muhammad - Karen Armstrong.jpg "Muhammad - Karen Armstrong")
-
-currently reading
-
-Rating (coming soon)
-
-<br>-->
-
 
 ## Thinking, Fast and Slow - Daniel Kahneman
 <br>
@@ -432,19 +456,6 @@ currently reading
 
 
 
-## Show Your Work - Austin Kleon
-<br>
-![Show Your Work - Austin Kleon](public/Show Your Work - Austin Kleon.jpg "Show Your Work - Austin Kleon")
-
-**Rating (coming soon)** 
-
-<br>
-
-description
-
-<hr>
-
-
 ## 4 Hour Work Week - Tim Ferriss
 <br>
 ![4 Hour Work Week - Tim Ferriss](public/four hour work week - tim ferriss.jpg "4 Hour Work Week - Tim Ferriss")
@@ -468,6 +479,18 @@ description
 
 
 <hr>
+
+## Reinvent Yourself - James Altucher
+<br>
+![Reinvent Yourself - James Altucher](public/Reinvent Yourself - James Altucher.jpg "Reinvent Yourself - James Altucher")
+
+**Rating (coming soon)** 
+
+<br>
+
+
+<hr>
+
 ## Dairy of a Young Girl - Anne Frank
 <br>
 ![Dairy of a Young Girl - Anne Frank](public/the dairy of a young girl - anne frank.jpg "Dairy of a Young Girl - Anne Frank")
