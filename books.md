@@ -298,8 +298,18 @@ Another awesome book from Austin Kleon. See my reading-notes [Show Your Work - A
 
 <hr>
 
-## Anything You Want - Derek Sivers
+## This is Water - David Foster Wallace
 <br>
+
+![This is Water - David Foster Wallace](public/This is Water - David Foster Wallace.jpg "This is Water - David Foster Wallace")
+
+**Rating 9/10** 
+
+<br>
+
+See my reading-notes [This is Water - David Foster Wallace](https://alamgirqazi.github.io/blog/ThisIsWater)
+
+<hr>
 
 ![Anything You Want - Derek Sivers](public/Anything You Want - Derek Sivers.jpg "Anything You Want - Derek Sivers")
 
@@ -349,6 +359,18 @@ A really fascinating story of Santiago who went out to search for hidden treasur
 <br>
 
 Amazeballs. Sidney Sheldon knows how to tell a story. This novel made me fall in love with Fiction.
+
+<hr> 
+
+## A Short Guide To A Happy Life - Anna Quindlen
+<br>
+![A Short Guide To A Happy Life - Anna Quindlen](public/A Short Guide to a Happy Guide - Anna Quindlen.jpg "A Short Guide To A Happy Life - Anna Quindlen")
+
+**Rating 9/10** 
+
+<br>
+
+...
 
 <hr>
 
@@ -532,6 +554,47 @@ currently reading
 
 <hr>
 
+<!--
+## Free Will - Sam Harris
+<br>
+![Free Will - Sam Harris](public/Free Will - Sam Harris.jpg "Free Will - Sam Harris")
+
+**Rating (coming soon)** 
+
+<br>
+
+<hr>
+
+## Ignore Everybody - Hugh McLeod
+<br>
+![Ignore Everybody - Hugh McLeod](public/Ignore Everybody - Hugh McLeod.jpg "Ignore Everybody - Hugh McLeod")
+
+**Rating (coming soon)** 
+
+<br>
+
+<hr>
+
+## When Things Fall Apart - Pema Chodron
+<br>
+![When Things Fall Apart - Pema Chodron](public/When Things Fall Apart - Pema Chodron.jpg "When Things Fall Apart - Pema Chodron")
+
+**Rating (coming soon)** 
+
+<br>
+
+<hr>
+
+## The Wisdom of No Escape - Pema Chodron
+<br>
+![The Wisdom of No Escape - Pema Chodron](public/The Wisdom of No Escape - Pema Chodron.jpg "The Wisdom of No Escape - Pema Chodron")
+
+**Rating (coming soon)** 
+
+<br>
+
+<hr>
 
 
+-->
 
