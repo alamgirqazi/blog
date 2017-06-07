@@ -48,14 +48,14 @@ Sometimes its not the what you learn from the journey, its the epiphany of learn
 <br>
 
 <p class="message">
-"The only questions that really matter are the ones you ask yourself"
-Ursula K. Le Guin 
+"The only questions that really matter are the ones you ask yourself." 
+~ Ursula K. Le Guin 
 </p>
 
 <br>
 
-> It's not the happy people that are thankful, but the thankful people that are happy.
-~ Buddha
+> “You can’t live a perfect day until you do something for someone who will never be able to repay you.”
+~ John Wooden
 
 <br>
 
@@ -64,7 +64,8 @@ Ursula K. Le Guin
 <br>
 
 <p class="message">
-“When you are content to be simply yourself and don't compare or compete, everyone will respect you.” - Lao Tzu  </p>
+“When you are content to be simply yourself and don't compare or compete, everyone will respect you.”
+~ Lao Tzu  </p>
 
 <br>
 
@@ -90,7 +91,7 @@ One of the gifts of maturity is to realize that happiness is bigger, broader and
 <br>
 
 > Choose someone whose way of life as well as words, and whose very face as mirroring the character that lies behind it, have won your approval. Be always pointing him out to yourself either as your guardian or as your model. There is a need, in my view, for someone as a standard against which our characters can measure themselves. Without a ruler to do it against you won’t make crooked straight.
-~ Seneca   
+~ Seneca
 
 <br>
 
@@ -102,7 +103,7 @@ One of the gifts of maturity is to realize that happiness is bigger, broader and
 <br>
 
 > "The true voyage of discovery, the only fountain of Eternal Youth, would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another"
-~ Marcel Proust   
+~ Marcel Proust
 
 <br>
 
@@ -126,8 +127,8 @@ One of the gifts of maturity is to realize that happiness is bigger, broader and
 
 <p class="message">
 
-The learning of life is about what to avoid.
-~ Nassem Taleb
+"The learning of life is about what to avoid."
+~ Nassem Nicholas Taleb
 </p>
 
 <br>
@@ -166,8 +167,8 @@ Stop Lying - Every time you tell someone a lie, you are telling yourself that th
 
 <br>
 
-> Because most of what we say and do is not essential. If you can eliminate it, you’ll have more time, and more tranquility. Ask yourself at every moment, “Is this necessary?”
-~ Marcus Aurelius
+> “Be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others think you are.”
+~ John Wooden
 
 <br>
 
@@ -200,13 +201,13 @@ It never ceases to amaze me: we all love ourselves more than other people, but c
 <br>
 
 <p class="message">
-“People learn from their failures. Seldom do they learn anything from success.”
-~ Harold Geneen</p>
+"no one truly successful will criticize you."
+~ Marcus Aurelius</p>
 
 <br>
 
-> “The deepest principle in human nature is the craving to be appreciated”.
-~ William James 
+> “The deepest principle in human nature is the craving to be appreciated.”
+~ William James
 
 <br>
 
