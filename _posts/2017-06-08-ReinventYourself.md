@@ -153,3 +153,115 @@ We have to celebrate what we’re good at. But also celebrate other things in li
 it also underlines the importance that there is never “one thing” that we were all put on Earth to do.
 We were put here to try. Nobody will grade us.
 
+Every single day, art and innovation are right outside the emotional prison of your comfort zone.
+
+What are your emotional anchors? The events that staple the timeline of your life to something that totally destroyed who you thought you were?
+They can be small moments or big moments.
+These are the moments where you choose yourself.
+
+“The most important thing in life,” she told me, “more important than anything else by far, is friendship.”
+
+People often say a lie: “Solve other people’s problems and you will be successful.”
+This is never true. Never. Show us how you solved your problems. Even if you never solved them, still show how you tried. You can give us permission to be confused just like you were.
+
+Sometimes the sooner you charge in a business, the quicker you put a ceiling on your potential for expansion.
+
+The only successes were when I really liked the entrepreneur. And all of the failures came when I thought the idea was more important than the person.
+
+“Being broke is temporary but poverty of mind is permanent. You have to avoid poverty of mind.”
+
+In chess there’s a saying: “Only the good players are lucky.”
+
+Many people say, “Why did this have to happen to me?” Or “Why did I lose that job when I was good?”
+These are lousy questions. You will never get an answer that makes your life better.
+
+You have to ask good questions. “What can I do to improve?” or “How can I find a better job?” or “How can I be grateful that I lost this job?”
+Because inside of every problem is the seed of a “difficult gratitude problem” and it always improves your life to solve those problems.
+
+> But it’s by helping others and accepting help that we grow as a society. Sometimes people think “choosing myself” is a selfish concept. But it’s the only way you build the strength to help others. It’s the only way you surrender, not to some man-made force, but a force inside yourself that is perhaps the most powerful there is.
+
+Einstein said, “Curiosity has its own reason for existing.”
+
+“If you’re changing the world, you’re working on important things. You’re excited to get up in the morning.”
+To have well-being in life you need three things:
+
+A) A feeling of competence or growth.
+
+B) Good emotional relationships.
+
+C) Freedom of choice.
+
+I wonder what my life would be like if I started doing all the things I’m afraid to do. If I started defining my life by all the things I have yet to do.
+
+“Nobody remembers your bad stuff. They only remember your good stuff.”
+
+“If you say you want to automate cars and save people’s lives, the skills you need for that aren’t taught in any particular discipline.
+
+Too often we get labeled by our degrees and our job titles. Larry Page and Elon Musk were computer science majors. Now they build cars and spaceships.
+
+> Escaping the labels and titles and hopes that everyone else has for us is one of the first steps in choosing ourselves for the success we are meant to have. We define our lives from our imagination and the things we create with our hands.
+
+> Learning to find happiness with less is true wealth. Ultimately we are the sum of our experiences and not the sum of our belongings. There is nothing wrong with making money but it is only one small part of living a life of comfort, of compassion, of calm.
+
+
+Too many people forget that but the only way to really communicate effectively is through story.
+
+the benefits of choosing yourself is that other people’s lives are saved while you avoid waiting for someone else to choose you.
+
+Too many people say, “I have an idea. Now I need funding.”
+Don’t do that anymore. Stop it!
+Say instead, “I’m already doing this. Here are the 10 or 20 things I’ve done so far. Here are the results. Are you in?”
+
+“If everyone would just help ONE person today then the world will be a better place tomorrow.”
+
+
+Always think at the end of each day, “Who did I help today?”
+
+there are only two types of decisions: decisions made out of fear and decisions made out of growth.”
+
+When I made a fear-based decision it was always because I was giving power to someone else.
+I’d make a fear-based decision out of insecurity. Out of a feeling of scarcity. Out of giving too much power to others so they would control my life.
+The growth-based decisions all resulted in miracles I could not have imagined.
+With growth-based decisions you feel it in your body: an expansion of your chest, ideas in your mind, a feeling of competence increasing. A feeling of freedom expanding.
+A growth-based decision becomes the story of your life later. A fear-based decision turns into regret.
+
+Everyone wants the keys to your self-esteem so they can lock you in your own jail.
+
+Success is every day, feeling contentment.
+Contentment is every day:
+
+*Improving your relationships
+
+*Improving your competence in something you love
+
+*Improving your freedom
+
+“Nothing is permanent in this world, not even our troubles.”
+
+Talent is a spark that lights the fire. But the fire needs constant fuel to get bigger.
+
+THREE TYPES OF MENTORS
+
+1.DIRECT. Someone who is in front of you who will show you how they did it.
+
+2.INDIRECT. Books. You can outsource 90 percent of mentorship to books and other materials. 200-500 books equals one good mentor.
+
+3.EVERYTHING IS A MENTOR. If you are a zero, and have passion for reinvention, then everything you look at will be a metaphor for what you want to do.
+
+TIME IT TAKES TO REINVENT YOURSELF: FIVE YEARS
+
+Year One: you’re flailing and reading everything and just starting to DO.
+
+Year Two: you know who you need to talk to and network with. You’re Doing every day.
+
+Year Three: you’re good enough to start making money. It might not be a living yet.
+
+Year Four: you’re making a good living.
+
+Year Five: you’re making wealth.
+
+
+Success is better than failure but the biggest lessons are found in failure.
+
+Spend 10 minutes a day practicing gratitude. Don’t suppress the fear. Notice the anger.
+But also allow yourself to be grateful for the things you do have. Anger is never inspirational but gratitude is. Gratitude is the bridge between your world and the parallel universe where all creative ideas live.
