@@ -162,6 +162,16 @@ A very interesting self-help book. Darren Hardy says that we can make huge break
 Another gold mine book from Ryan Holiday. Fantastic read. Plenty of stoic philosophy in this book. I probably read this book at the perfect time because I really needed this. See my reading-notes [The Obstacle is the way - Ryan Holiday](https://alamgirqazi.github.io/blog/TheObstacleIsTheWay)
 <hr>
 
+## Reinvent Yourself - James Altucher
+<br>
+![Reinvent Yourself - James Altucher](public/Reinvent Yourself - James Altucher.jpg "Reinvent Yourself - James Altucher")
+
+**Rating 9.5/10** 
+
+<br>
+
+I have learned so much more than James Altucher than anyone else. His blog posts and Quora posts have had a huge impact on me. This book is equally good. It's almost a composition of all of his best posts and blogs. James writes about the things he learned from different people in different situations. See my reading-notes [Reinvent Yourself - James Altucher](https://alamgirqazi.github.io/blog/ReinventYourself)
+<hr>
 
 ## Think and Grow Rich - Napoleon Hill
 <br>
@@ -370,9 +380,21 @@ Amazeballs. Sidney Sheldon knows how to tell a story. This novel made me fall in
 
 <br>
 
-...
+"You just need to get a life, a real life, a full life, a professional life, yes, but another life, too."
 
 <hr>
+
+## Ignore Everybody - Hugh McLeod
+<br>
+![Ignore Everybody - Hugh McLeod](public/Ignore Everybody - Hugh McLeod.jpg "Ignore Everybody - Hugh McLeod")
+
+**Rating 8.5/10**   
+
+<br>
+
+Hugh talks about being creative and always having a side-hobby apart from your work. His message is to work hard, be patient, be polite and don't just do it for the money. See my reading-notes [Ignore Everybody - Hugh McLeod](https://alamgirqazi.github.io/blog/IgnoreEverybody)
+<hr>
+
 
 ### Emotional Intelligence - Daniel Goleman
 
@@ -502,16 +524,7 @@ currently reading
 
 <hr>
 
-## Reinvent Yourself - James Altucher
-<br>
-![Reinvent Yourself - James Altucher](public/Reinvent Yourself - James Altucher.jpg "Reinvent Yourself - James Altucher")
 
-**Rating (coming soon)** 
-
-<br>
-
-
-<hr>
 
 ## Dairy of a Young Girl - Anne Frank
 <br>
@@ -565,15 +578,7 @@ currently reading
 
 <hr>
 
-## Ignore Everybody - Hugh McLeod
-<br>
-![Ignore Everybody - Hugh McLeod](public/Ignore Everybody - Hugh McLeod.jpg "Ignore Everybody - Hugh McLeod")
 
-**Rating (coming soon)** 
-
-<br>
-
-<hr>
 
 ## When Things Fall Apart - Pema Chodron
 <br>
