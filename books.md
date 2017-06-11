@@ -410,6 +410,16 @@ Very Fascinating and absorbing research. Emotional Intelligence is indeed extrem
 
 <hr>
 
+![Very Good Lives - JK Rowling](public/Very Good Lives - JK Rowling.jpg "Very Good Lives - JK Rowling")
+
+**Rating 8.5/10**   
+
+<br>
+
+See my reading-notes [Very Good Lives - JK Rowling](https://alamgirqazi.github.io/blog/VeryGoodLives)
+
+<hr>
+
 ## Rich Dad Poor Dad - Robert Kiyosaki
 <br>
 ![Rich Dad Poor Dad - Robert Kiyosaki](public/Rich Dad Poor Dad.jpg "Rich Dad Poor Dad - Robert Kiyosaki")
