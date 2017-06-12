@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rising Strong - Brene Brown
+title: 18. Rising Strong - Brene Brown
 permalink: RisingStrong
 ---
 

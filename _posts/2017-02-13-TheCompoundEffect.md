@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Compound Effect - Darren Hardy
+title: 6. The Compound Effect - Darren Hardy
 permalink: TheCompoundEffect
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Show Your Work - Austin Kleon
+title: 19. Show Your Work - Austin Kleon
 permalink: ShowYourWork
 ---
 

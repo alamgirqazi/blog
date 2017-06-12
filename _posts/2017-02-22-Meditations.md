@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meditations - Marcus Aurelius
+title: 8. Meditations - Marcus Aurelius
 permalink: meditations
 ---
 

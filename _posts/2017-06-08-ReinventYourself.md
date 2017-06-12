@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reinvent Yourself - James Altucher
+title: 24. Reinvent Yourself - James Altucher
 permalink: ReinventYourself
 ---
 

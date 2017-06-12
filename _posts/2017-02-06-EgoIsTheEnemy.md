@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ego is the Enemy - Ryan Holiday
+title: 5. Ego is the Enemy - Ryan Holiday
 permalink: EgoIsTheEnemy
 ---
 

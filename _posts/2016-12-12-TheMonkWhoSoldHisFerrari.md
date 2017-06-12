@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Monk Who Sold His Ferrari - Robin Sharma
+title: 1. The Monk Who Sold His Ferrari - Robin Sharma
 permalink: TheMonkWhoSoldHisFerrari
 ---
 

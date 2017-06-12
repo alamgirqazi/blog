@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personal Development For Smart People - Steve Pavlina
+title: 12. Personal Development For Smart People - Steve Pavlina
 permalink: PersonalDevelopmentForSmartPeople
 ---
 

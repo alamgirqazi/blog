@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daring Greatly - Brene Brown
+title: 13. Daring Greatly - Brene Brown
 permalink: DaringGreatly
 ---
 

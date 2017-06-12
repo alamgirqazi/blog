@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Emotional Intelligence - Daniel Goleman
+title: 7. Emotional Intelligence - Daniel Goleman
 permalink: Emotionalintelligence
 ---
 

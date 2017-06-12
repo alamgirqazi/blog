@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Subtle Art of Not Giving a Fu*k - Mark Manson
+title: 3. The Subtle Art of Not Giving a Fu*k - Mark Manson
 permalink: MarkManson
 ---
 

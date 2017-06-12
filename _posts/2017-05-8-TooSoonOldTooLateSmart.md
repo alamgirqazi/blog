@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Too Soon Old Too Late Smart - Gordon Livingston
+title: 17. Too Soon Old Too Late Smart - Gordon Livingston
 permalink: TooSoonOldTooLateSmart
 ---
 

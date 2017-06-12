@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Obstacle Is The Way - Ryan Holiday
+title: 14. The Obstacle Is The Way - Ryan Holiday
 permalink: TheObstacleIsTheWay
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Win Friends and Influence People - Dale Carnegie
+title: 2. How To Win Friends and Influence People - Dale Carnegie
 permalink: HowToWinFriendsandInfluencePeople
 ---
 

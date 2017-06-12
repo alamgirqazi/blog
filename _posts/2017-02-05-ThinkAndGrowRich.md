@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Think And Grow Rich - Napoleon Hill
+title: 4. Think And Grow Rich - Napoleon Hill
 permalink: ThinkAndGrowRich
 ---
 

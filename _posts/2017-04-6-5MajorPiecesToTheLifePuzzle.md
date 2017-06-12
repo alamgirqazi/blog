@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Major Pieces To The Life Puzzle - Jim Rohn
+title: 16. 5 Major Pieces To The Life Puzzle - Jim Rohn
 permalink: 5MajorPiecesToTheLifePuzzle
 ---
 

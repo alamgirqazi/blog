@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Love Yourself Like Your Life Depends On It - Kamal Ravikant
+title: 10. Love Yourself Like Your Life Depends On It - Kamal Ravikant
 permalink: kamalravikant
 ---
 

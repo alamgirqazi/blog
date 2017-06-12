@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ignore Everybody - Hugh McLeod
+title: 23. Ignore Everybody - Hugh McLeod
 permalink: IgnoreEverybody
 ---
 

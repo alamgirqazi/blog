@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Gifts of Imperfection - Brene Brown
+title: 11. The Gifts of Imperfection - Brene Brown
 permalink: TheGiftsofImperfection
 ---
 

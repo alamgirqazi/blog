@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So Good They Can't Ignore You - Cal Newport
+title: 15. So Good They Can't Ignore You - Cal Newport
 permalink: SoGoodTheyCantIgnoreYou
 ---
 

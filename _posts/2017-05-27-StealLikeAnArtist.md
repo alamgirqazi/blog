@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steal Like An Artist - Austin Kleon
+title: 20. Steal Like An Artist - Austin Kleon
 permalink: StealLikeAnArtist
 ---
 

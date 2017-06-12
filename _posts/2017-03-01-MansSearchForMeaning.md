@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Man's Search for Meaning - Viktor Frankl
+title: 9. Man's Search for Meaning - Viktor Frankl
 permalink: MansSearchForMeaning
 ---
 
