@@ -6,6 +6,7 @@ permalink: 4hourworkweek
 
 ![The 4 - Hour Workweek - Tim Ferriss](public/four hour work week - tim ferriss.jpg "The 4 - Hour Workweek - Tim Ferriss")
  
+<!--**Rating 9/10** -->
 
 <br>
 

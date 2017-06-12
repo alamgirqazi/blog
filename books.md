@@ -69,6 +69,18 @@ What a splendid and mindblowing book. Superb research by Brene Brown on how we c
 
 <hr>
 
+## And Then There Were None - Agatha Christie
+<br>
+![And Then There Were None - Agatha Christie](public/And Then There Were None - Agatha Christie.jpg "And Then There Were None - Agatha Christie")
+
+**Rating 10/10** 
+
+<br>
+
+What a thriller. Definitely my favourite fiction novel. 
+
+<hr>
+
 ## The Kite Runner - Khaled Hosseini
 <br>
 ![The Kite Runner - Khaled Hosseini](public/The Kite Runner - Khaled Hosseini.jpg "The Kite Runner - Khaled Hosseini")
@@ -77,7 +89,7 @@ What a splendid and mindblowing book. Superb research by Brene Brown on how we c
 
 <br>
 
-This might very well be my favourite fiction book ever. What an electrifying read from start to finish. 
+One of my favourite fiction book ever. What an electrifying read from start to finish. 
 
 <hr>
 
@@ -231,7 +243,7 @@ Plenty of insight in this book. Steve Pavlina is one of the most famous bloggers
 <br>
 ![Tiny Beautiful Things - Cheryl Strayed](public/tiny beautiful things - cheryl strayed.jpg "Tiny Beautiful Things - Cheryl Strayed")
 
-Rating 9/10
+**Rating 9/10** 
 
 <br>
 

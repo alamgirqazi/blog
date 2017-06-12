@@ -7,6 +7,8 @@ permalink: ShowYourWork
 ![Show Your Work - Austin Kleon](public/Show Your Work - Austin Kleon.jpg "Show Your Work - Austin Kleon")
  
 
+**Rating 9/10** 
+
 <br>
 
 #### Reading Notes:

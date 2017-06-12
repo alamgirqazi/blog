@@ -6,6 +6,7 @@ permalink: RisingStrong
 
 ![Rising Strong - Brene Brown](public/Rising Strong - Brene Brown.jpg "Rising Strong - Brene Brown")
  
+**Rating 9.5/10** 
 
 <br>
 

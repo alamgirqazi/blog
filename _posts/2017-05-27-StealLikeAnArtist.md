@@ -7,6 +7,8 @@ permalink: StealLikeAnArtist
 ![Steal Like An Artist - Austin Kleon](public/Steal like an Artist - Austin Kleon.jpg "Steal Like An Artist - Austin Kleon")
  
 
+**Rating 9.5/10** 
+
 <br>
 
 #### Reading Notes:

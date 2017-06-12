@@ -7,6 +7,8 @@ permalink: ThisIsWater
 ![This is Water - David Foster Wallace](public/This is Water - David Foster Wallace.jpg "This is Water - David Foster Wallace")
  
 
+**Rating 9/10** 
+
 <br>
 
 #### Reading Notes:

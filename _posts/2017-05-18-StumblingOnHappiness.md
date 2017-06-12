@@ -6,7 +6,9 @@ permalink: StumblingOnHappiness
 
 ![Stumbling On Happiness - Daniel Gilbert](public/Stumbling on Happiness - Daniel Gilbert.jpg "Stumbling On Happiness - Daniel Gilbert")
  
+<!--**Rating 9/10** 
 
+<br>-->
 <br>
 
 #### Reading Notes:

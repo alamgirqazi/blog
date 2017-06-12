@@ -7,6 +7,8 @@ permalink: ReinventYourself
 ![Reinvent Yourself - James Altucher](public/Reinvent Yourself - James Altucher.jpg "Reinvent Yourself - James Altucher")
  
 
+**Rating 9.5/10** 
+
 <br>
 
 #### Reading Notes:

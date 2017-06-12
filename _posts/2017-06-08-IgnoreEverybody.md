@@ -7,8 +7,9 @@ permalink: IgnoreEverybody
 ![Ignore Everybody - Hugh McLeod](public/Ignore Everybody - Hugh McLeod.jpg "Ignore Everybody - Hugh McLeod")
  
 
-<br>
+**Rating 8.5/10** 
 
+<br>
 #### Reading Notes:
 
 

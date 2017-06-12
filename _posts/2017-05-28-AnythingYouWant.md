@@ -7,6 +7,8 @@ permalink: AnythingYouWant
 ![Anything You Want - Derek Sivers](public/Anything You Want - Derek Sivers.jpg "Anything You Want - Derek Sivers")
  
 
+**Rating 9/10** 
+
 <br>
 
 #### Reading Notes:
