@@ -28,30 +28,16 @@ Definitely a Life-changing book for me. Brene Brown has been an inspiration. Her
 Astonishing. Stupendous. Remarkable. This book will really blow your mind. See my reading-notes [The Monk Who Sold His Ferrari - Robin Sharma](https://alamgirqazi.github.io/blog/TheMonkWhoSoldHisFerrari)
 <hr>
 
-## How to Win Friends and Infuence People
-<br>
-![How to Win Friends and Infuence People - Dale Carnegie](public/How to Win Friends and Influence People.jpg "How to Win Friends and Infuence People - Dale Carnegie")
-
-
-**Rating 10/10**  
+## Don't Sweat The Small Stuff - Richard Carlson
 <br>
 
- This book is a top 5 favourite of most of my mentors and now I know why. A breathtaking and a magnificient read. Everything about this book is pitch perfect.
- See my reading-notes [How to Win Friends and Infuence People - Dale Carnegie](https://alamgirqazi.github.io/blog/HowToWinFriendsandInfluencePeople)
-
-<hr>
-
-## The Subtle Art of Not Giving a F*ck - Mark Manson
-<br>
-
-![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a F*ck - Mark Manson")
-
+![Don't Sweat The Small Stuff - Richard Carlson](public/don't sweat the small stuff - richard carlson.jpg "Don't Sweat The Small Stuff - Richard Carlson")
 **Rating 10/10** 
 
 <br>
 
 
-A really phenomenal book. Mark Manson has packaged all the self-help in a very provocative read. Arguably the best self-help book out there. See my reading-notes [The Subtle Art of Not Giving a F*ck - Mark Manson](https://alamgirqazi.github.io/blog/MarkManson)
+"Life Isn't an Emergency." The idea is that life is not very complicated unless we make it. By incorporating virtues such as acceptance and gratitude, we can live a happy and fulfilled life. See my reading-notes [Don't Sweat The Small Stuff - Richard Carlson](https://alamgirqazi.github.io/blog/DontSweatTheSmallStuff)
 
 <hr>
 
@@ -68,6 +54,36 @@ A really phenomenal book. Mark Manson has packaged all the self-help in a very p
 What a splendid and mindblowing book. Superb research by Brene Brown on how we can cultivate more in life by showing courage, compassion and cultivating connection. See my reading-notes [The Gifts of Imperfection - Brene Brown](https://alamgirqazi.github.io/blog/TheGiftsofImperfection)
 
 <hr>
+
+## How to Win Friends and Infuence People
+<br>
+![How to Win Friends and Infuence People - Dale Carnegie](public/How to Win Friends and Influence People.jpg "How to Win Friends and Infuence People - Dale Carnegie")
+
+
+**Rating 10/10**  
+<br>
+
+ This book is a top 5 favourite of most of my mentors and now I know why. A breathtaking and a magnificient read. Everything about this book is pitch perfect.
+ See my reading-notes [How to Win Friends and Infuence People - Dale Carnegie](https://alamgirqazi.github.io/blog/HowToWinFriendsandInfluencePeople)
+
+<hr>
+
+
+## The Subtle Art of Not Giving a F*ck - Mark Manson
+<br>
+
+![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a F*ck - Mark Manson")
+
+**Rating 10/10** 
+
+<br>
+
+
+A really phenomenal book. Mark Manson has packaged all the self-help in a very provocative read. Arguably the best self-help book out there. See my reading-notes [The Subtle Art of Not Giving a F*ck - Mark Manson](https://alamgirqazi.github.io/blog/MarkManson)
+
+<hr>
+
+
 
 ## And Then There Were None - Agatha Christie
 <br>
@@ -333,6 +349,23 @@ See my reading-notes [This is Water - David Foster Wallace](https://alamgirqazi.
 
 <hr>
 
+## Emotional Intelligence - Daniel Goleman
+
+<br>
+
+![Emotional Intelligence - Daniel Goleman](public/Emotional Intelligence - Daniel Goleman.jpg "Emotional Intelligence - Daniel Goleman")
+
+**Rating 9/10**   
+
+<br>
+
+Very Fascinating and absorbing research. Emotional Intelligence is indeed extremely essential. See my reading-notes [Emotional Intelligence - Daniel Goleman](https://alamgirqazi.github.io/blog/Emotionalintelligence)
+
+<hr>
+
+## Anything You Want - Derek Sivers
+<br>
+
 ![Anything You Want - Derek Sivers](public/Anything You Want - Derek Sivers.jpg "Anything You Want - Derek Sivers")
 
 **Rating 9/10** 
@@ -408,19 +441,10 @@ Hugh talks about being creative and always having a side-hobby apart from your w
 <hr>
 
 
-### Emotional Intelligence - Daniel Goleman
 
-<br>
 
-![Emotional Intelligence - Daniel Goleman](public/Emotional Intelligence - Daniel Goleman.jpg "Emotional Intelligence - Daniel Goleman")
+## Very Good Lives - JK Rowling
 
-**Rating 8.5/10**   
-
-<br>
-
-Very Fascinating and absorbing research. Emotional Intelligence is indeed extremely essential. See my reading-notes [Emotional Intelligence - Daniel Goleman](https://alamgirqazi.github.io/blog/Emotionalintelligence)
-
-<hr>
 
 ![Very Good Lives - JK Rowling](public/Very Good Lives - JK Rowling.jpg "Very Good Lives - JK Rowling")
 
@@ -510,7 +534,7 @@ currently reading
 ## Influence | The Psychology of Persuasion - Robert Cialdini
 
 <br>
-![Influence | The Psychology of Persuasion - Robert Cialdini](public/Influence - Robert Cialdini.jpg " Influence | The Psychology of Persuasion - Robert Cialdini")
+<!--![Influence | The Psychology of Persuasion - Robert Cialdini](public/Influence - Robert Cialdini.jpg " Influence | The Psychology of Persuasion - Robert Cialdini")
 
 currently reading
 
@@ -518,7 +542,7 @@ currently reading
 
 <br>
 
-<hr>
+<hr>-->
 
 
 
