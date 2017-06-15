@@ -6,7 +6,7 @@ permalink: HowToWinFriendsandInfluencePeople
 
 ![How To Win Friends and Influence People - Dale Carnegie](public/How to Win Friends and Influence People.jpg "How To Win Friends and Influence People - Dale Carnegie")
 
-**rating (10/10)**
+**rating 10/10**
 
 <br>
 

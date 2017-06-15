@@ -6,7 +6,7 @@ permalink: EgoIsTheEnemy
 
 ![Ego is the Enemy - Ryan Holiday](public/Ego is the enemy - Ryan Holiday.jpg "Ego is the enemy - Ryan Holiday")
 
-**rating (9.5/10)**
+**rating 9.5/10**
 
 <br>
 

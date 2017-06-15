@@ -6,7 +6,7 @@ permalink: MarkManson
 
 ![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a Fu*k - Mark Manson")
 
-**rating (10/10)**
+**rating 10/10**
 
 <br>
 

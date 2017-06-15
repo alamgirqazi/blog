@@ -6,7 +6,7 @@ permalink: TheMonkWhoSoldHisFerrari
 
 ![The Monk Who Sold His Ferrari - Robin Sharma](public/The Monk Who Sold His Ferrari - Robin Sharma.jpg "The Monk Who Sold His Ferrari - Robin Sharma")
 
-**rating (10/10)**
+**rating 10/10**
 
 <br>
 

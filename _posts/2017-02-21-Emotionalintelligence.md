@@ -6,7 +6,7 @@ permalink: Emotionalintelligence
 
 ![Emotional Intelligence - Daniel Goleman](public/Emotional Intelligence - Daniel Goleman.jpg "Emotional Intelligence - Daniel Goleman")
 
-**rating (8.5/10)**
+**rating 9/10**
 
 <br>
 
