@@ -12,7 +12,7 @@ permalink: DontSweatTheSmallStuff
 
 #### Reading Notes:
 
-The greatest discovery of my generation is that a human being can alter his life by altering his attitude. —WILLIAM JAMES
+The greatest discovery of my generation is that a human being can alter his life by altering his attitude. — WILLIAM JAMES
 
 We often rush around looking busy, trying to solve problems, but in reality, we are often compounding them.
 
@@ -24,7 +24,7 @@ The need for perfection and the desire for inner tranquility conflict with each 
 
 > The solution here is to catch yourself when you fall into your habit of insisting that things should be other than they are. Gently remind yourself that life is okay the way it is, right now. In the absence of your judgment, everything would be fine. As you begin to eliminate your need for perfection in all areas of your life, you'll begin to discover the perfection in life itself.
 
-Let Go of the Idea that Gentle, Relaxed People Can't Be Superachievers One of the major reasons so many of us remain hurried, frightened, and competitive, and continue to live life as if it were one giant emergency, is our fear that if we were to become more peaceful and loving, we would suddenly stop achieving our goals. We would become lazy and apathetic. You can put this fear to rest by realizing that the opposite is actually true.
+Let Go of the Idea that Gentle, Relaxed People Can't Be Superachievers. One of the major reasons so many of us remain hurried, frightened, and competitive, and continue to live life as if it were one giant emergency, is our fear that if we were to become more peaceful and loving, we would suddenly stop achieving our goals. We would become lazy and apathetic. You can put this fear to rest by realizing that the opposite is actually true.
 
 > So many of us live our lives as if the secret purpose is to somehow get everything done.
 
@@ -42,24 +42,24 @@ Our need for excessive attention is that ego-centered part of us that says, "Loo
 
 John Lennon once said, "Life is what's happening while we're busy making other plans." When we're busy making "other plans," our children are busy growing up, the people we love are moving away and dying, our bodies are getting out of shape, and our dreams are slipping away. In short, we miss out on life.
 
-> Fear is the concern over events that might happen in the future—we won't have enough money, our children will get into trouble, we will get old and die, whatever. To combat fear, the best strategy is to learn to bring your attention back to the present. Mark Twain said, "I have been through some terrible things in my life, some of which actually happened." I don't think I can say it any better. Practice keeping your attention on the here and now. Your efforts will pay great dividends.
+> Fear is the concern over events that might happen in the future — we won't have enough money, our children will get into trouble, we will get old and die, whatever. To combat fear, the best strategy is to learn to bring your attention back to the present. Mark Twain said, "I have been through some terrible things in my life, some of which actually happened." I don't think I can say it any better. Practice keeping your attention on the here and now. Your efforts will pay great dividends.
 
 Your job is to try to determine what the people in your life are trying to teach you.
 
-Let Others Be "Right" Most of the Time. One of the most important questions you can ever ask yourself is, "Do I want to be 'right'—or do I want to be happy?" Many times, the two are mutually exclusive! Being right, defending our positions, takes an enormous amount of mental energy and often alienates us from the people in our lives.
+Let Others Be "Right" Most of the Time. One of the most important questions you can ever ask yourself is, "Do I want to be 'right'— or do I want to be happy?" Many times, the two are mutually exclusive! Being right, defending our positions, takes an enormous amount of mental energy and often alienates us from the people in our lives.
 
 
 Suppose you're in the post office and the postal clerk appears to be intentionally moving slowly. Rather than feeling frustrated, ask yourself the question, "What is he trying to teach me?" Maybe you need to learn about compassion—how hard it would be to have a job that you don't like. Or perhaps you could learn a little more about being patient. Standing in line is an excellent opportunity to break your habit of feeling impatient. You may be surprised at how fun and easy this is. All you're really doing is changing your perception from "Why are they doing this?" to "What are they trying to teach me?" Take a look around today at all the enlightened people.
 
-Being listened to and heard is one of the greatest desires of the human heart.
+> Being listened to and heard is one of the greatest desires of the human heart.
 
-A wonderful, heartfelt strategy for becoming more peaceful and loving is to practice allowing others the joy of being right— give them the glory. Stop correcting.
+A wonderful, heartfelt strategy for becoming more peaceful and loving is to practice allowing others the joy of being right — give them the glory. Stop correcting.
 
  The way to be happy is to let go, and reach out. Let other people be right. This doesn't mean that you're wrong. Everything will be fine. You'll experience the peace of letting go, as well as the joy of letting others be right.
 
-Repeat to Yourself, "Life Isn't an Emergency"
+Repeat to Yourself, "Life Isn't an Emergency."
 
-"seek first to understand" implies that you become more interested in understanding others and less in having other people understand you.
+> "seek first to understand" implies that you become more interested in understanding others and less in having other people understand you.
 
 Everyone loves to talk to someone who truly listens to what they are saying.
 
@@ -91,7 +91,7 @@ Agree with Criticism Directed Toward You (Then Watch It Go Away) So often we are
 
 > I'm only suggesting that there are many times when simply agreeing with criticism defuses the situation, satisfies a person's need to express a point of view, offers you a chance to learn something about yourself by seeing a grain of truth in another position, In fact, negative reactions to criticism often convince the person doing the criticizing that they are accurate in their assessment of you.
 
-Understand the Statement, "Wherever You Go, There You Are"
+Understand the Statement, "Wherever You Go, There You Are."
 
 If you are a generally happy person who rarely gets annoyed and bothered, then you can move from place to place, from person to person, with very little negative impact.
 
