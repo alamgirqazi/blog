@@ -441,6 +441,15 @@ Hugh talks about being creative and always having a side-hobby apart from your w
 <hr>
 
 
+## Free Will - Sam Harris
+<br>
+![Free Will - Sam Harris](public/Free Will - Sam Harris.jpg "Free Will - Sam Harris")
+
+**Rating 8.5/10** 
+
+<br>
+
+<hr>
 
 
 ## Very Good Lives - JK Rowling
@@ -613,19 +622,9 @@ currently reading
 
 <hr>
 
+
+
 <!--
-## Free Will - Sam Harris
-<br>
-![Free Will - Sam Harris](public/Free Will - Sam Harris.jpg "Free Will - Sam Harris")
-
-**Rating (coming soon)** 
-
-<br>
-
-<hr>
-
-
-
 ## When Things Fall Apart - Pema Chodron
 <br>
 ![When Things Fall Apart - Pema Chodron](public/When Things Fall Apart - Pema Chodron.jpg "When Things Fall Apart - Pema Chodron")
@@ -645,7 +644,4 @@ currently reading
 <br>
 
 <hr>
-
-
 -->
-
