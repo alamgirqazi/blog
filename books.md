@@ -6,6 +6,19 @@ permalink: books
 
 <br>
 
+## Don't Sweat The Small Stuff - Richard Carlson
+<br>
+
+![Don't Sweat The Small Stuff - Richard Carlson](public/don't sweat the small stuff - richard carlson.jpg "Don't Sweat The Small Stuff - Richard Carlson")
+**Rating 10/10** 
+
+<br>
+
+
+"Life Isn't an Emergency." The idea is that life is not very complicated unless we make it. By incorporating virtues such as acceptance and gratitude, we can live a happy and fulfilled life. See my reading-notes [Don't Sweat The Small Stuff - Richard Carlson](https://alamgirqazi.github.io/blog/DontSweatTheSmallStuff)
+
+<hr>
+
 ## Daring Greatly - Brene Brown
 <br>
 ![Daring Greatly - Brene Brown](public/Daring Greatly - Brene Brown.jpg "Daring Greatly - Brene Brown")
@@ -28,18 +41,7 @@ Definitely a Life-changing book for me. Brene Brown has been an inspiration. Her
 Astonishing. Stupendous. Remarkable. This book will really blow your mind. See my reading-notes [The Monk Who Sold His Ferrari - Robin Sharma](https://alamgirqazi.github.io/blog/TheMonkWhoSoldHisFerrari)
 <hr>
 
-## Don't Sweat The Small Stuff - Richard Carlson
-<br>
 
-![Don't Sweat The Small Stuff - Richard Carlson](public/don't sweat the small stuff - richard carlson.jpg "Don't Sweat The Small Stuff - Richard Carlson")
-**Rating 10/10** 
-
-<br>
-
-
-"Life Isn't an Emergency." The idea is that life is not very complicated unless we make it. By incorporating virtues such as acceptance and gratitude, we can live a happy and fulfilled life. See my reading-notes [Don't Sweat The Small Stuff - Richard Carlson](https://alamgirqazi.github.io/blog/DontSweatTheSmallStuff)
-
-<hr>
 
 ## The Gifts of Imperfection - Brene Brown
 <br>
