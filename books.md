@@ -14,7 +14,6 @@ permalink: books
 
 <br>
 
-
 "Life Isn't an Emergency." The idea is that life is not very complicated unless we make it. By incorporating virtues such as acceptance and gratitude, we can live a happy and fulfilled life. See my reading-notes [Don't Sweat The Small Stuff - Richard Carlson](https://alamgirqazi.github.io/blog/DontSweatTheSmallStuff)
 
 <hr>
@@ -28,17 +27,6 @@ permalink: books
 <br>
 
 Definitely a Life-changing book for me. Brene Brown has been an inspiration. Her two books (this one and "The Gifts of Imperfection") are definitely must read for everyone. Brene Brown talks about the difficulties that we face everyday and how we can overcome problems such as vulnerability and shame. See my reading-notes [Daring Greatly - Brene Brown](https://alamgirqazi.github.io/blog/DaringGreatly)
-<hr>
-
-
-## The Monk Who Sold His Ferrari
-<br>
-![The Monk Who Sold His Ferrari - Robin Sharma](public/The Monk Who Sold His Ferrari - Robin Sharma.jpg "The Monk Who Sold His Ferrari - Robin Sharma")
-
-**Rating 10/10**   
-<br>
-
-Astonishing. Stupendous. Remarkable. This book will really blow your mind. See my reading-notes [The Monk Who Sold His Ferrari - Robin Sharma](https://alamgirqazi.github.io/blog/TheMonkWhoSoldHisFerrari)
 <hr>
 
 
@@ -56,6 +44,28 @@ Astonishing. Stupendous. Remarkable. This book will really blow your mind. See m
 What a splendid and mindblowing book. Superb research by Brene Brown on how we can cultivate more in life by showing courage, compassion and cultivating connection. See my reading-notes [The Gifts of Imperfection - Brene Brown](https://alamgirqazi.github.io/blog/TheGiftsofImperfection)
 
 <hr>
+
+
+## Muhammad - Karen Armstrong
+<br>
+![Muhammad - Karen Armstrong](public/Muhammad - Karen Armstrong.jpg "Muhammad - Karen Armstrong")
+
+**Rating 10/10** 
+
+<br>
+
+<hr>
+
+## Pir e Kamil - Umera Ahmed
+<br>
+![Pir e Kamil - Umera Ahmed](public/Pir e Kamil - Umera Ahmed.jpg "Pir e Kamil - Umera Ahmed")
+
+**Rating 10/10** 
+
+<br>
+
+<hr>
+
 
 ## How to Win Friends and Infuence People
 <br>
@@ -84,6 +94,20 @@ What a splendid and mindblowing book. Superb research by Brene Brown on how we c
 A really phenomenal book. Mark Manson has packaged all the self-help in a very provocative read. Arguably the best self-help book out there. See my reading-notes [The Subtle Art of Not Giving a F*ck - Mark Manson](https://alamgirqazi.github.io/blog/MarkManson)
 
 <hr>
+
+
+
+## The Monk Who Sold His Ferrari
+<br>
+
+![The Monk Who Sold His Ferrari - Robin Sharma](public/The Monk Who Sold His Ferrari - Robin Sharma.jpg "The Monk Who Sold His Ferrari - Robin Sharma")
+
+**Rating 10/10**   
+<br>
+
+Astonishing. Stupendous. Remarkable. This book will really blow your mind. See my reading-notes [The Monk Who Sold His Ferrari - Robin Sharma](https://alamgirqazi.github.io/blog/TheMonkWhoSoldHisFerrari)
+<hr>
+
 
 
 
@@ -542,7 +566,7 @@ currently reading
 
 <hr>
 
-## Influence | The Psychology of Persuasion - Robert Cialdini
+<!--## Influence | The Psychology of Persuasion - Robert Cialdini
 
 <br>
 <!--![Influence | The Psychology of Persuasion - Robert Cialdini](public/Influence - Robert Cialdini.jpg " Influence | The Psychology of Persuasion - Robert Cialdini")
@@ -614,15 +638,6 @@ currently reading
 
 <br>
 
-## Muhammad - Karen Armstrong
-<br>
-![Muhammad - Karen Armstrong](public/Muhammad - Karen Armstrong.jpg "Muhammad - Karen Armstrong")
-
-**Rating (coming soon)** 
-
-<br>
-
-<hr>
 
 
 
