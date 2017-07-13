@@ -54,6 +54,7 @@ What a splendid and mindblowing book. Superb research by Brene Brown on how we c
 
 <br>
 
+A brief and an excellent account written on the life of Holy Prophet(PBUH). This book covers all the major events from his birth to his death.  
 <hr>
 
 ## Pir e Kamil - Umera Ahmed
@@ -63,6 +64,8 @@ What a splendid and mindblowing book. Superb research by Brene Brown on how we c
 **Rating 10/10** 
 
 <br>
+
+This is truly a fantastic fiction novel. The character development is just sublime. This book really shocked me. 
 
 <hr>
 
@@ -191,6 +194,19 @@ I read a summary of this book at sivers.org and its probably the one that got me
 
 
 <hr>
+
+## The Catcher in the Rye - JD Salinger
+<br>
+![The Catcher in the Rye - JD Salinger](public/Catcher in the Rye - JD Salinger.jpg "The Catcher in the Rye - JD Salinger")
+
+**Rating 9.5/10** 
+
+<br>
+
+This book nearly killed me. A true classic. 
+
+<hr>
+
 
 ## The Compound Effect - Darren Hardy
 <br>
@@ -475,6 +491,8 @@ Hugh talks about being creative and always having a side-hobby apart from your w
 
 <br>
 
+"Free will is an illusion. Our wills are simply not of our own making. Thoughts and intentions emerge from background causes of which we are unaware and over which we exert no conscious control. We do not have the freedom we think we have." See my reading-notes [Free Will - Sam Harris](https://alamgirqazi.github.io/blog/FreeWill)
+
 <hr>
 
 
@@ -486,8 +504,7 @@ Hugh talks about being creative and always having a side-hobby apart from your w
 **Rating 8.5/10**   
 
 <br>
-
-See my reading-notes [Very Good Lives - JK Rowling](https://alamgirqazi.github.io/blog/VeryGoodLives)
+JK Rowling talks about her failures and says that you're qualification isn't who you are and how Imagination is the real power. See my reading-notes [Very Good Lives - JK Rowling](https://alamgirqazi.github.io/blog/VeryGoodLives)
 
 <hr>
 
@@ -619,7 +636,7 @@ currently reading
 
 
 
-## The Power Of Now - Eckhart Tolle
+<!-- ## The Power Of Now - Eckhart Tolle
 <br>
 ![The Power Of Now - Eckhart Tolle](public/the power of now - eckhart tolle.jpg "The Power Of Now - Eckhart Tolle")
 
@@ -627,16 +644,9 @@ currently reading
 
 <br>
 
-<hr>
+<hr> -->
 
 
-## Catcher in the Rye - JD Salinger
-<br>
-![Catcher in the Rye - JD Salinger](public/Catcher in the Rye - JD Salinger.jpg "Catcher in the Rye - JD Salinger")
-
-**Rating (coming soon)** 
-
-<br>
 
 
 
