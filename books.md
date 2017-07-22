@@ -510,6 +510,19 @@ Amazeballs. Sidney Sheldon knows how to tell a story. This novel made me fall in
 
 <hr>
 
+
+## The Mastery of Love - Don Miguel Ruiz
+<br>
+![The Mastery of Love - Don Miguel Ruiz](public/the mastery of love - don miguel ruiz.jpg "The Mastery of Love - Don Miguel Ruiz")
+
+**Rating 9/10** 
+
+<br>
+
+See my reading-notes [The Mastery of Love - Don Miguel Ruiz](https://alamgirqazi.github.io/blog/TheMasteryofLove)
+
+<hr>
+
 ## Ignore Everybody - Hugh McLeod
 <br>
 ![Ignore Everybody - Hugh McLeod](public/Ignore Everybody - Hugh McLeod.jpg "Ignore Everybody - Hugh McLeod")
