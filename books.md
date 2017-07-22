@@ -221,6 +221,19 @@ A very interesting self-help book. Darren Hardy says that we can make huge break
 
 <hr>
 
+## Who Moved My Cheese - Spencer Johnson
+<br>
+![Who Moved My Cheese - Spencer Johnson](public/Who Moved My Cheese - Spencer Johnson.jpg "Who Moved My Cheese - Spencer Johnson")
+
+**Rating 9.5/10** 
+
+<br>
+
+See my reading-notes [Who Moved My Cheese - Spencer Johnson](https://alamgirqazi.github.io/blog/WhoMovedMyCheese)
+
+
+<hr>
+
 ## The Obstacle Is The Way - Ryan Holiday
 <br>
 ![The Obstacle is the way - Ryan Holiday](public/obstacle is the way - ryan holiday.jpg "The Obstacle is the way - Ryan Holiday")
@@ -307,6 +320,20 @@ Plenty of insight in this book. Steve Pavlina is one of the most famous bloggers
 
 Cheryl Strayed is a wonderful writer and a brilliant story-teller who gives advice enriched with compassion. This books contains letters and their answers which Cheryl wrote in her column on an online site TheRumpus.net
 <hr>
+
+
+## Quiet - Susan Cain
+<br>
+![Quiet - Susan Cain](public/Quiet - Susan Cain.jpg "Quiet - Susan Cain")
+
+**Rating 9/10** 
+
+<br>
+
+This is a must read book for Introverts. Susan Cain writes about introversion and extroversion based on a lot of research and gives a detailed view on how to live in a world that's made for extroverts. See my reading-notes [Quiet - Susan Cain](https://alamgirqazi.github.io/blog/Quiet)
+<hr>
+
+
 
 ## Meditations - Marcus Aurelius
 <br>
@@ -447,6 +474,18 @@ A really fascinating story of Santiago who went out to search for hidden treasur
 
 <hr>
 
+## Dairy of a Young Girl - Anne Frank
+<br>
+![Dairy of a Young Girl - Anne Frank](public/the dairy of a young girl - anne frank.jpg "Dairy of a Young Girl - Anne Frank")
+
+**Rating 9/10** 
+
+<br>
+
+So much power, authenticity and audacity in this diary from Anne Frank. Her self-knowledge for such a young person is absolutely incredible. This is a fantastic and sad read. Anne Frank wrote this in hiding during World War 2. Her family and few other friends who were hiding were found after 2 years in hiding and sent to Nazi concentration camps. Only Anne Frank's father survived. 
+
+<hr>
+
 ## Tell me your dreams - Sidney Sheldon
 <br>
 ![Tell me your dreams - Sidney Sheldon](public/Tell me your dreams - Sidney Sheldon.jpg "Tell me your dreams - Sidney Sheldon")
@@ -583,6 +622,42 @@ currently reading
 
 <hr>
 
+## The Fault In Our Stars - John Green
+<br>
+![The Fault In Our Stars - John Green](public/The Fault In Our Stars - John Green.jpg " The Fault In Our Stars - John Green")
+
+currently reading
+
+**Rating (coming soon)** 
+
+<br>
+
+<hr>
+
+## Elon Musk - Ashlee Vance
+<br>
+![Elon Musk - Ashlee Vance](public/Elon Musk - Ashlee Vance.jpg " Elon Musk - Ashlee Vance")
+
+currently reading
+
+**Rating (coming soon)** 
+
+<br>
+
+<hr>
+
+## Hiroshima - John Hersey
+<br>
+![Hiroshima - John Hersey](public/Hiroshima - John Hersey.jpg " Hiroshima - John Hersey")
+
+currently reading
+
+**Rating (coming soon)** 
+
+<br>
+
+<hr>
+
 <!--## Influence | The Psychology of Persuasion - Robert Cialdini
 
 <br>
@@ -611,28 +686,8 @@ currently reading
 
 
 
-## Quiet - Susan Cain
-<br>
-![Quiet - Susan Cain](public/Quiet - Susan Cain.jpg "Quiet - Susan Cain")
-
-**Rating (coming soon)** 
-
-<br>
 
 
-<hr>
-
-
-
-## Dairy of a Young Girl - Anne Frank
-<br>
-![Dairy of a Young Girl - Anne Frank](public/the dairy of a young girl - anne frank.jpg "Dairy of a Young Girl - Anne Frank")
-
-**Rating (coming soon)** 
-
-<br>
-
-<hr>
 
 
 
