@@ -671,6 +671,18 @@ currently reading
 
 <hr>
 
+## Muhammad - Martin Lings
+<br>
+![Muhammad - Martin Lings](public/Muhammad - Martin Lings.jpg " Muhammad - Martin Lings")
+
+currently reading
+
+**Rating (coming soon)** 
+
+<br>
+
+<hr>
+
 <!--## Influence | The Psychology of Persuasion - Robert Cialdini
 
 <br>
