@@ -138,6 +138,17 @@ One of my favourite fiction book ever. What an electrifying read from start to f
 
 <hr>
 
+## The Catcher in the Rye - JD Salinger
+<br>
+![The Catcher in the Rye - JD Salinger](public/Catcher in the Rye - JD Salinger.jpg "The Catcher in the Rye - JD Salinger")
+
+**Rating 10/10** 
+
+<br>
+
+This book nearly killed me. A true classic. 
+
+<hr>
 
 ## 5 Major Pieces To The Life Puzzle - Jim Rohn
 
@@ -195,17 +206,7 @@ I read a summary of this book at sivers.org and its probably the one that got me
 
 <hr>
 
-## The Catcher in the Rye - JD Salinger
-<br>
-![The Catcher in the Rye - JD Salinger](public/Catcher in the Rye - JD Salinger.jpg "The Catcher in the Rye - JD Salinger")
 
-**Rating 9.5/10** 
-
-<br>
-
-This book nearly killed me. A true classic. 
-
-<hr>
 
 
 ## The Compound Effect - Darren Hardy
@@ -228,8 +229,7 @@ A very interesting self-help book. Darren Hardy says that we can make huge break
 **Rating 9.5/10** 
 
 <br>
-
-See my reading-notes [Who Moved My Cheese - Spencer Johnson](https://alamgirqazi.github.io/blog/WhoMovedMyCheese)
+“Life is no straight and easy corridor along which we travel free and unhampered, but a maze of passages, through which we must seek our way, lost and confused, now and again checked in a blind alley. But always, if we have faith, a door will open for us, not perhaps one that we ourselves would ever have thought of, but one that will ultimately prove good for us.” ~ A. J. Cronin. See my reading-notes [Who Moved My Cheese - Spencer Johnson](https://alamgirqazi.github.io/blog/WhoMovedMyCheese)
 
 
 <hr>
@@ -414,7 +414,7 @@ Another awesome book from Austin Kleon. See my reading-notes [Show Your Work - A
 
 <br>
 
-See my reading-notes [This is Water - David Foster Wallace](https://alamgirqazi.github.io/blog/ThisIsWater)
+liberal arts education is not so much about filling you up with knowledge as it is about, quote, “teaching you how to think.” See my reading-notes [This is Water - David Foster Wallace](https://alamgirqazi.github.io/blog/ThisIsWater)
 
 <hr>
 
@@ -486,6 +486,19 @@ So much power, authenticity and audacity in this diary from Anne Frank. Her self
 
 <hr>
 
+## If I Stay - Gayle Forman
+<br>
+![If I Stay - Gayle Forman](public/If I Stay - Gayle Forman.jpg " If I Stay - Gayle Forman")
+
+**9/10** 
+
+<br>
+
+A gut-wrenching and heart-breaking story. An accident causes Mia to lose her parents and her 8 year old brother Teddy. One day her choices were about whether or not to join a music school and the next day she's fighting for survival. 
+
+<hr>
+
+
 ## Tell me your dreams - Sidney Sheldon
 <br>
 ![Tell me your dreams - Sidney Sheldon](public/Tell me your dreams - Sidney Sheldon.jpg "Tell me your dreams - Sidney Sheldon")
@@ -510,6 +523,18 @@ Amazeballs. Sidney Sheldon knows how to tell a story. This novel made me fall in
 
 <hr>
 
+## The Fault In Our Stars - John Green
+<br>
+![The Fault In Our Stars - John Green](public/The Fault In Our Stars - John Green.jpg " The Fault In Our Stars - John Green")
+
+**9/10** 
+
+<br>
+
+An excellent emotional book by John Green. The thing that I grasped from the book was you don't have to matter to a lot of people. You don't have to be famous and loved by everyone to achieve a meaningful life. 
+
+<hr>
+
 
 ## The Mastery of Love - Don Miguel Ruiz
 <br>
@@ -518,8 +543,7 @@ Amazeballs. Sidney Sheldon knows how to tell a story. This novel made me fall in
 **Rating 9/10** 
 
 <br>
-
-See my reading-notes [The Mastery of Love - Don Miguel Ruiz](https://alamgirqazi.github.io/blog/TheMasteryofLove)
+You have to focus on the most wonderful relationship you can have: the relationship with yourself. It is not about being selfish; it is about self-love. These are not the same. See my reading-notes [The Mastery of Love - Don Miguel Ruiz](https://alamgirqazi.github.io/blog/TheMasteryofLove)
 
 <hr>
 
@@ -635,17 +659,7 @@ currently reading
 
 <hr>
 
-## The Fault In Our Stars - John Green
-<br>
-![The Fault In Our Stars - John Green](public/The Fault In Our Stars - John Green.jpg " The Fault In Our Stars - John Green")
 
-currently reading
-
-**Rating (coming soon)** 
-
-<br>
-
-<hr>
 
 ## Elon Musk - Ashlee Vance
 <br>
@@ -662,6 +676,18 @@ currently reading
 ## Hiroshima - John Hersey
 <br>
 ![Hiroshima - John Hersey](public/Hiroshima - John Hersey.jpg " Hiroshima - John Hersey")
+
+currently reading
+
+**Rating (coming soon)** 
+
+<br>
+
+<hr>
+
+## The Book Thief - Markus Zusak
+<br>
+![The Book Thief - Markus Zusak](public/The Book Thief - Markus Zusak.jpg " The Book Thief - Markus Zusak")
 
 currently reading
 
@@ -709,8 +735,62 @@ currently reading
 
 <hr>
 
+<!-- ## The Da Vinci Code - Dan Brown
+<br>
+![The Da Vinci Code - Dan Brown](public/The Da Vinci Code - Dan Brown.jpg "The Da Vinci Code - Dan Brown")
+
+**Rating (coming soon)** 
+
+<br>
+<hr>
+
+## A Thousand Splendid Suns - Khaled Hosseini
+<br>
+![A Thousand Splendid Suns - Khaled Hosseini](public/A Thousand Splendid Suns - Khaled Hosseini.jpg "A Thousand Splendid Suns - Khaled Hosseini")
+
+**Rating (coming soon)** 
+
+<br>
+<hr>
+
+## To Kill A Mockingbird - Harper Lee
+<br>
+![To Kill A Mockingbird - Harper Lee](public/To Kill A Mockingbird - Harper Lee.jpg "To Kill A Mockingbird - Harper Lee")
+
+**Rating (coming soon)** 
+
+<br>
+<hr>
+
+## The Maze Runner - James Dashner
+<br>
+![The Maze Runner - James Dashner](public/The Maze Runner - James Dashner.jpg "The Maze Runner - James Dashner")
+
+**Rating (coming soon)** 
+
+<br>
+<hr>
+
+## Looking For Alaska - John Green
+<br>
+![Looking For Alaska - John Green](public/Looking For Alaska - John Green.jpg "Looking For Alaska - John Green")
+
+**Rating (coming soon)** 
+
+<br>
+<hr>
+
+## The Notebook - Nicholas Sparks
+<br>
+![The Notebook - Nicholas Sparks](public/The Notebook - Nicholas Sparks.jpg "The Notebook - Nicholas Sparks")
+
+**Rating (coming soon)** 
+
+<br>
+<hr>
 
 
+ -->
 
 
 
