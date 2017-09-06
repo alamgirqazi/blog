@@ -647,7 +647,7 @@ Rating (coming soon)
 
 <hr>
 
-## Stumbling on Happiness - Daniel Gilbert
+<!-- ## Stumbling on Happiness - Daniel Gilbert
 <br>
 ![Stumbling on Happiness - Daniel Gilbert](public/Stumbling on Happiness - Daniel Gilbert.jpg " Stumbling on Happiness - Daniel Gilbert")
 
@@ -657,9 +657,16 @@ currently reading
 
 <br>
 
+<hr> -->
+
+## Looking For Alaska - John Green
+<br>
+![Looking For Alaska - John Green](public/Looking For Alaska - John Green.jpg "Looking For Alaska - John Green")
+
+**Rating (coming soon)** 
+
+<br>
 <hr>
-
-
 
 ## Elon Musk - Ashlee Vance
 <br>
@@ -673,7 +680,7 @@ currently reading
 
 <hr>
 
-## Hiroshima - John Hersey
+<!-- ## Hiroshima - John Hersey
 <br>
 ![Hiroshima - John Hersey](public/Hiroshima - John Hersey.jpg " Hiroshima - John Hersey")
 
@@ -683,7 +690,7 @@ currently reading
 
 <br>
 
-<hr>
+<hr> -->
 
 ## The Book Thief - Markus Zusak
 <br>
@@ -723,7 +730,7 @@ currently reading
 <hr>-->
 
 
-
+<!-- 
 ## 4 Hour Work Week - Tim Ferriss
 <br>
 ![4 Hour Work Week - Tim Ferriss](public/four hour work week - tim ferriss.jpg "4 Hour Work Week - Tim Ferriss")
@@ -733,7 +740,7 @@ currently reading
 <br>
 
 
-<hr>
+<hr> -->
 
 <!-- ## The Da Vinci Code - Dan Brown
 <br>
@@ -771,14 +778,7 @@ currently reading
 <br>
 <hr>
 
-## Looking For Alaska - John Green
-<br>
-![Looking For Alaska - John Green](public/Looking For Alaska - John Green.jpg "Looking For Alaska - John Green")
 
-**Rating (coming soon)** 
-
-<br>
-<hr>
 
 ## The Notebook - Nicholas Sparks
 <br>
