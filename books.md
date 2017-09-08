@@ -720,6 +720,18 @@ currently reading
 
 <hr>
 
+## The Prophet - Kahlil Gibran
+<br>
+![The Prophet - Kahlil Gibran](public/The Prophet - Kahlil Gibran.jpg " The Prophet - Kahlil Gibran")
+
+currently reading
+
+**Rating (coming soon)** 
+
+<br>
+
+<hr>
+
 <!--## Influence | The Psychology of Persuasion - Robert Cialdini
 
 <br>
