@@ -282,6 +282,18 @@ See my reading-notes [Ego is the Enemy - Ryan Holiday](https://alamgirqazi.githu
 
 <hr>
 
+## Looking For Alaska - John Green
+<br>
+![Looking For Alaska - John Green](public/Looking For Alaska - John Green.jpg "Looking For Alaska - John Green")
+
+**Rating 9.5/10** 
+
+<br>
+
+John Green knows how to tear someone's heart. This book is even better than the so famous 'The Fault in Our Stars'. Looking for Alaska is a stunningly beautiful novel. 
+
+<hr>
+
 ## When Breath becomes Air - Paul Kalanithi
 <br>
 ![When Breath becomes Air - Paul Kalanithi](public/When Breath becomes Air - Paul Kalanithi.jpg "When Breath becomes Air - Paul Kalanithi")
@@ -659,14 +671,6 @@ currently reading
 
 <hr> -->
 
-## Looking For Alaska - John Green
-<br>
-![Looking For Alaska - John Green](public/Looking For Alaska - John Green.jpg "Looking For Alaska - John Green")
-
-**Rating (coming soon)** 
-
-<br>
-<hr>
 
 ## Elon Musk - Ashlee Vance
 <br>
