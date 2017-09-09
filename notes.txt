@@ -3,3 +3,5 @@ dev commands
 jekyll build
 
 jekyll serve
+
+pictures size 192 x 291 (use http://imageresize.org/)
