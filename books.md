@@ -498,6 +498,21 @@ So much power, authenticity and audacity in this diary from Anne Frank. Her self
 
 <hr>
 
+## The Prophet - Kahlil Gibran
+<br>
+![The Prophet - Kahlil Gibran](public/The Prophet - Kahlil Gibran.jpg " The Prophet - Kahlil Gibran")
+
+currently reading
+
+**9/10** 
+
+<br>
+
+A beautiful poetic book which was written way back in 1923. A little difficult to read but definitely worth it. See my reading-notes [The Prophet - Kahlil Gibran](https://alamgirqazi.github.io/blog/TheProphet)
+
+<hr>
+
+
 ## If I Stay - Gayle Forman
 <br>
 ![If I Stay - Gayle Forman](public/If I Stay - Gayle Forman.jpg " If I Stay - Gayle Forman")
@@ -720,17 +735,6 @@ currently reading
 
 <hr>
 
-## The Prophet - Kahlil Gibran
-<br>
-![The Prophet - Kahlil Gibran](public/The Prophet - Kahlil Gibran.jpg " The Prophet - Kahlil Gibran")
-
-currently reading
-
-**Rating (coming soon)** 
-
-<br>
-
-<hr>
 
 <!--## Influence | The Psychology of Persuasion - Robert Cialdini
 
