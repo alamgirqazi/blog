@@ -672,7 +672,31 @@ Rating (coming soon)
 
 <br>
 
+
 <hr>
+
+## The Notebook - Nicholas Sparks
+<br>
+![The Notebook - Nicholas Sparks](public/The Notebook - Nicholas Sparks.jpg "The Notebook - Nicholas Sparks")
+
+currently reading
+
+**Rating (coming soon)** 
+
+<br>
+<hr>
+
+## The Power of Giving - Azim Jamal and Harvey McKinnon
+<br>
+![The Power of Giving - Azim Jamal and Harvey McKinnon](public/The Power of Giving - Azim Jamal.jpg "The Power of Giving - Azim Jamal and Harvey McKinnon")
+
+currently reading
+
+**Rating (coming soon)** 
+
+<br>
+<hr>
+
 
 <!-- ## Stumbling on Happiness - Daniel Gilbert
 <br>
@@ -800,14 +824,6 @@ currently reading
 
 
 
-## The Notebook - Nicholas Sparks
-<br>
-![The Notebook - Nicholas Sparks](public/The Notebook - Nicholas Sparks.jpg "The Notebook - Nicholas Sparks")
-
-**Rating (coming soon)** 
-
-<br>
-<hr>
 
 
  -->
