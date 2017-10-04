@@ -562,6 +562,16 @@ An excellent emotional book by John Green. The thing that I grasped from the boo
 
 <hr>
 
+## The Notebook - Nicholas Sparks
+<br>
+![The Notebook - Nicholas Sparks](public/The Notebook - Nicholas Sparks.jpg "The Notebook - Nicholas Sparks")
+
+**Rating 9/10** 
+
+<br>
+
+A very compelling love story with intricate details and very well conveyed.
+<hr>
 
 ## The Mastery of Love - Don Miguel Ruiz
 <br>
@@ -675,16 +685,7 @@ Rating (coming soon)
 
 <hr>
 
-## The Notebook - Nicholas Sparks
-<br>
-![The Notebook - Nicholas Sparks](public/The Notebook - Nicholas Sparks.jpg "The Notebook - Nicholas Sparks")
 
-currently reading
-
-**Rating (coming soon)** 
-
-<br>
-<hr>
 
 ## The Power of Giving - Azim Jamal and Harvey McKinnon
 <br>
