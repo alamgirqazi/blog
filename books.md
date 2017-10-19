@@ -765,6 +765,59 @@ currently reading
 
 <hr>
 
+## 1984 - George Orwell
+<br>
+![1984 - George Orwell](public/1984 - George Orwell.jpg "1984 - George Orwell")
+
+**Rating (coming soon)** 
+
+<br>
+<hr>
+
+<!-- ## Mein Kampf - Adolf Hitler
+<br>
+![Mein Kampf - Adolf Hitler](public/Mein Kampf - Adolf Hitler.jpg "Mein Kampf - Adolf Hitler")
+
+**Rating (coming soon)** 
+
+<br>
+<hr> -->
+
+## Gone Girl - Gillian Flynn
+<br>
+![Gone Girl - Gillian Flynn](public/Gone Girl - Gillian Flynn.jpg "Gone Girl - Gillian Flynn")
+
+**Rating (coming soon)** 
+
+<br>
+<hr>
+
+## Jane Eyre - Charlotte Bronte
+<br>
+![Jane Eyre - Charlotte Bronte](public/Jane Eyre - Charlotte Bronte.jpg "Jane Eyre - Charlotte Bronte")
+
+**Rating (coming soon)** 
+
+<br>
+<hr>
+<!-- 
+## Middlemarch - George Eliot
+<br>
+![Middlemarch - George Eliot](public/Middlemarch - George Eliot.jpg "Middlemarch - George Eliot")
+
+<!-- **Rating (coming soon)** 
+
+<br>
+<hr>
+
+## Mindwise - Nicholas Epley
+<br>
+![Mindwise - Nicholas Epley](public/Mindwise - Nicholas Epley.jpg "Mindwise - Nicholas Epley")
+
+**Rating (coming soon)** 
+
+<br>
+<hr> -->
 
 <!--## Influence | The Psychology of Persuasion - Robert Cialdini
 
@@ -809,6 +862,9 @@ currently reading
 
 <br>
 <hr>
+
+
+
 
 ## To Kill A Mockingbird - Harper Lee
 <br>
