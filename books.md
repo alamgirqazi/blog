@@ -150,10 +150,23 @@ This book nearly killed me. A true classic.
 
 <hr>
 
-## 5 Major Pieces To The Life Puzzle - Jim Rohn
+## The Book Thief - Markus Zusak
+
+<br>
+![The Book Thief - Markus Zusak](public/The Book Thief - Markus Zusak.jpg " The Book Thief - Markus Zusak")
+
+
+**Rating 10/10** 
 
 <br>
 
+Easily among the most well-written books I've read alongside 'The Catcher in the Rye'. A very gripping and intense novel with full of emotions.  
+
+<hr>
+
+## 5 Major Pieces To The Life Puzzle - Jim Rohn
+
+<br>
 ![5 Major Pieces To The Life Puzzle - Jim Rohn](public/5 major pieces to the life puzzle - jim rohn.jpg "5 Major Pieces To The Life Puzzle - Jim Rohn")
 
 **Rating 9.5/10** 
@@ -512,6 +525,17 @@ A beautiful poetic book which was written way back in 1923. A little difficult t
 
 <hr>
 
+## The Power of Giving - Azim Jamal and Harvey McKinnon
+<br>
+![The Power of Giving - Azim Jamal and Harvey McKinnon](public/The Power of Giving - Azim Jamal.jpg "The Power of Giving - Azim Jamal and Harvey McKinnon")
+
+**9/10** 
+
+<br>
+
+See my reading-notes [The Power of Giving - Azim Jamal and Harvey McKinnon](https://alamgirqazi.github.io/blog/ThePowerOfGiving)
+
+<hr>
 
 ## If I Stay - Gayle Forman
 <br>
@@ -687,16 +711,7 @@ Rating (coming soon)
 
 
 
-## The Power of Giving - Azim Jamal and Harvey McKinnon
-<br>
-![The Power of Giving - Azim Jamal and Harvey McKinnon](public/The Power of Giving - Azim Jamal.jpg "The Power of Giving - Azim Jamal and Harvey McKinnon")
 
-currently reading
-
-**Rating (coming soon)** 
-
-<br>
-<hr>
 
 
 <!-- ## Stumbling on Happiness - Daniel Gilbert
@@ -736,17 +751,7 @@ currently reading
 
 <hr> -->
 
-## The Book Thief - Markus Zusak
-<br>
-![The Book Thief - Markus Zusak](public/The Book Thief - Markus Zusak.jpg " The Book Thief - Markus Zusak")
 
-currently reading
-
-**Rating (coming soon)** 
-
-<br>
-
-<hr>
 
 ## Muhammad - Martin Lings
 <br>
