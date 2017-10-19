@@ -62,3 +62,29 @@ Cognitive strain, whatever its source, mobilizes System 2, which is more likely 
 
 Mood evidently affects the operation of System 1: when we are uncomfortable and unhappy, we lose touch with our intuition.
 
+System 1 does not keep track of alternatives that it rejects, or even of the fact that there were alternatives. Conscious doubt is not in the repertoire of System 1; it requires maintaining incompatible interpretations in mind at the same time, which demands mental effort. Uncertainty and doubt are the domain of System 2.
+
+System 1 is gullible and biased to believe, System 2 is in charge of doubtinh and unbelieving, but System 2 is sometimes busy, and often lazy. Indeed, there is evidence that people are more likely to be influenced by empty persuasive messages, such as commercials, when they are tired and depleted.
+
+It is the consistency of the information that matters for a good story, not its completeness. Indeed, you will often find that knowing little makes it easier to fit everything you know into a coherent pattern.
+
+cold cuts described as "90% fat-free" are more attractive than when they are described as "10% fat."
+
+How may dates did you have last month?
+How happy are you these days?
+
+Happiness these days is not a natural or easy assessment. A good answer requires a fair amount of thinking.
+
+The present state of mind looms very large when people evaluate their happiness.
+
+Self-criticism is one of the functions of System 2.
+
+people:
+* are less confident in a choice when they are asked to produce more arguments to support it.
+* are less impressed by a car after listing many of its advantages.
+
+people form opinions and make choices that directly express their feelings and their basic tendency to approach or avoid, often without knowing that they are doing so.
+
+"Risk" doesnot exist "out there," independent of our minds and culture, waiting to be measured. Human beings have invented the concept of "risk" to help them understand and cope with the dangers and uncertainities of life.
+
+
