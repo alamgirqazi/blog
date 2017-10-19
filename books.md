@@ -4,7 +4,7 @@ title: Books
 permalink: books
 ---
 
-<br>
+<!-- <br> -->
 
 ## Don't Sweat The Small Stuff - Richard Carlson
 <br>
@@ -14,7 +14,7 @@ permalink: books
 
 <br>
 
-"Life Isn't an Emergency." The idea is that life is not very complicated unless we make it. By incorporating virtues such as acceptance and gratitude, we can live a happy and fulfilled life. See my reading-notes [Don't Sweat The Small Stuff - Richard Carlson](https://alamgirqazi.github.io/blog/DontSweatTheSmallStuff)
+"Life Isn't an Emergency." The idea is that life is not very complicated unless we make it. By incorporating virtues such as acceptance and gratitude, we can live a happy and fulfilled life. Easily the best self-help book out there. See my reading-notes [Don't Sweat The Small Stuff - Richard Carlson](https://alamgirqazi.github.io/blog/DontSweatTheSmallStuff)
 
 <hr>
 
@@ -710,21 +710,8 @@ Rating (coming soon)
 <hr>
 
 
-
-
-
-
-<!-- ## Stumbling on Happiness - Daniel Gilbert
+## Stumbling on Happiness - Daniel Gilbert
 <br>
-![Stumbling on Happiness - Daniel Gilbert](public/Stumbling on Happiness - Daniel Gilbert.jpg " Stumbling on Happiness - Daniel Gilbert")
-
-currently reading
-
-**Rating (coming soon)** 
-
-<br>
-
-<hr> -->
 
 
 ## Elon Musk - Ashlee Vance
@@ -733,23 +720,33 @@ currently reading
 
 currently reading
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 
 <hr>
 
-<!-- ## Hiroshima - John Hersey
+![Stumbling on Happiness - Daniel Gilbert](public/Stumbling on Happiness - Daniel Gilbert.jpg " Stumbling on Happiness - Daniel Gilbert")
+
+<!-- currently reading -->
+
+<!-- **Rating (coming soon)**  -->
+
+<br>
+
+<hr>
+
+## Hiroshima - John Hersey
 <br>
 ![Hiroshima - John Hersey](public/Hiroshima - John Hersey.jpg " Hiroshima - John Hersey")
 
-currently reading
+<!-- currently reading -->
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 
-<hr> -->
+<hr>
 
 
 
@@ -757,9 +754,9 @@ currently reading
 <br>
 ![Muhammad - Martin Lings](public/Muhammad - Martin Lings.jpg " Muhammad - Martin Lings")
 
-currently reading
+<!-- currently reading -->
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 
@@ -769,25 +766,39 @@ currently reading
 <br>
 ![1984 - George Orwell](public/1984 - George Orwell.jpg "1984 - George Orwell")
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 <hr>
 
-<!-- ## Mein Kampf - Adolf Hitler
+## Mein Kampf - Adolf Hitler
+
 <br>
 ![Mein Kampf - Adolf Hitler](public/Mein Kampf - Adolf Hitler.jpg "Mein Kampf - Adolf Hitler")
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
-<hr> -->
+<hr>
+
+## 4 Hour Work Week - Tim Ferriss
+
+<br>
+![4 Hour Work Week - Tim Ferriss](public/four hour work week - tim ferriss.jpg "4 Hour Work Week - Tim Ferriss")
+
+<!-- **Rating (coming soon)**  -->
+
+<br>
+
+
+<hr>
+# Up next in reading list 
 
 ## Gone Girl - Gillian Flynn
 <br>
 ![Gone Girl - Gillian Flynn](public/Gone Girl - Gillian Flynn.jpg "Gone Girl - Gillian Flynn")
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 <hr>
@@ -796,16 +807,16 @@ currently reading
 <br>
 ![Jane Eyre - Charlotte Bronte](public/Jane Eyre - Charlotte Bronte.jpg "Jane Eyre - Charlotte Bronte")
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 <hr>
-<!-- 
+
 ## Middlemarch - George Eliot
 <br>
 ![Middlemarch - George Eliot](public/Middlemarch - George Eliot.jpg "Middlemarch - George Eliot")
 
-<!-- **Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 <hr>
@@ -814,42 +825,29 @@ currently reading
 <br>
 ![Mindwise - Nicholas Epley](public/Mindwise - Nicholas Epley.jpg "Mindwise - Nicholas Epley")
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
-<hr> -->
+<hr>
 
-<!--## Influence | The Psychology of Persuasion - Robert Cialdini
-
-<br>
-<!--![Influence | The Psychology of Persuasion - Robert Cialdini](public/Influence - Robert Cialdini.jpg " Influence | The Psychology of Persuasion - Robert Cialdini")
-
-currently reading
-
-**Rating (coming soon)** 
+## Influence | The Psychology of Persuasion - Robert Cialdini
 
 <br>
+![Influence | The Psychology of Persuasion - Robert Cialdini](public/Influence - Robert Cialdini.jpg " Influence | The Psychology of Persuasion - Robert Cialdini")
 
-<hr>-->
+<!-- currently reading -->
 
-
-<!-- 
-## 4 Hour Work Week - Tim Ferriss
-<br>
-![4 Hour Work Week - Tim Ferriss](public/four hour work week - tim ferriss.jpg "4 Hour Work Week - Tim Ferriss")
-
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 
+<hr>
 
-<hr> -->
-
-<!-- ## The Da Vinci Code - Dan Brown
+## The Da Vinci Code - Dan Brown
 <br>
 ![The Da Vinci Code - Dan Brown](public/The Da Vinci Code - Dan Brown.jpg "The Da Vinci Code - Dan Brown")
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 <hr>
@@ -858,7 +856,7 @@ currently reading
 <br>
 ![A Thousand Splendid Suns - Khaled Hosseini](public/A Thousand Splendid Suns - Khaled Hosseini.jpg "A Thousand Splendid Suns - Khaled Hosseini")
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 <hr>
@@ -870,7 +868,7 @@ currently reading
 <br>
 ![To Kill A Mockingbird - Harper Lee](public/To Kill A Mockingbird - Harper Lee.jpg "To Kill A Mockingbird - Harper Lee")
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 <hr>
@@ -879,42 +877,28 @@ currently reading
 <br>
 ![The Maze Runner - James Dashner](public/The Maze Runner - James Dashner.jpg "The Maze Runner - James Dashner")
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 <hr>
 
-
-
-
-
- -->
-
-
-
-
-
-<!-- ## The Power Of Now - Eckhart Tolle
+## The Power Of Now - Eckhart Tolle
 <br>
 ![The Power Of Now - Eckhart Tolle](public/the power of now - eckhart tolle.jpg "The Power Of Now - Eckhart Tolle")
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 
-<hr> -->
+<hr>
 
 
 
-
-
-
-<!--
 ## When Things Fall Apart - Pema Chodron
 <br>
 ![When Things Fall Apart - Pema Chodron](public/When Things Fall Apart - Pema Chodron.jpg "When Things Fall Apart - Pema Chodron")
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 
@@ -924,9 +908,19 @@ currently reading
 <br>
 ![The Wisdom of No Escape - Pema Chodron](public/The Wisdom of No Escape - Pema Chodron.jpg "The Wisdom of No Escape - Pema Chodron")
 
-**Rating (coming soon)** 
+<!-- **Rating (coming soon)**  -->
 
 <br>
 
 <hr>
--->
+
+## Don't Sweat The Small Stuff In Love - Richard Carlson
+<br>
+![Don't Sweat The Small Stuff In Love - Richard Carlson](public/Don't Sweat The Small Stuff In Love - Richard Carlson.jpg "Don't Sweat The Small Stuff In Love - Richard Carlson")
+
+<!-- **Rating (coming soon)**  -->
+
+<br>
+
+<hr>
+
