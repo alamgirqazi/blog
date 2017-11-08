@@ -62,12 +62,12 @@ We keep asking for more. Before doing that, look at what we've been blessed with
 
 <br>
 
-> Free yourself from the expectations of people & place it in the hands of your Creator. You'll see the wold from a different lens. Peace!
+> Free yourself from the expectations of people & place it in the hands of your Creator. You'll see the world from a different lens. Peace!
 
 <br>
 
 <p class="message">
-Begin your day with prayer, end it with prayer. Everything in between will fall into place. You'll feel a sense of calm, your heart at ease
+Begin your day with prayer, end it with prayer. Everything in between will fall into place. You'll feel a sense of calm, your heart at ease.
 
 </p>
 
@@ -88,7 +88,7 @@ Wipe someone's tears with a smile. Reach out to those needing a hand. Lend an ea
 
 <p class="message">
 
-It's natural for us to stumble, lose hope & get impatient during trials. But if we remember He's in control, we'll see the hidden blessings</p>
+It's natural for us to stumble, lose hope & get impatient during trials. But if we remember He's in control, we'll see the hidden blessings.</p>
 
 <br>
 
@@ -125,7 +125,7 @@ Remember you can either complain about it or have faith in the Almighty to guide
 
 <p class="message">
 
-Keep your modesty in check for both women & men. The most beautiful are those who don't need validation from people as well as social media
+Keep your modesty in check for both women & men. The most beautiful are those who don't need validation from people as well as social media.
 </p>
 
 <br>
@@ -141,7 +141,7 @@ Don't just be impressed with what's on the outside in people. Look deeper. Look 
 
 <br>
 
-> Social media is scary. It makes you think you need to be perfect. So we hide our flaws, pretending it's all good. Don't fall into this trap
+> Social media is scary. It makes you think you need to be perfect. So we hide our flaws, pretending it's all good. Don't fall into this trap.
 
 <br>
 
@@ -207,7 +207,7 @@ Today it's hard to find people who don't judge by status, looks or money. But th
 <br>
 
 <p class="message">
-Beware those who are only there when you're doing well. They befriend you for some personal gain. Value those who value you for who you are
+Beware those who are only there when you're doing well. They befriend you for some personal gain. Value those who value you for who you are.
 </p>
 
 <br>
@@ -215,11 +215,6 @@ Beware those who are only there when you're doing well. They befriend you for so
 > The more challenges you face, the more you grow as a person. So never complain about your tests. You'll look back & thank Him one day.
 
 <br>
-
-
-
-
-
 
 
 <p class="center">  <strong>41 - 50</strong></p>
@@ -246,7 +241,7 @@ Your happiness doesn't depend on how much wealth you have or what's happening ar
 
 
 <p class="message">
-It's never about material stuff, wealth, fame. It's always about the heart. The Almighty looks NOT at how you look but what's in your heart
+It's never about material stuff, wealth, fame. It's always about the heart. The Almighty looks NOT at how you look but what's in your heart.
 </p>
 <br>
 
