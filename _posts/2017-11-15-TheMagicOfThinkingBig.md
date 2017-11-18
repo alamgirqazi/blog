@@ -43,4 +43,94 @@ Most of us make two basic errors with respect to intelligence:
 
 The thinking that guides your intelligence is much more important than how much intelligence you may have.
 
-Just enough sense to stick with something - a chore 
+Just enough sense to stick with something - a chore, task, project--until it's completed pays off much better than idle intelligence, even if idle intelligence be of genius caliber.
+
+For stickability is 95% of ability.
+
+It's a rare case when we pass up a young fellow because he lacks brains. Nearly always it's attitude.
+
+Einstein taught us a big lesson. He felt it was more important to use your mind to think than to use it as a warehouse for facts.
+
+The ability of know how to get information is more important than using the mind as a garage for facts.
+
+Never underestimate your own intelligence, and never overestimate the intelligence of other. Don't sell yourself short.
+
+Plays and magazine articles on the topic "Why You Are Washed Up at 40" are popular, not because they present true facts, but because they appeal to many worried minds looking for an excuse.
+
+Life is actually longer than most people think!
+
+think, "I'm going to start now. my best years are ahead of me."
+
+Action cures fear.
+
+to think confidently, act confidently.
+
+Psychologists tell us we can change our attitude by changing our physical actions. 
+
+You can feel more superior when you make yourself stand tall than when you slouch.
+
+Psychologists link slovenly posture and sluggish walking to unpleasant attitudes towards oneself, work, and the people around us.
+
+Then there's a third group. Their walk tells the world, "I've got someplace important to go, something important to do. What's more, I will succeed at what I will do fifteen minutes from now."
+
+One of the main things we want to determine in the screening interview is the individuals motivation. We want to find out if he or she is the kind of person who can, in a few years, direct major projects.
+
+The tendency for so many people to think small means there is much less competition than you think for a very rewarding career.
+
+Where success is concerned, people are not measured in inches or pounds or college degrees, or family backgrounds; they are measured by the size of their thinking. How big we think determines the size of our accomplishments.
+
+You're bigger than you think. So fit your thinking to your true size. Think as big as you really are! Never, never, never sell yourself short!
+
+We do not think in words and phrases. We think only in pictures and/or images. When spoken or read, that amazing instrument, the mind, automatically converts words and phrases into mind pictures.
+
+Say you feel wonderful at every possible opportunity. Become known as a person who always feels great.
+
+Compliment people personally at every opportunity.
+
+Look at things not as they are, but as they can be. Visualization adds value to everything. A big thinker always visualizes what can be done in the future. He isn't stuck with the present. 
+
+I've made up my mind to look at myself as a person I'm going to be in a few short years.
+
+And when I look at myself that way, I feel bigger and think bigger.
+
+As you move higher and higher in the world of success, more and more of your job becomes "people development."
+
+big things that make a good speaker: knowledge of what he's going to talk about and an increase desire to tell it to other people.
+
+Yet all these successful public-speakers have one thing in common: They have something to say and they feel a burning desire for other people to hear it. 
+
+Remember, It pays in every way to think big!
+
+Don't sell yourself short. Conquer the crime of self-deprecation. Concentrate on your assets. You're better than you think you are.
+
+Stretch your vision. See what can be, not just what is, Practice adding value to thinks, to people, and to yourself.
+
+When you believe something is impossible, your mind goes to work for you to prove why. But when you believe, really believe, something can be done, your mind goes to work for you and helps you find the ways to do it.
+
+Just by conscientiously asking myself, 'How can I do a better job?' I find the answers.
+
+Top success is reserved for the I-can-do-t-better kind of person.
+
+Capacity is a state of mind. How much we can do depends on how much we think we can do. When you really believe you can do more, your mind thinks creatively and shows you the way.
+
+Others see in us what we see in ourselves. We recieve the kind of treatment we think we deserve.
+
+To gain the respect of others, you must first think you deserve respect. And the more respect you have for yourself, the more respect others will have for you.
+
+Remember, your appearance "talks."
+
+"Dress Right. You Can't Afford Not To!"
+
+Look at yourself through your superior's eyes, your associates eyes.
+
+Your physical exterior affects your mental interior. How you look on the outside affects how you think and feel on the inside.
+
+The well-dressed person's appearance says positive things. It tells people, "Here is an important person: intelligent, prosperous, and dependable. This man can be looked up to, admired, trusted. He respects himself, and I respect him."
+
+When I worry: Would an important person worry about this?
+
+When I lose my temper: Would an important person get mad at what I'm mad at?
+
+In all of life's situations, ask yourself, "Is this the way an important person thinks?" Then obey the answer.
+
+
