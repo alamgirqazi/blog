@@ -515,8 +515,6 @@ So much power, authenticity and audacity in this diary from Anne Frank. Her self
 <br>
 ![The Prophet - Kahlil Gibran](public/The Prophet - Kahlil Gibran.jpg " The Prophet - Kahlil Gibran")
 
-currently reading
-
 **9/10** 
 
 <br>
@@ -705,13 +703,42 @@ currently reading
 Rating (coming soon)
 
 <br>
+<hr>
 
+## The Magic of Thinking Big - David Schwartz
+<br>
+![The Magic of Thinking Big - David Schwartz](public/The Magic of Thinking Big - David Schwartz.jpeg " The Magic of Thinking Big - David Schwartz")
 
+currently reading
+
+Rating (coming soon)
+
+<br>
+<hr>
+
+## Milk and Honey - Rupi Kaur
+<br>
+![Milk and Honey - Rupi Kaur](public/Milk and Honey - Rupi Kaur.jpeg " Milk and Honey - Rupi Kaur")
+
+currently reading
+
+Rating (coming soon)
+
+<br>
+<hr>
+
+## Hunger - Roxane Gay
+<br>
+![Hunger - Roxane Gay](public/Hunger - Roxane Gay.jpeg " Hunger - Roxane Gay")
+
+currently reading
+
+Rating (coming soon)
+
+<br>
 <hr>
 
 
-## Stumbling on Happiness - Daniel Gilbert
-<br>
 
 
 ## Elon Musk - Ashlee Vance
@@ -726,9 +753,12 @@ currently reading
 
 <hr>
 
+
+## Stumbling on Happiness - Daniel Gilbert
+<br>
 ![Stumbling on Happiness - Daniel Gilbert](public/Stumbling on Happiness - Daniel Gilbert.jpg " Stumbling on Happiness - Daniel Gilbert")
 
-<!-- currently reading -->
+currently reading
 
 <!-- **Rating (coming soon)**  -->
 
