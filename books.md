@@ -873,8 +873,6 @@ Rating (coming soon)
 
 currently reading
 
-Rating (coming soon)
-
 <br>
 <hr>
 
@@ -882,9 +880,24 @@ Rating (coming soon)
 
 <br>
 ![Jane Eyre - Charlotte Bronte](public/Jane Eyre - Charlotte Bronte.jpg "Jane Eyre - Charlotte Bronte")
+currently reading
 
 <br>
 <hr>
+
+## Siddhartha - Hermann Hesse
+
+<br>
+
+![Siddhartha - Hermann Hesse](public/siddhartha - hermann hesse.jpeg "siddhartha - hermann hesse")
+
+currently reading
+
+
+<br>
+
+<hr>
+
 ## Elon Musk - Ashlee Vance
 
 <br>
@@ -905,24 +918,11 @@ currently reading
 
 currently reading
 
-<!-- **Rating (coming soon)**  -->
-
 <br>
 
 <hr>
 
-## Hiroshima - John Hersey
 
-<br>
-![Hiroshima - John Hersey](public/Hiroshima - John Hersey.jpg " Hiroshima - John Hersey")
-
-<!-- currently reading -->
-
-<!-- **Rating (coming soon)**  -->
-
-<br>
-
-<hr>
 
 ## Muhammad - Martin Lings
 
@@ -941,6 +941,43 @@ currently reading
 
 <br>
 ![1984 - George Orwell](public/1984 - George Orwell.jpg "1984 - George Orwell")
+
+<!-- **Rating (coming soon)**  -->
+
+<br>
+<hr>
+
+
+
+# Up next in reading list
+
+## Gone Girl - Gillian Flynn
+
+<br>
+![Gone Girl - Gillian Flynn](public/Gone Girl - Gillian Flynn.jpg "Gone Girl - Gillian Flynn")
+
+<!-- **Rating (coming soon)**  -->
+
+<br>
+<hr>
+
+## Hiroshima - John Hersey
+
+<br>
+![Hiroshima - John Hersey](public/Hiroshima - John Hersey.jpg " Hiroshima - John Hersey")
+
+<!-- currently reading -->
+
+<!-- **Rating (coming soon)**  -->
+
+<br>
+
+<hr>
+
+## Middlemarch - George Eliot
+
+<br>
+![Middlemarch - George Eliot](public/Middlemarch - George Eliot.jpg "Middlemarch - George Eliot")
 
 <!-- **Rating (coming soon)**  -->
 
@@ -967,28 +1004,6 @@ currently reading
 <br>
 
 <hr>
-# Up next in reading list
-
-## Gone Girl - Gillian Flynn
-
-<br>
-![Gone Girl - Gillian Flynn](public/Gone Girl - Gillian Flynn.jpg "Gone Girl - Gillian Flynn")
-
-<!-- **Rating (coming soon)**  -->
-
-<br>
-<hr>
-
-## Middlemarch - George Eliot
-
-<br>
-![Middlemarch - George Eliot](public/Middlemarch - George Eliot.jpg "Middlemarch - George Eliot")
-
-<!-- **Rating (coming soon)**  -->
-
-<br>
-<hr>
-
 ## Mindwise - Nicholas Epley
 
 <br>
