@@ -47,8 +47,7 @@ reading-notes
 
 <br>
 
-![The Gifts of Imperfection - Brene Brown](public/the gifts of imperfection.jpg
-"The Gifts of Imperfection - Brene Brown")
+![The Gifts of Imperfection - Brene Brown](public/the gifts of imperfection.jpg "The Gifts of Imperfection - Brene Brown")
 
 **Rating 10/10**
 
@@ -94,7 +93,7 @@ sublime. This book really shocked me.
 <br>
 ![How to Win Friends and Infuence People - Dale Carnegie](public/How to Win Friends and Influence People.jpg "How to Win Friends and Infuence People - Dale Carnegie")
 
-**Rating 10/10**\
+**Rating 10/10**
 <br>
 
 This book is a top 5 favourite of most of my mentors and now I know why. A
@@ -104,12 +103,11 @@ perfect. See my reading-notes
 
 <hr>
 
-## The Subtle Art of Not Giving a F\*ck - Mark Manson
+## The Subtle Art of Not Giving a F*ck - Mark Manson
 
 <br>
 
-![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The
-Subtle Art of Not Giving a F\*ck - Mark Manson")
+![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a F*ck - Mark Manson")
 
 **Rating 10/10**
 
@@ -118,7 +116,7 @@ Subtle Art of Not Giving a F\*ck - Mark Manson")
 A really phenomenal book. Mark Manson has packaged all the self-help in a very
 provocative read. Arguably the best self-help book out there. See my
 reading-notes
-[The Subtle Art of Not Giving a F\*ck - Mark Manson](https://alamgirqazi.github.io/blog/MarkManson)
+[The Subtle Art of Not Giving a F*ck - Mark Manson](https://alamgirqazi.github.io/blog/MarkManson)
 
 <hr>
 
@@ -126,10 +124,10 @@ reading-notes
 
 <br>
 
-![The Monk Who Sold His Ferrari - Robin Sharma](public/The Monk Who Sold His
-Ferrari - Robin Sharma.jpg "The Monk Who Sold His Ferrari - Robin Sharma")
+![The Monk Who Sold His Ferrari - Robin Sharma](public/The Monk Who Sold His Ferrari - Robin Sharma.jpg "The Monk Who Sold His Ferrari - Robin Sharma")
 
-**Rating 10/10** <br>
+**Rating 10/10**
+<br>
 
 Astonishing. Stupendous. Remarkable. This book will really blow your mind. See
 my reading-notes
@@ -214,8 +212,7 @@ Hardy. See my reading-notes
 
 <br>
 
-![Rising Strong - Brene Brown](public/Rising Strong - Brene Brown.jpg "Rising
-Strong - Brene Brown")
+![Rising Strong - Brene Brown](public/Rising Strong - Brene Brown.jpg "Rising Strong - Brene Brown")
 
 **Rating 9.5/10**
 
@@ -481,8 +478,7 @@ out. I'll probably have to re-read this book in a year. See my reading-notes
 
 <br>
 
-![Man's Search for Meaning - Viktor Frankl](public/man's search for meaning -
-viktor frankl.jpg "Man's Search for Meaning - Viktor Frankl")
+![Man's Search for Meaning - Viktor Frankl](public/man's search for meaning - viktor frankl.jpg "Man's Search for Meaning - Viktor Frankl")
 
 **Rating 9/10**
 
@@ -530,8 +526,7 @@ Another awesome book from Austin Kleon. See my reading-notes
 
 <br>
 
-![This is Water - David Foster Wallace](public/This is Water - David Foster
-Wallace.jpg "This is Water - David Foster Wallace")
+![This is Water - David Foster Wallace](public/This is Water - David Foster Wallace.jpg "This is Water - David Foster Wallace")
 
 **Rating 9/10**
 
@@ -547,8 +542,7 @@ is about, quote, “teaching you how to think.” See my reading-notes
 
 <br>
 
-![Emotional Intelligence - Daniel Goleman](public/Emotional Intelligence -
-Daniel Goleman.jpg "Emotional Intelligence - Daniel Goleman")
+![Emotional Intelligence - Daniel Goleman](public/Emotional Intelligence - Daniel Goleman.jpg "Emotional Intelligence - Daniel Goleman")
 
 **Rating 9/10**
 
@@ -564,8 +558,7 @@ extremely essential. See my reading-notes
 
 <br>
 
-![Anything You Want - Derek Sivers](public/Anything You Want - Derek Sivers.jpg
-"Anything You Want - Derek Sivers")
+![Anything You Want - Derek Sivers](public/Anything You Want - Derek Sivers.jpg "Anything You Want - Derek Sivers")
 
 **Rating 9/10**
 
@@ -584,8 +577,7 @@ sold for 22 million and had 85 employees at the time. See my reading-notes
 
 <br>
 
-![Tuesdays with Morrie - Mitch Albom](public/Tuesdays with Morrie - Mitch
-Albom.jpg "Tuesdays with Morrie - Mitch Albom")
+![Tuesdays with Morrie - Mitch Albom](public/Tuesdays with Morrie - Mitch Albom.jpg "Tuesdays with Morrie - Mitch Albom")
 
 **Rating 9/10**
 
@@ -789,8 +781,7 @@ have." See my reading-notes
 
 ## Very Good Lives - JK Rowling
 
-![Very Good Lives - JK Rowling](public/Very Good Lives - JK Rowling.jpg "Very
-Good Lives - JK Rowling")
+![Very Good Lives - JK Rowling](public/Very Good Lives - JK Rowling.jpg "Very Good Lives - JK Rowling")
 
 **Rating 8.5/10**
 
@@ -829,8 +820,7 @@ A very spectacular read indeed. The concept of outliers is truly astonishing.
 
 <br>
 
-![The Tipping Point - Malcolm Gladwell](public/The Tipping Point.jpg "The
-Tipping Point - Malcolm Gladwell "The Tipping Point - Malcolm Gladwell")
+![The Tipping Point - Malcolm Gladwell](public/The Tipping Point.jpg "The Tipping Point - Malcolm Gladwell "The Tipping Point - Malcolm Gladwell")
 
 **Rating 8/10**
 
