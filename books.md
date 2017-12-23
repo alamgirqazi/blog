@@ -658,7 +658,7 @@ to read but definitely worth it. See my reading-notes
 
 <br>
 
-See my reading-notes
+"The more you give of yourself, the more you find of yourself." See my reading-notes
 [The Power of Giving - Azim Jamal and Harvey McKinnon](https://alamgirqazi.github.io/blog/ThePowerOfGiving)
 
 <hr>

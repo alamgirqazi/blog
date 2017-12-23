@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 32. The Power of Giving - Azim Jamal and Harvey McKinnon
-permalink: ThePowerOfGving
+permalink: ThePowerOfGiving
 ---
 
 ![The Power of Giving - Azim Jamal and Harvey McKinnon](public/The Power of Giving - Azim Jamal.jpg "The Power of Giving - Azim Jamal and Harvey McKinnon")
 
-**Rating 9/10** 
+**Rating 9/10**
 
 <br>
 
@@ -32,15 +32,15 @@ Counselor Carol Ann Fried has a warning about expressing feelings. She says that
 
 Kahlil Gibran says, "To live in the heart of others is not to die."
 
-Motivational author Robert Schuller asks, "What would you attempt to do if you knew you could not fail?" 
+Motivational author Robert Schuller asks, "What would you attempt to do if you knew you could not fail?"
 
 How you see others is more a reflection of you than of them!
 
 > In the words of Ralph Waldo Emerson, "It is one of the beautiful compensations of this life that no one can sincerely try to help another without helping himself."
 
-Kahlil Gibran says, "Someone who has hurt you is also hurting, maybe with your kindness this hurt will go away." 
+Kahlil Gibran says, "Someone who has hurt you is also hurting, maybe with your kindness this hurt will go away."
 
 The day you are able to feel joy in giving, no matter what your status, is the day you find bliss in life.
 
-Socrates, "The unexamined life is not worth living." 
+Socrates, "The unexamined life is not worth living."
 
