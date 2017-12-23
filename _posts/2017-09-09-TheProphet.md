@@ -6,7 +6,7 @@ permalink: TheProphet
 
 ![The Prophet - Kahlil Gibran](public/The Prophet - Kahlil Gibran.jpg "The Prophet - Kahlil Gibran")
 
-**Rating 9/10** 
+**Rating 9/10**
 
 <br>
 
@@ -24,7 +24,7 @@ If he is indeed wise he does not bid you enter the house of his wisdom, but rath
 
 On Friendship:
 And let your best be for your friend.
-If he must know the ebb of your tide, let him know its flood also. 
+If he must know the ebb of your tide, let him know its flood also.
 
 For in the dew of little things the heart finds its morning and is refreshed.
 
