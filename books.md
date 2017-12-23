@@ -208,6 +208,22 @@ Hardy. See my reading-notes
 
 <hr>
 
+
+## The Magic of Thinking Big - David Schwartz
+
+
+<br>
+![The Magic of Thinking Big - David Schwartz](public/The Magic of Thinking Big - David Schwartz.jpeg " The Magic of Thinking Big - David Schwartz")
+
+**Rating 9.5/10**
+
+<br>
+
+This is a wonderful self-help book. Your thinking matters more than you realize. It's a comparatively longer read but still doesn't feel repititive at all. See my reading-notes
+[The Magic of Thinking Big - David Schwartz](https://alamgirqazi.github.io/blog/TheMagicOfThinkingBig)
+
+<hr>
+
 ## Rising Strong - Brene Brown
 
 <br>
@@ -856,15 +872,7 @@ Rating (coming soon)
 <br>
 <hr>
 
-## The Magic of Thinking Big - David Schwartz
 
-<br>
-![The Magic of Thinking Big - David Schwartz](public/The Magic of Thinking Big - David Schwartz.jpeg " The Magic of Thinking Big - David Schwartz")
-
-currently reading
-
-<br>
-<hr>
 
 ## Jane Eyre - Charlotte Bronte
 
