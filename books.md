@@ -493,7 +493,7 @@ out. I'll probably have to re-read this book in a year. See my reading-notes
 ## Turtles All The Way Down - John Green
 
 <br>
-![Turtles All The Way Down - John Green](public/Turtles All The Way Down - John Green.jpeg "Turtles All The Way Down - John Green")
+![Turtles All The Way Down - John Green](public/turtles all the way down - john green.jpeg "Turtles All The Way Down - John Green")
 
 **Rating 9/10**
 
@@ -1103,7 +1103,7 @@ currently reading
 ## The Wisdom of No Escape - Pema Chodron
 
 <br>
-![The Wisdom of No Escape - Pema Chodron](public/The Wisdom of No Escape - Pema Chodron.jpg "The Wisdom of No Escape - Pema Chodron")
+![The Wisdom of No Escape - Pema Chodron](public/The Wisdom of no Escape - Pema Chodron.jpg "The Wisdom of No Escape - Pema Chodron")
 
 <!-- **Rating (coming soon)**  -->
 
