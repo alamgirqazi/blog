@@ -490,6 +490,19 @@ out. I'll probably have to re-read this book in a year. See my reading-notes
 
 <hr>
 
+## Turtles All The Way Down - John Green
+
+<br>
+![Turtles All The Way Down - John Green](public/Turtles All The Way Down - John Green.jpeg "Turtles All The Way Down - John Green")
+
+**Rating 9/10**
+
+<br>
+
+Had great expectations and it didn't disappoint. Not as good as his other 2 best sellers but still a very great book. I love the depth of characters in John Green's novels. They're just fantastic.
+
+<hr>
+
 ## Man's Search for Meaning - Viktor Frankl
 
 <br>
