@@ -103,11 +103,11 @@ perfect. See my reading-notes
 
 <hr>
 
-## The Subtle Art of Not Giving a F*ck - Mark Manson
+## The Subtle Art of Not Giving a F\*ck - Mark Manson
 
 <br>
 
-![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a F*ck - Mark Manson")
+![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a F\*ck - Mark Manson")
 
 **Rating 10/10**
 
@@ -116,7 +116,7 @@ perfect. See my reading-notes
 A really phenomenal book. Mark Manson has packaged all the self-help in a very
 provocative read. Arguably the best self-help book out there. See my
 reading-notes
-[The Subtle Art of Not Giving a F*ck - Mark Manson](https://alamgirqazi.github.io/blog/MarkManson)
+[The Subtle Art of Not Giving a F\*ck - Mark Manson](https://alamgirqazi.github.io/blog/MarkManson)
 
 <hr>
 
@@ -208,9 +208,7 @@ Hardy. See my reading-notes
 
 <hr>
 
-
 ## The Magic of Thinking Big - David Schwartz
-
 
 <br>
 ![The Magic of Thinking Big - David Schwartz](public/The Magic of Thinking Big - David Schwartz.jpeg " The Magic of Thinking Big - David Schwartz")
@@ -238,6 +236,14 @@ Another amazing book from Brene Brown. This book includes alot more real life
 experiences of Brene and her family and how she dealth with self-righteousness
 and Integrity in her own life.
 [Rising Strong - Brene Brown](https://alamgirqazi.github.io/blog/RisingStrong)
+
+<hr>
+
+![Animal Farm - George Orwell](public/Animal Farm - George Orwell.jpeg "Animal Farm - George Orwell")
+
+**Rating 9.5/10**
+
+<br>
 
 <hr>
 
@@ -885,8 +891,6 @@ Rating (coming soon)
 <br>
 <hr>
 
-
-
 ## Jane Eyre - Charlotte Bronte
 
 <br>
@@ -903,7 +907,6 @@ currently reading
 ![Siddhartha - Hermann Hesse](public/siddhartha - hermann hesse.jpeg "siddhartha - hermann hesse")
 
 currently reading
-
 
 <br>
 
@@ -933,8 +936,6 @@ currently reading
 
 <hr>
 
-
-
 ## Muhammad - Martin Lings
 
 <br>
@@ -957,8 +958,6 @@ currently reading
 
 <br>
 <hr>
-
-
 
 # Up next in reading list
 
