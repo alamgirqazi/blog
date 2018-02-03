@@ -38,7 +38,7 @@ A bat and ball costs $1.10
 The bat costs one dollar more than the ball.
 How much does the ball cost?
 
-The bat and ball problem is our first encounter with an observation that will be a recurrent theme of this book: Many people are overconfident, prone to place too much faith in their intuitions. They apparently find cognitive effort at least mildly unpleasant and avoid it as much as possible. 
+The bat and ball problem is our first encounter with an observation that will be a recurrent theme of this book: Many people are overconfident, prone to place too much faith in their intuitions. They apparently find cognitive effort at least mildly unpleasant and avoid it as much as possible.
 
 If System 1 is involved, the conclusion comes first and the arguments follow.
 
@@ -80,6 +80,7 @@ The present state of mind looms very large when people evaluate their happiness.
 Self-criticism is one of the functions of System 2.
 
 people:
+
 * are less confident in a choice when they are asked to produce more arguments to support it.
 * are less impressed by a car after listing many of its advantages.
 
@@ -87,4 +88,22 @@ people form opinions and make choices that directly express their feelings and t
 
 "Risk" doesnot exist "out there," independent of our minds and culture, waiting to be measured. Human beings have invented the concept of "risk" to help them understand and cope with the dangers and uncertainities of life.
 
+The importance of an idea is often judged by the fluency (and emotional charge) with which that idea comes to mind.
 
+The Alar tale illustrates a basic limitation in the ability of our mind to deal with small risks: we either ignore them altogether or give them far too much weight -- nothing in between.
+
+Individuals feel relieved of responsibility when they know that others have heard the same request for help.
+
+You are more likely to learn something by finding surprises in your own behavior than by hearing surprising facts about people in general.
+
+Our mind is strongly biased towards casual explanations and does not deal well with "mere statistics."
+
+"Narrative Fallacy" - Taleb introduced the notion of a narrative fallacy to describe how flawed stories of the past shape our views of the world and our expectations for the future. Narrative fallacies arise inevitably from our continuous attempt to make sense of the world.
+
+A general limitation of the human mind is its imperfect ability to reconstruct past states of knowledge, or beliefs that have changed. Once you adopt a new view of the world (or of any part of it), you immediately lose much of your ability to recall what you used to believe before your mind changed.
+
+Because of the Halo effect, we get the casual relationship backward: we are prone to believe that the firm fails because its CEO is rigid, when the truth is that the CEO appears to be rigid because the firm is failing. This is how illusions of understanding are born.
+
+Because luck plays a large role, the quality of leadership and management practices cannot be inferred reliably from observations of success. And even if you had perfect foreknowledge that a CEO has brilliant vision and extraordinary competence, you still would be unable to predict how the company will perform with much better accuracy than a flip of a coin.
+
+statistical fact of life: regression to the mean.
