@@ -561,6 +561,20 @@ Another awesome book from Austin Kleon. See my reading-notes
 
 <hr>
 
+## Zero To One - Peter Thiel
+
+<br>
+![Zero To One - Peter Thiel](public/Zero To One - Peter Thiel.jpg "Zero To One - Peter Thiel")
+
+**Rating 9/10**
+
+<br>
+
+<!-- Another awesome book from Austin Kleon. See my reading-notes
+[Zero To One - Peter Thiel](https://alamgirqazi.github.io/blog/ShowYourWork) -->
+
+<hr>
+
 ## This is Water - David Foster Wallace
 
 <br>
