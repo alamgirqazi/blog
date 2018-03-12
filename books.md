@@ -25,6 +25,16 @@ my reading-notes
 
 <hr>
 
+## 1984 - George Orwell
+
+<br>
+![1984 - George Orwell](public/1984 - George Orwell.jpg "1984 - George Orwell")
+
+**Rating 10/10**
+
+<br>
+<hr>
+
 ## Daring Greatly - Brene Brown
 
 <br>
@@ -564,14 +574,11 @@ Another awesome book from Austin Kleon. See my reading-notes
 ## Zero To One - Peter Thiel
 
 <br>
-![Zero To One - Peter Thiel](public/Zero To One - Peter Thiel.jpg "Zero To One - Peter Thiel")
+![Zero To One - Peter Thiel](public/Zero To One - Peter Thiel.jpeg " Zero To One - Peter Thiel")
 
 **Rating 9/10**
 
 <br>
-
-<!-- Another awesome book from Austin Kleon. See my reading-notes
-[Zero To One - Peter Thiel](https://alamgirqazi.github.io/blog/ShowYourWork) -->
 
 <hr>
 
@@ -713,6 +720,26 @@ A gut-wrenching and heart-breaking story. An accident causes Mia to lose her
 parents and her 8 year old brother Teddy. One day her choices were about whether
 or not to join a music school and the next day she's fighting for survival.
 
+<hr>
+
+## The Little Prince - Antoine de Saint-Exupe
+
+<br>
+![The Little Prince - Antoine de Saint-Exupe](public/The Little Prince - Antoine de Saint-Exupe.jpeg " The Little Prince - Antoine de Saint-Exupe")
+
+**9/10**
+
+<br>
+<hr>
+
+## Fahrenheit 451 - Ray Bradbury
+
+<br>
+![Fahrenheit 451 - Ray Bradbury](public/Fahrenheit 451 - Ray Bradbury.jpeg " Fahrenheit 451 - Ray Bradbury")
+
+**9.5/10**
+
+<br>
 <hr>
 
 ## Tell me your dreams - Sidney Sheldon
@@ -965,16 +992,6 @@ currently reading
 
 <br>
 
-<hr>
-
-## 1984 - George Orwell
-
-<br>
-![1984 - George Orwell](public/1984 - George Orwell.jpg "1984 - George Orwell")
-
-<!-- **Rating (coming soon)**  -->
-
-<br>
 <hr>
 
 # Up next in reading list
