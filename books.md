@@ -915,8 +915,6 @@ A very riveting concept on how some things get so ubiquotous and some don't.
 <br>
 ![Good to Great - Jim Collins](public/Good to Great - Jim Collins.jpg "Good to Great - Jim Collins")
 
-**Rating 8/10**
-
 <br>
 
 Jim Collins has done an outstanding research on how some companies transitioned
@@ -924,6 +922,17 @@ from good to great while some stayed mediocre or regressed.
 
 <hr>
 
+## Siddhartha - Hermann Hesse
+
+<br>
+
+![Siddhartha - Hermann Hesse](public/siddhartha - hermann hesse.jpeg "siddhartha - hermann hesse")
+
+**Rating 8/10**
+
+<br>
+
+<hr>
 ## Thinking, Fast and Slow - Daniel Kahneman
 
 <br>
@@ -943,18 +952,6 @@ Rating (coming soon)
 currently reading
 
 <br>
-<hr>
-
-## Siddhartha - Hermann Hesse
-
-<br>
-
-![Siddhartha - Hermann Hesse](public/siddhartha - hermann hesse.jpeg "siddhartha - hermann hesse")
-
-currently reading
-
-<br>
-
 <hr>
 
 ## Elon Musk - Ashlee Vance
