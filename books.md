@@ -185,6 +185,16 @@ This book nearly killed me. A true classic.
 
 <hr>
 
+## To Kill A Mockingbird - Harper Lee
+
+<br>
+![To Kill A Mockingbird - Harper Lee](public/To Kill A Mockingbird - Harper Lee.jpg "To Kill A Mockingbird - Harper Lee")
+
+**Rating 10/10**
+
+<br>
+<hr>
+
 ## The Book Thief - Markus Zusak
 
 <br>
@@ -230,6 +240,16 @@ Hardy. See my reading-notes
 This is a wonderful self-help book. Your thinking matters more than you realize. It's a comparatively longer read but still doesn't feel repititive at all. See my reading-notes
 [The Magic of Thinking Big - David Schwartz](https://alamgirqazi.github.io/blog/TheMagicOfThinkingBig)
 
+<hr>
+
+## Fahrenheit 451 - Ray Bradbury
+
+<br>
+![Fahrenheit 451 - Ray Bradbury](public/Fahrenheit 451 - Ray Bradbury.jpeg " Fahrenheit 451 - Ray Bradbury")
+
+**9.5/10**
+
+<br>
 <hr>
 
 ## Rising Strong - Brene Brown
@@ -309,6 +329,17 @@ breakthroughs by making very small subtle changes in our life. These small
 changes compound over time to bring massive improvements in our lives. See my
 reading-notes
 [The Compound Effect - Darren Hardy](https://alamgirqazi.github.io/blog/TheCompoundEffect)
+
+<hr>
+
+## The Great Gatsby - F.Scott Fitzgerald
+
+<br>
+![The Great Gatsby - F.Scott Fitzgerald](public/The Great Gatsby - F.Scott Fitzgerald.jpeg "The Great Gatsby - F.Scott Fitzgerald")
+
+**Rating 9.5/10**
+
+<br>
 
 <hr>
 
@@ -732,16 +763,6 @@ or not to join a music school and the next day she's fighting for survival.
 <br>
 <hr>
 
-## Fahrenheit 451 - Ray Bradbury
-
-<br>
-![Fahrenheit 451 - Ray Bradbury](public/Fahrenheit 451 - Ray Bradbury.jpeg " Fahrenheit 451 - Ray Bradbury")
-
-**9.5/10**
-
-<br>
-<hr>
-
 ## Tell me your dreams - Sidney Sheldon
 
 <br>
@@ -1089,16 +1110,6 @@ currently reading
 <br>
 <hr>
 
-## To Kill A Mockingbird - Harper Lee
-
-<br>
-![To Kill A Mockingbird - Harper Lee](public/To Kill A Mockingbird - Harper Lee.jpg "To Kill A Mockingbird - Harper Lee")
-
-<!-- **Rating (coming soon)**  -->
-
-<br>
-<hr>
-
 ## The Maze Runner - James Dashner
 
 <br>
@@ -1113,6 +1124,39 @@ currently reading
 
 <br>
 ![The Power Of Now - Eckhart Tolle](public/the power of now - eckhart tolle.jpg "The Power Of Now - Eckhart Tolle")
+
+<!-- **Rating (coming soon)**  -->
+
+<br>
+
+<hr>
+
+## Letters to a Young Muslim - Omar Saif Ghobash
+
+<br>
+![Letters to a Young Muslim - Omar Saif Ghobash](public/Letters to a Young Muslim - Omar Saif Ghobash.jpeg "Letters to a Young Muslim - Omar Saif Ghobash")
+
+<!-- **Rating (coming soon)**  -->
+
+<br>
+
+<hr>
+
+## No god but God - Reza Aslan
+
+<br>
+![No god but God - Reza Aslan](public/No god but God - Reza Aslan.jpeg "No god but God - Reza Aslan")
+
+<!-- **Rating (coming soon)**  -->
+
+<br>
+
+<hr>
+
+## One Hundred Years of Solitude - Gabriel Garcia Marquez
+
+<br>
+![One Hundred Years of Solitude - Gabriel Garcia Marquez](public/One Hundred Years of Solitude - Gabriel Garcia Marquez.jpeg "One Hundred Years of Solitude - Gabriel Garcia Marquez")
 
 <!-- **Rating (coming soon)**  -->
 
