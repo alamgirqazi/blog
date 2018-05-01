@@ -4,7 +4,7 @@ title: Books (Recently Finished)
 permalink: recentlyfinished
 ---
 
-This will contain the the books I finished in order. Starting from 2018.
+This will contain the books I finished in order. Starting from 2018.
 
 <!-- # Reading List from 2018 -->
 
