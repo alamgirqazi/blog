@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Books
+title: Books (Rating)
 permalink: books
 ---
 
-<!-- <br> -->
+<br>
 
 ## Don't Sweat The Small Stuff - Richard Carlson
 
@@ -23,7 +23,7 @@ my reading-notes
 
 [Don't Sweat The Small Stuff - Richard Carlson](https://alamgirqazi.github.io/blog/DontSweatTheSmallStuff)
 
-<hr>
+---
 
 ## 1984 - George Orwell
 
@@ -33,7 +33,8 @@ my reading-notes
 **Rating 10/10**
 
 <br>
-<hr>
+
+---
 
 ## Daring Greatly - Brene Brown
 
@@ -51,7 +52,7 @@ how we can overcome problems such as vulnerability and shame. See my
 reading-notes
 [Daring Greatly - Brene Brown](https://alamgirqazi.github.io/blog/DaringGreatly)
 
-<hr>
+---
 
 ## The Gifts of Imperfection - Brene Brown
 
@@ -68,7 +69,7 @@ can cultivate more in life by showing courage, compassion and cultivating
 connection. See my reading-notes
 [The Gifts of Imperfection - Brene Brown](https://alamgirqazi.github.io/blog/TheGiftsofImperfection)
 
-<hr>
+---
 
 ## Muhammad - Karen Armstrong
 
@@ -82,7 +83,7 @@ connection. See my reading-notes
 A brief and an excellent account written on the life of Holy Prophet(PBUH). This
 book covers all the major events from his birth to his death.
 
-<hr>
+---
 
 ## Pir e Kamil - Umera Ahmed
 
@@ -96,7 +97,7 @@ book covers all the major events from his birth to his death.
 This is truly a fantastic fiction novel. The character development is just
 sublime. This book really shocked me.
 
-<hr>
+---
 
 ## How to Win Friends and Infuence People
 
@@ -111,7 +112,7 @@ breathtaking and a magnificient read. Everything about this book is pitch
 perfect. See my reading-notes
 [How to Win Friends and Infuence People - Dale Carnegie](https://alamgirqazi.github.io/blog/HowToWinFriendsandInfluencePeople)
 
-<hr>
+---
 
 ## The Subtle Art of Not Giving a F\*ck - Mark Manson
 
@@ -128,7 +129,7 @@ provocative read. Arguably the best self-help book out there. See my
 reading-notes
 [The Subtle Art of Not Giving a F\*ck - Mark Manson](https://alamgirqazi.github.io/blog/MarkManson)
 
-<hr>
+---
 
 ## The Monk Who Sold His Ferrari
 
@@ -143,7 +144,7 @@ Astonishing. Stupendous. Remarkable. This book will really blow your mind. See
 my reading-notes
 [The Monk Who Sold His Ferrari - Robin Sharma](https://alamgirqazi.github.io/blog/TheMonkWhoSoldHisFerrari)
 
-<hr>
+---
 
 ## And Then There Were None - Agatha Christie
 
@@ -156,7 +157,7 @@ my reading-notes
 
 What a thriller. Definitely my favourite fiction novel.
 
-<hr>
+---
 
 ## The Kite Runner - Khaled Hosseini
 
@@ -170,7 +171,7 @@ What a thriller. Definitely my favourite fiction novel.
 One of my favourite fiction book ever. What an electrifying read from start to
 finish.
 
-<hr>
+---
 
 ## The Catcher in the Rye - JD Salinger
 
@@ -183,7 +184,7 @@ finish.
 
 This book nearly killed me. A true classic.
 
-<hr>
+---
 
 ## To Kill A Mockingbird - Harper Lee
 
@@ -193,7 +194,8 @@ This book nearly killed me. A true classic.
 **Rating 10/10**
 
 <br>
-<hr>
+
+---
 
 ## The Book Thief - Markus Zusak
 
@@ -207,7 +209,7 @@ This book nearly killed me. A true classic.
 Easily among the most well-written books I've read alongside 'The Catcher in the
 Rye'. A very gripping and intense novel with full of emotions.
 
-<hr>
+---
 
 ## 5 Major Pieces To The Life Puzzle - Jim Rohn
 
@@ -226,7 +228,7 @@ book "The Compound Effect" by Darren Hardy. Jim Rohn was a mentor of Darren
 Hardy. See my reading-notes
 [5 Major Pieces To The Life Puzzle - Jim Rohn](https://alamgirqazi.github.io/blog/5MajorPiecesToTheLifePuzzle)
 
-<hr>
+---
 
 ## The Magic of Thinking Big - David Schwartz
 
@@ -240,7 +242,7 @@ Hardy. See my reading-notes
 This is a wonderful self-help book. Your thinking matters more than you realize. It's a comparatively longer read but still doesn't feel repititive at all. See my reading-notes
 [The Magic of Thinking Big - David Schwartz](https://alamgirqazi.github.io/blog/TheMagicOfThinkingBig)
 
-<hr>
+---
 
 ## Fahrenheit 451 - Ray Bradbury
 
@@ -250,7 +252,8 @@ This is a wonderful self-help book. Your thinking matters more than you realize.
 **9.5/10**
 
 <br>
-<hr>
+
+---
 
 ## Rising Strong - Brene Brown
 
@@ -267,7 +270,7 @@ experiences of Brene and her family and how she dealth with self-righteousness
 and Integrity in her own life.
 [Rising Strong - Brene Brown](https://alamgirqazi.github.io/blog/RisingStrong)
 
-<hr>
+---
 
 ## Animal Farm - George Orwell
 
@@ -279,7 +282,7 @@ and Integrity in her own life.
 
 <br>
 
-<hr>
+---
 
 ## Steal Like An Artist - Austin Kleon
 
@@ -296,7 +299,7 @@ forget about trying to be completely original because nothing is completely
 original. See my reading-notes
 [Steal Like An Artist - Austin Kleon](https://alamgirqazi.github.io/blog/StealLikeAnArtist)
 
-<hr>
+---
 
 ## Too Soon Old Too Late Smart - Gordon Livingston
 
@@ -313,7 +316,7 @@ wait a while to complete this book. Absolutely sensational read. There is just
 so much about this book that just hits you. See my reading-notes
 [Too Soon Old Too Late Smart - Gordon Livingston](https://alamgirqazi.github.io/blog/TooSoonOldTooLateSmart)
 
-<hr>
+---
 
 ## The Compound Effect - Darren Hardy
 
@@ -330,7 +333,7 @@ changes compound over time to bring massive improvements in our lives. See my
 reading-notes
 [The Compound Effect - Darren Hardy](https://alamgirqazi.github.io/blog/TheCompoundEffect)
 
-<hr>
+---
 
 ## The Great Gatsby - F.Scott Fitzgerald
 
@@ -341,11 +344,10 @@ reading-notes
 
 <br>
 
-<hr>
+---
 
 ## Who Moved My Cheese - Spencer Johnson
 
-<br>
 ![Who Moved My Cheese - Spencer Johnson](public/Who Moved My Cheese - Spencer Johnson.jpg "Who Moved My Cheese - Spencer Johnson")
 
 **Rating 9.5/10**
@@ -353,7 +355,7 @@ reading-notes
 <br>
 “Life is no straight and easy corridor along which we travel free and unhampered, but a maze of passages, through which we must seek our way, lost and confused, now and again checked in a blind alley. But always, if we have faith, a door will open for us, not perhaps one that we ourselves would ever have thought of, but one that will ultimately prove good for us.” ~ A. J. Cronin. See my reading-notes [Who Moved My Cheese - Spencer Johnson](https://alamgirqazi.github.io/blog/WhoMovedMyCheese)
 
-<hr>
+---
 
 ## The Obstacle Is The Way - Ryan Holiday
 
@@ -369,7 +371,7 @@ philosophy in this book. I probably read this book at the perfect time because I
 really needed this. See my reading-notes
 [The Obstacle is the way - Ryan Holiday](https://alamgirqazi.github.io/blog/TheObstacleIsTheWay)
 
-<hr>
+---
 
 ## Reinvent Yourself - James Altucher
 
@@ -387,7 +389,7 @@ things he learned from different people in different situations. See my
 reading-notes
 [Reinvent Yourself - James Altucher](https://alamgirqazi.github.io/blog/ReinventYourself)
 
-<hr>
+---
 
 ## Think and Grow Rich - Napoleon Hill
 
@@ -402,7 +404,7 @@ A Sensational book. They really mean it when they say it's one of the best
 Self-help book out there. See my reading-notes
 [Think and Grow Rich - Napoleon Hill](https://alamgirqazi.github.io/blog/ThinkAndGrowRich)
 
-<hr>
+---
 
 ## Ego is the enemy - Ryan Holiday
 
@@ -419,7 +421,7 @@ stay humble and keep your ego in control. Ryan really is an inspiration for the
 new generation. See my reading-notes
 [Ego is the Enemy - Ryan Holiday](https://alamgirqazi.github.io/blog/EgoIsTheEnemy)
 
-<hr>
+---
 
 ## Looking For Alaska - John Green
 
@@ -434,7 +436,7 @@ John Green knows how to tear someone's heart. This book is even better than the
 so famous 'The Fault in Our Stars'. Looking for Alaska is a stunningly beautiful
 novel.
 
-<hr>
+---
 
 ## When Breath becomes Air - Paul Kalanithi
 
@@ -456,7 +458,7 @@ in Neurological Surgery and a postdoctoral fellowship in neuroscience. In May
 was into his 6th year of Residency when he was diagnosed. He wrote this book on
 his deathbed.
 
-<hr>
+---
 
 ## Personal Development for Smart People - Steve Pavlina
 
@@ -473,7 +475,7 @@ development. It might seem a little lengthy and repititive at some stage but its
 still worth reading. See my reading-notes
 [Personal Development for Smart People - Steve Pavlina](https://alamgirqazi.github.io/blog/PersonalDevelopmentForSmartPeople)
 
-<hr>
+---
 
 ## Tiny Beautiful Things - Cheryl Strayed
 
@@ -488,7 +490,7 @@ Cheryl Strayed is a wonderful writer and a brilliant story-teller who gives
 advice enriched with compassion. This books contains letters and their answers
 which Cheryl wrote in her column on an online site TheRumpus.net
 
-<hr>
+---
 
 ## Quiet - Susan Cain
 
@@ -504,7 +506,7 @@ and extroversion based on a lot of research and gives a detailed view on how to
 live in a world that's made for extroverts. See my reading-notes
 [Quiet - Susan Cain](https://alamgirqazi.github.io/blog/Quiet)
 
-<hr>
+---
 
 ## Meditations - Marcus Aurelius
 
@@ -520,7 +522,7 @@ time. This book is basically a collection of his journals which he wrote to
 himself and weren't meant to be published. See my reading-notes
 [Meditations - Marcus Aurelius](https://alamgirqazi.github.io/blog/meditations)
 
-<hr>
+---
 
 ## So Good They Can't Ignore You - Cal Newport
 
@@ -539,7 +541,7 @@ over-rated. Must read book for someone who is into their career or even starting
 out. I'll probably have to re-read this book in a year. See my reading-notes
 [So Good They Can't Ignore You - Cal Newport](https://alamgirqazi.github.io/blog/SoGoodTheyCantIgnoreYou)
 
-<hr>
+---
 
 ## Turtles All The Way Down - John Green
 
@@ -552,7 +554,7 @@ out. I'll probably have to re-read this book in a year. See my reading-notes
 
 Had great expectations and it didn't disappoint. Not as good as his other 2 best sellers but still a very great book. I love the depth of characters in John Green's novels. They're just fantastic.
 
-<hr>
+---
 
 ## Man's Search for Meaning - Viktor Frankl
 
@@ -571,7 +573,7 @@ life during all the suffering.
 See my reading-notes
 [Man's Search for Meaning - Viktor Frankl](https://alamgirqazi.github.io/blog/MansSearchForMeaning)
 
-<hr>
+---
 
 ## Love Yourself Like Your Life Depends On It - Kamil Ravikant
 
@@ -586,7 +588,7 @@ An incredibly short read but still a fantastic book. The basic idea is that you
 repeat "I love myself" over and over in your head as a mantra.\
 See my reading-notes [Love Yourself Like Your Life Depends On It - Kamil Ravikant](https://alamgirqazi.github.io/blog/kamalravikant)
 
-<hr>
+---
 
 ## Show Your Work - Austin Kleon
 
@@ -600,7 +602,7 @@ See my reading-notes [Love Yourself Like Your Life Depends On It - Kamil Ravikan
 Another awesome book from Austin Kleon. See my reading-notes
 [Show Your Work - Austin Kleon](https://alamgirqazi.github.io/blog/ShowYourWork)
 
-<hr>
+---
 
 ## Zero To One - Peter Thiel
 
@@ -611,7 +613,7 @@ Another awesome book from Austin Kleon. See my reading-notes
 
 <br>
 
-<hr>
+---
 
 ## This is Water - David Foster Wallace
 
@@ -627,7 +629,7 @@ liberal arts education is not so much about filling you up with knowledge as it
 is about, quote, “teaching you how to think.” See my reading-notes
 [This is Water - David Foster Wallace](https://alamgirqazi.github.io/blog/ThisIsWater)
 
-<hr>
+---
 
 ## Emotional Intelligence - Daniel Goleman
 
@@ -643,7 +645,7 @@ Very Fascinating and absorbing research. Emotional Intelligence is indeed
 extremely essential. See my reading-notes
 [Emotional Intelligence - Daniel Goleman](https://alamgirqazi.github.io/blog/Emotionalintelligence)
 
-<hr>
+---
 
 ## Anything You Want - Derek Sivers
 
@@ -662,7 +664,7 @@ rather prefer being CEO of a company with 5 people than 85 people. CD baby was
 sold for 22 million and had 85 employees at the time. See my reading-notes
 [Anything You Want - Derek Sivers](https://alamgirqazi.github.io/blog/AnythingYouWant)
 
-<hr>
+---
 
 ## Tuesdays with Morrie - Mitch Albom
 
@@ -676,7 +678,7 @@ sold for 22 million and had 85 employees at the time. See my reading-notes
 
 A very soul-stirring and poignant book for me.
 
-<hr>
+---
 
 ## The Alchemist - Paulo Coelho
 
@@ -690,7 +692,7 @@ A very soul-stirring and poignant book for me.
 A really fascinating story of Santiago who went out to search for hidden
 treasure. The Journey is more important than the destination.
 
-<hr>
+---
 
 ## Dairy of a Young Girl - Anne Frank
 
@@ -707,7 +709,7 @@ fantastic and sad read. Anne Frank wrote this in hiding during World War 2. Her
 family and few other friends who were hiding were found after 2 years in hiding
 and sent to Nazi concentration camps. Only Anne Frank's father survived.
 
-<hr>
+---
 
 ## The Prophet - Kahlil Gibran
 
@@ -722,7 +724,7 @@ A beautiful poetic book which was written way back in 1923. A little difficult
 to read but definitely worth it. See my reading-notes
 [The Prophet - Kahlil Gibran](https://alamgirqazi.github.io/blog/TheProphet)
 
-<hr>
+---
 
 ## The Power of Giving - Azim Jamal and Harvey McKinnon
 
@@ -736,7 +738,7 @@ to read but definitely worth it. See my reading-notes
 "The more you give of yourself, the more you find of yourself." See my reading-notes
 [The Power of Giving - Azim Jamal and Harvey McKinnon](https://alamgirqazi.github.io/blog/ThePowerOfGiving)
 
-<hr>
+---
 
 ## If I Stay - Gayle Forman
 
@@ -751,7 +753,7 @@ A gut-wrenching and heart-breaking story. An accident causes Mia to lose her
 parents and her 8 year old brother Teddy. One day her choices were about whether
 or not to join a music school and the next day she's fighting for survival.
 
-<hr>
+---
 
 ## The Little Prince - Antoine de Saint-Exupe
 
@@ -761,7 +763,8 @@ or not to join a music school and the next day she's fighting for survival.
 **9/10**
 
 <br>
-<hr>
+
+---
 
 ## Tell me your dreams - Sidney Sheldon
 
@@ -775,7 +778,7 @@ or not to join a music school and the next day she's fighting for survival.
 Amazeballs. Sidney Sheldon knows how to tell a story. This novel made me fall in
 love with Fiction.
 
-<hr>
+---
 
 ## A Short Guide To A Happy Life - Anna Quindlen
 
@@ -789,7 +792,7 @@ love with Fiction.
 "You just need to get a life, a real life, a full life, a professional life,
 yes, but another life, too."
 
-<hr>
+---
 
 ## The Fault In Our Stars - John Green
 
@@ -804,7 +807,7 @@ An excellent emotional book by John Green. The thing that I grasped from the
 book was you don't have to matter to a lot of people. You don't have to be
 famous and loved by everyone to achieve a meaningful life.
 
-<hr>
+---
 
 ## The Notebook - Nicholas Sparks
 
@@ -817,7 +820,7 @@ famous and loved by everyone to achieve a meaningful life.
 
 A very compelling love story with intricate details and very well conveyed.
 
-<hr>
+---
 
 ## The Mastery of Love - Don Miguel Ruiz
 
@@ -829,7 +832,7 @@ A very compelling love story with intricate details and very well conveyed.
 <br>
 You have to focus on the most wonderful relationship you can have: the relationship with yourself. It is not about being selfish; it is about self-love. These are not the same. See my reading-notes [The Mastery of Love - Don Miguel Ruiz](https://alamgirqazi.github.io/blog/TheMasteryofLove)
 
-<hr>
+---
 
 ## Ignore Everybody - Hugh McLeod
 
@@ -845,7 +848,7 @@ work. His message is to work hard, be patient, be polite and don't just do it
 for the money. See my reading-notes
 [Ignore Everybody - Hugh McLeod](https://alamgirqazi.github.io/blog/IgnoreEverybody)
 
-<hr>
+---
 
 ## Hunger - Roxane Gay
 
@@ -861,7 +864,7 @@ I've never read a more vulnerable memoir ever before. Roxane shares her
 heartbreaking but painfully accurate stories which no ordinary person would be
 ever willing to share.
 
-<hr>
+---
 
 ## Free Will - Sam Harris
 
@@ -878,7 +881,7 @@ which we exert no conscious control. We do not have the freedom we think we
 have." See my reading-notes
 [Free Will - Sam Harris](https://alamgirqazi.github.io/blog/FreeWill)
 
-<hr>
+---
 
 ## Very Good Lives - JK Rowling
 
@@ -889,7 +892,7 @@ have." See my reading-notes
 <br>
 JK Rowling talks about her failures and says that you're qualification isn't who you are and how Imagination is the real power. See my reading-notes [Very Good Lives - JK Rowling](https://alamgirqazi.github.io/blog/VeryGoodLives)
 
-<hr>
+---
 
 ## Rich Dad Poor Dad - Robert Kiyosaki
 
@@ -902,7 +905,7 @@ JK Rowling talks about her failures and says that you're qualification isn't who
 
 Very Instructive and compelling read.
 
-<hr>
+---
 
 ## Outliers | The Story of Success - Malcolm Gladwell
 
@@ -915,7 +918,7 @@ Very Instructive and compelling read.
 
 A very spectacular read indeed. The concept of outliers is truly astonishing.
 
-<hr>
+---
 
 ## The Tipping Point - Malcolm Gladwell
 
@@ -929,7 +932,7 @@ A very spectacular read indeed. The concept of outliers is truly astonishing.
 
 A very riveting concept on how some things get so ubiquotous and some don't.
 
-<hr>
+---
 
 ## Good to Great - Jim Collins
 
@@ -941,7 +944,7 @@ A very riveting concept on how some things get so ubiquotous and some don't.
 Jim Collins has done an outstanding research on how some companies transitioned
 from good to great while some stayed mediocre or regressed.
 
-<hr>
+---
 
 ## Siddhartha - Hermann Hesse
 
@@ -953,7 +956,8 @@ from good to great while some stayed mediocre or regressed.
 
 <br>
 
-<hr>
+---
+
 ## Thinking, Fast and Slow - Daniel Kahneman
 
 <br>
@@ -964,7 +968,8 @@ currently reading
 Rating (coming soon)
 
 <br>
-<hr>
+
+---
 
 ## Jane Eyre - Charlotte Bronte
 
@@ -973,7 +978,8 @@ Rating (coming soon)
 currently reading
 
 <br>
-<hr>
+
+---
 
 ## Elon Musk - Ashlee Vance
 
@@ -986,7 +992,7 @@ currently reading
 
 <br>
 
-<hr>
+---
 
 ## Stumbling on Happiness - Daniel Gilbert
 
@@ -997,7 +1003,7 @@ currently reading
 
 <br>
 
-<hr>
+---
 
 ## Muhammad - Martin Lings
 
@@ -1010,7 +1016,7 @@ currently reading
 
 <br>
 
-<hr>
+---
 
 # Up next in reading list
 
@@ -1022,7 +1028,8 @@ currently reading
 <!-- **Rating (coming soon)**  -->
 
 <br>
-<hr>
+
+---
 
 ## Hiroshima - John Hersey
 
@@ -1035,7 +1042,7 @@ currently reading
 
 <br>
 
-<hr>
+---
 
 ## Middlemarch - George Eliot
 
@@ -1045,7 +1052,8 @@ currently reading
 <!-- **Rating (coming soon)**  -->
 
 <br>
-<hr>
+
+---
 
 ## Mein Kampf - Adolf Hitler
 
@@ -1055,7 +1063,8 @@ currently reading
 <!-- **Rating (coming soon)**  -->
 
 <br>
-<hr>
+
+---
 
 ## 4 Hour Work Week - Tim Ferriss
 
@@ -1066,7 +1075,8 @@ currently reading
 
 <br>
 
-<hr>
+---
+
 ## Mindwise - Nicholas Epley
 
 <br>
@@ -1075,7 +1085,8 @@ currently reading
 <!-- **Rating (coming soon)**  -->
 
 <br>
-<hr>
+
+---
 
 ## Influence | The Psychology of Persuasion - Robert Cialdini
 
@@ -1088,7 +1099,7 @@ currently reading
 
 <br>
 
-<hr>
+---
 
 ## The Da Vinci Code - Dan Brown
 
@@ -1098,7 +1109,8 @@ currently reading
 <!-- **Rating (coming soon)**  -->
 
 <br>
-<hr>
+
+---
 
 ## A Thousand Splendid Suns - Khaled Hosseini
 
@@ -1108,7 +1120,8 @@ currently reading
 <!-- **Rating (coming soon)**  -->
 
 <br>
-<hr>
+
+---
 
 ## The Maze Runner - James Dashner
 
@@ -1118,7 +1131,8 @@ currently reading
 <!-- **Rating (coming soon)**  -->
 
 <br>
-<hr>
+
+---
 
 ## The Power Of Now - Eckhart Tolle
 
@@ -1129,7 +1143,7 @@ currently reading
 
 <br>
 
-<hr>
+---
 
 ## Letters to a Young Muslim - Omar Saif Ghobash
 
@@ -1140,7 +1154,7 @@ currently reading
 
 <br>
 
-<hr>
+---
 
 ## No god but God - Reza Aslan
 
@@ -1151,7 +1165,7 @@ currently reading
 
 <br>
 
-<hr>
+---
 
 ## One Hundred Years of Solitude - Gabriel Garcia Marquez
 
@@ -1162,7 +1176,7 @@ currently reading
 
 <br>
 
-<hr>
+---
 
 ## When Things Fall Apart - Pema Chodron
 
@@ -1173,7 +1187,7 @@ currently reading
 
 <br>
 
-<hr>
+---
 
 ## The Wisdom of No Escape - Pema Chodron
 
@@ -1184,7 +1198,7 @@ currently reading
 
 <br>
 
-<hr>
+---
 
 ## Don't Sweat The Small Stuff In Love - Richard Carlson
 
@@ -1195,4 +1209,4 @@ currently reading
 
 <br>
 
-<hr>
+---
