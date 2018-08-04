@@ -15,7 +15,8 @@ author:
   url:            https://twitter.com/alamgirqazi
 
 paginate:         100
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
+# gems: [jekyll-paginate]
 # Custom vars
 version:          2.0.0
 

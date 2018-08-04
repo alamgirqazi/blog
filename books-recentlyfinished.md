@@ -10,6 +10,48 @@ This will contain the books I finished in order. Starting from 2018.
 
 <br>
 
+## 12. The 5 Love Languages - Gary Chapman
+
+<br>
+
+![The 5 Love Languages - Gary Chapman](public/The 5 Love Languages - Gary Chapman.jpeg "The 5 Love Languages - Gary Chapman")
+
+**Rating 9/10**
+
+Finished on : 2-August-2018
+
+<br>
+
+---
+
+## 11. Mushaf - Nimra Ahmed
+
+<br>
+
+![Mushaf - Nimra Ahmed](public/Mushaf - Nimra Ahmed.jpeg "Mushaf - Nimra Ahmed")
+
+**Rating 9.5/10**
+
+Finished on : 9-July-2018
+
+<br>
+
+---
+
+## 10. Letters To A Young Muslim - Omar Saif Ghobash
+
+<br>
+
+![Letters To A Young Muslim - Omar Saif Ghobash](public/Letters to a Young Muslim - Omar Saif Ghobash.jpeg "Letters To A Young Muslim - Omar Saif Ghobash")
+
+**Rating 9/10**
+
+Finished on : 1-May-2018
+
+<br>
+
+---
+
 ## 9. To Kill A Mockingbird - Harper Lee
 
 <br>

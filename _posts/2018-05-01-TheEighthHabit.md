@@ -4,9 +4,7 @@ title: The 8th Habit - Stephen R. Covey
 permalink: The8thHabit
 ---
 
-![The 8th Habit - Stephen R. Covey](public/The 8th Habit - Stephen R. Covey.jpeg " The 8th Habit - Stephen R. Covey")
-
-<!--  -->
+![The 8th Habit - Stephen R. Covey](public/The 8th Habit - Steven R Covey.jpeg " The 8th Habit - Stephen R. Covey")
 
 <!-- <!-- **Rating > -->
 

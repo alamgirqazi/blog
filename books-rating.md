@@ -186,6 +186,21 @@ This book nearly killed me. A true classic.
 
 ---
 
+## The Magic of Thinking Big - David Schwartz
+
+<br>
+![The Magic of Thinking Big - David Schwartz](public/The Magic of Thinking Big - David Schwartz.jpeg " The Magic of Thinking Big - David Schwartz")
+
+**Rating 10/10**
+
+(I recently changed the rating from 9.5 to 10 after learning the impact it had on me after reading it👀)
+<br>
+
+This is a wonderful self-help book. Your thinking matters more than you realize. It's a comparatively longer read but still doesn't feel repititive at all. See my reading-notes
+[The Magic of Thinking Big - David Schwartz](https://alamgirqazi.github.io/blog/TheMagicOfThinkingBig)
+
+---
+
 ## To Kill A Mockingbird - Harper Lee
 
 <br>
@@ -227,20 +242,6 @@ on how to become a better version of yourself. Alot of this stuff I read in the
 book "The Compound Effect" by Darren Hardy. Jim Rohn was a mentor of Darren
 Hardy. See my reading-notes
 [5 Major Pieces To The Life Puzzle - Jim Rohn](https://alamgirqazi.github.io/blog/5MajorPiecesToTheLifePuzzle)
-
----
-
-## The Magic of Thinking Big - David Schwartz
-
-<br>
-![The Magic of Thinking Big - David Schwartz](public/The Magic of Thinking Big - David Schwartz.jpeg " The Magic of Thinking Big - David Schwartz")
-
-**Rating 9.5/10**
-
-<br>
-
-This is a wonderful self-help book. Your thinking matters more than you realize. It's a comparatively longer read but still doesn't feel repititive at all. See my reading-notes
-[The Magic of Thinking Big - David Schwartz](https://alamgirqazi.github.io/blog/TheMagicOfThinkingBig)
 
 ---
 
@@ -332,6 +333,18 @@ breakthroughs by making very small subtle changes in our life. These small
 changes compound over time to bring massive improvements in our lives. See my
 reading-notes
 [The Compound Effect - Darren Hardy](https://alamgirqazi.github.io/blog/TheCompoundEffect)
+
+---
+
+## Mushaf - Nimra Ahmed
+
+<br>
+
+![Mushaf - Nimra Ahmed](public/Mushaf - Nimra Ahmed.jpeg "Mushaf - Nimra Ahmed")
+
+**Rating 9.5/10**
+
+<br>
 
 ---
 
@@ -604,12 +617,35 @@ Another awesome book from Austin Kleon. See my reading-notes
 
 ---
 
+## The 5 Love Languages - Gary Chapman
+
+<br>
+
+![The 5 Love Languages - Gary Chapman](public/The 5 Love Languages - Gary Chapman.jpeg "The 5 Love Languages - Gary Chapman")
+
+**Rating 9/10**
+
+<br>
+
+---
+
 ## Zero To One - Peter Thiel
 
 <br>
 ![Zero To One - Peter Thiel](public/Zero To One - Peter Thiel.jpeg " Zero To One - Peter Thiel")
 
 **Rating 9/10**
+
+<br>
+
+---
+
+## Letters to a Young Muslim - Omar Saif Ghobash
+
+<br>
+![Letters to a Young Muslim - Omar Saif Ghobash](public/Letters to a Young Muslim - Omar Saif Ghobash.jpeg "Letters to a Young Muslim - Omar Saif Ghobash")
+
+<!-- **Rating (coming soon)**  -->
 
 <br>
 
@@ -1138,17 +1174,6 @@ currently reading
 
 <br>
 ![The Power Of Now - Eckhart Tolle](public/the power of now - eckhart tolle.jpg "The Power Of Now - Eckhart Tolle")
-
-<!-- **Rating (coming soon)**  -->
-
-<br>
-
----
-
-## Letters to a Young Muslim - Omar Saif Ghobash
-
-<br>
-![Letters to a Young Muslim - Omar Saif Ghobash](public/Letters to a Young Muslim - Omar Saif Ghobash.jpeg "Letters to a Young Muslim - Omar Saif Ghobash")
 
 <!-- **Rating (coming soon)**  -->
 
