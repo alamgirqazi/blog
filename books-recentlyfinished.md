@@ -6,9 +6,39 @@ permalink: recentlyfinished
 
 This will contain the books I finished in order. Starting from 2018.
 
+#### _36_ more before the year ends. Lets go!
+
 <!-- # Reading List from 2018 -->
 
 <br>
+
+## 14. An Hour To Live, An Hour To Love - Richard and Kris Carlson
+
+<br>
+
+![An Hour To Live, An Hour To Love - Richard and Kris Carlson](public/An Hour To Live, An Hour To Love - Richard and Kris Carlson.jpeg "An Hour To Live, An Hour To Love - Richard and Kris Carlson")
+
+**Rating 9/10**
+
+Finished on : 11-August-2018
+
+<br>
+
+---
+
+## 13. The War of Art - Steven Pressfield
+
+<br>
+
+![The War of Art - Steven Pressfield](public/The War of Art - Steven Pressfield.jpeg "The War of Art - Steven Pressfield")
+
+**Rating 9/10**
+
+Finished on : 9-August-2018
+
+<br>
+
+---
 
 ## 12. The 5 Love Languages - Gary Chapman
 

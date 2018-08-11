@@ -58,3 +58,14 @@ Zip2 had remarkable success courting newspapers. The New York Times, Knight Ridd
 in February 1999, the PC maker Compaq Computer suddenly offered to pay $307 million in cash for Zip2.
 
 Musk and Kimbal had come away with $22 million and $15 million, respectively.
+
+In July 2002, eBay offered $1.5 billion for PayPal, and Musk and the rest of the board accepted the deal. Musk netted about $250 million from the sale to eBay, or $180 million after taxes—enough to make what would turn out to be his very wild dreams possible.
+
+Musk had picked Los Angeles with intent. It gave him access to space or at least the space industry.
+
+Howard Hughes, the U.S. Air Force, NASA, Boeing, and myriad other people and organizations have performed much of their manufacturing and cutting-edge experimentation in and around Los Angeles. Today the city remains a major hub for the military’s aeronautics work
+Musk’s first interactions with the aeronautics community were with an eclectic collection of space enthusiasts, members of a nonprofit group called the Mars Society.
+
+Musk had reverted to his childhood state as a devourer of information and had emerged from this meditative process with the realization that rockets could and should be made much cheaper than what the Russians were offering.
+
+In July 2002, Musk was gripped by the excitement of this daring enterprise, and eBay made its aggressive move to buy PayPal for $1.5 billion. This deal gave Musk some liquidity and supplied him with more than $100 million to throw at SpaceX. With such a massive up-front investment, no one would be able to wrestle control of SpaceX away from Musk as they had done at Zip2 and PayPal.
