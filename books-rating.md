@@ -6,7 +6,12 @@ permalink: books
 
 <br>
 
-## Don't Sweat The Small Stuff - Richard Carlson
+📱 read from mobile (33)
+📖 read from book (36)
+
+<br>
+
+## Don't Sweat The Small Stuff - Richard Carlson (📱)
 
 <br>
 
@@ -25,7 +30,7 @@ my reading-notes
 
 ---
 
-## 1984 - George Orwell
+## 1984 - George Orwell (📖)
 
 <br>
 ![1984 - George Orwell](public/1984 - George Orwell.jpg "1984 - George Orwell")
@@ -36,7 +41,7 @@ my reading-notes
 
 ---
 
-## Daring Greatly - Brene Brown
+## Daring Greatly - Brene Brown (📱)
 
 <br>
 ![Daring Greatly - Brene Brown](public/Daring Greatly - Brene Brown.jpg "Daring Greatly - Brene Brown")
@@ -54,7 +59,7 @@ reading-notes
 
 ---
 
-## The Gifts of Imperfection - Brene Brown
+## The Gifts of Imperfection - Brene Brown (📱)
 
 <br>
 
@@ -71,7 +76,7 @@ connection. See my reading-notes
 
 ---
 
-## Muhammad - Karen Armstrong
+## Muhammad - Karen Armstrong (📖)
 
 <br>
 ![Muhammad - Karen Armstrong](public/Muhammad - Karen Armstrong.jpg "Muhammad - Karen Armstrong")
@@ -85,7 +90,7 @@ book covers all the major events from his birth to his death.
 
 ---
 
-## Pir e Kamil - Umera Ahmed
+## Pir e Kamil - Umera Ahmed (📖)
 
 <br>
 ![Pir e Kamil - Umera Ahmed](public/Pir e Kamil - Umera Ahmed.jpg "Pir e Kamil - Umera Ahmed")
@@ -99,7 +104,7 @@ sublime. This book really shocked me.
 
 ---
 
-## How to Win Friends and Infuence People
+## How to Win Friends and Infuence People (📖)
 
 <br>
 ![How to Win Friends and Infuence People - Dale Carnegie](public/How to Win Friends and Influence People.jpg "How to Win Friends and Infuence People - Dale Carnegie")
@@ -114,7 +119,7 @@ perfect. See my reading-notes
 
 ---
 
-## The Subtle Art of Not Giving a F\*ck - Mark Manson
+## The Subtle Art of Not Giving a F\*ck - Mark Manson (📱)
 
 <br>
 
@@ -131,7 +136,7 @@ reading-notes
 
 ---
 
-## The Monk Who Sold His Ferrari
+## The Monk Who Sold His Ferrari (📖)
 
 <br>
 
@@ -146,7 +151,7 @@ my reading-notes
 
 ---
 
-## And Then There Were None - Agatha Christie
+## And Then There Were None - Agatha Christie (📖)
 
 <br>
 ![And Then There Were None - Agatha Christie](public/And Then There Were None - Agatha Christie.jpg "And Then There Were None - Agatha Christie")
@@ -159,7 +164,7 @@ What a thriller. Definitely my favourite fiction novel.
 
 ---
 
-## The Kite Runner - Khaled Hosseini
+## The Kite Runner - Khaled Hosseini (📖)
 
 <br>
 ![The Kite Runner - Khaled Hosseini](public/The Kite Runner - Khaled Hosseini.jpg "The Kite Runner - Khaled Hosseini")
@@ -173,7 +178,7 @@ finish.
 
 ---
 
-## The Catcher in the Rye - JD Salinger
+## The Catcher in the Rye - JD Salinger (📖)
 
 <br>
 ![The Catcher in the Rye - JD Salinger](public/Catcher in the Rye - JD Salinger.jpg "The Catcher in the Rye - JD Salinger")
@@ -186,7 +191,7 @@ This book nearly killed me. A true classic.
 
 ---
 
-## The Magic of Thinking Big - David Schwartz
+## The Magic of Thinking Big - David Schwartz (📖)
 
 <br>
 ![The Magic of Thinking Big - David Schwartz](public/The Magic of Thinking Big - David Schwartz.jpeg " The Magic of Thinking Big - David Schwartz")
@@ -201,7 +206,7 @@ This is a wonderful self-help book. Your thinking matters more than you realize.
 
 ---
 
-## To Kill A Mockingbird - Harper Lee
+## To Kill A Mockingbird - Harper Lee (📖)
 
 <br>
 ![To Kill A Mockingbird - Harper Lee](public/To Kill A Mockingbird - Harper Lee.jpg "To Kill A Mockingbird - Harper Lee")
@@ -212,7 +217,7 @@ This is a wonderful self-help book. Your thinking matters more than you realize.
 
 ---
 
-## The Book Thief - Markus Zusak
+## The Book Thief - Markus Zusak (📖)
 
 <br>
 ![The Book Thief - Markus Zusak](public/The Book Thief - Markus Zusak.jpg " The Book Thief - Markus Zusak")
@@ -226,7 +231,7 @@ Rye'. A very gripping and intense novel with full of emotions.
 
 ---
 
-## 5 Major Pieces To The Life Puzzle - Jim Rohn
+## 5 Major Pieces To The Life Puzzle - Jim Rohn (📱)
 
 <br>
 ![5 Major Pieces To The Life Puzzle - Jim Rohn](public/5 major pieces to the life puzzle - jim rohn.jpg "5 Major Pieces To The Life Puzzle - Jim Rohn")
@@ -245,7 +250,7 @@ Hardy. See my reading-notes
 
 ---
 
-## Fahrenheit 451 - Ray Bradbury
+## Fahrenheit 451 - Ray Bradbury (📱)
 
 <br>
 ![Fahrenheit 451 - Ray Bradbury](public/Fahrenheit 451 - Ray Bradbury.jpeg " Fahrenheit 451 - Ray Bradbury")
@@ -256,7 +261,7 @@ Hardy. See my reading-notes
 
 ---
 
-## Rising Strong - Brene Brown
+## Rising Strong - Brene Brown (📱)
 
 <br>
 
@@ -273,7 +278,7 @@ and Integrity in her own life.
 
 ---
 
-## Animal Farm - George Orwell
+## Animal Farm - George Orwell (📖)
 
 <br>
 
@@ -285,7 +290,7 @@ and Integrity in her own life.
 
 ---
 
-## Steal Like An Artist - Austin Kleon
+## Steal Like An Artist - Austin Kleon (📱)
 
 <br>
 ![Steal Like An Artist - Austin Kleon](public/Steal like an Artist - Austin Kleon.jpg "Steal Like An Artist - Austin Kleon")
@@ -302,7 +307,7 @@ original. See my reading-notes
 
 ---
 
-## Too Soon Old Too Late Smart - Gordon Livingston
+## Too Soon Old Too Late Smart - Gordon Livingston (📱)
 
 <br>
 ![Too Soon Old Too Late Smart - Gordon Livingston](public/too soon old too late smart.jpg "The Compound Effect - Darren Hardy")
@@ -319,7 +324,7 @@ so much about this book that just hits you. See my reading-notes
 
 ---
 
-## The Compound Effect - Darren Hardy
+## The Compound Effect - Darren Hardy (📱)
 
 <br>
 ![The Compound Effect - Darren Hardy](public/the compound effect - darren hardy.jpg "The Compound Effect - Darren Hardy")
@@ -336,7 +341,7 @@ reading-notes
 
 ---
 
-## Mushaf - Nimra Ahmed
+## Mushaf - Nimra Ahmed (📖)
 
 <br>
 
@@ -348,7 +353,7 @@ reading-notes
 
 ---
 
-## The Great Gatsby - F.Scott Fitzgerald
+## The Great Gatsby - F.Scott Fitzgerald (📖)
 
 <br>
 ![The Great Gatsby - F.Scott Fitzgerald](public/The Great Gatsby - F.Scott Fitzgerald.jpeg "The Great Gatsby - F.Scott Fitzgerald")
@@ -359,7 +364,7 @@ reading-notes
 
 ---
 
-## Who Moved My Cheese - Spencer Johnson
+## Who Moved My Cheese - Spencer Johnson (📱)
 
 ![Who Moved My Cheese - Spencer Johnson](public/Who Moved My Cheese - Spencer Johnson.jpg "Who Moved My Cheese - Spencer Johnson")
 
@@ -370,7 +375,7 @@ reading-notes
 
 ---
 
-## The Obstacle Is The Way - Ryan Holiday
+## The Obstacle Is The Way - Ryan Holiday (📱)
 
 <br>
 ![The Obstacle is the way - Ryan Holiday](public/obstacle is the way - ryan holiday.jpg "The Obstacle is the way - Ryan Holiday")
@@ -386,7 +391,7 @@ really needed this. See my reading-notes
 
 ---
 
-## Reinvent Yourself - James Altucher
+## Reinvent Yourself - James Altucher (📱)
 
 <br>
 ![Reinvent Yourself - James Altucher](public/Reinvent Yourself - James Altucher.jpg "Reinvent Yourself - James Altucher")
@@ -404,7 +409,7 @@ reading-notes
 
 ---
 
-## Think and Grow Rich - Napoleon Hill
+## Think and Grow Rich - Napoleon Hill (📖)
 
 <br>
 ![Think and Grow Rich - Napoleon Hill](public/Think and Grow Rich - Napoleon Hill.jpg "Think and Grow Rich - Napoleon Hill")
@@ -419,7 +424,7 @@ Self-help book out there. See my reading-notes
 
 ---
 
-## Ego is the enemy - Ryan Holiday
+## Ego is the enemy - Ryan Holiday (📱)
 
 <br>
 ![Ego is the enemy - Ryan Holiday](public/Ego is the enemy - Ryan Holiday.jpg "Ego is the enemy - Ryan Holiday")
@@ -436,7 +441,7 @@ new generation. See my reading-notes
 
 ---
 
-## Looking For Alaska - John Green
+## Looking For Alaska - John Green (📖)
 
 <br>
 ![Looking For Alaska - John Green](public/Looking For Alaska - John Green.jpg "Looking For Alaska - John Green")
@@ -451,7 +456,7 @@ novel.
 
 ---
 
-## When Breath becomes Air - Paul Kalanithi
+## When Breath becomes Air - Paul Kalanithi (📱)
 
 <br>
 ![When Breath becomes Air - Paul Kalanithi](public/When Breath becomes Air - Paul Kalanithi.jpg "When Breath becomes Air - Paul Kalanithi")
@@ -473,7 +478,7 @@ his deathbed.
 
 ---
 
-## Personal Development for Smart People - Steve Pavlina
+## Personal Development for Smart People - Steve Pavlina (📱)
 
 <br>
 ![Personal Development for Smart People - Steve Pavlina](public/personal development for smart people - steve pavlina.jpg "Personal Development for Smart People - Steve Pavlina")
@@ -490,7 +495,7 @@ still worth reading. See my reading-notes
 
 ---
 
-## Tiny Beautiful Things - Cheryl Strayed
+## Tiny Beautiful Things - Cheryl Strayed (📱)
 
 <br>
 ![Tiny Beautiful Things - Cheryl Strayed](public/tiny beautiful things - cheryl strayed.jpg "Tiny Beautiful Things - Cheryl Strayed")
@@ -505,7 +510,7 @@ which Cheryl wrote in her column on an online site TheRumpus.net
 
 ---
 
-## Quiet - Susan Cain
+## Quiet - Susan Cain (📱)
 
 <br>
 ![Quiet - Susan Cain](public/Quiet - Susan Cain.jpg "Quiet - Susan Cain")
@@ -521,7 +526,7 @@ live in a world that's made for extroverts. See my reading-notes
 
 ---
 
-## Meditations - Marcus Aurelius
+## Meditations - Marcus Aurelius (📱)
 
 <br>
 ![Meditations - Marcus Aurelius](public/meditations - marcus aurelius.jpg "Meditations - Marcus Aurelius")
@@ -537,7 +542,7 @@ himself and weren't meant to be published. See my reading-notes
 
 ---
 
-## So Good They Can't Ignore You - Cal Newport
+## So Good They Can't Ignore You - Cal Newport (📱)
 
 <br>
 ![So Good They Can't Ignore You - Cal Newport](public/so good they can't ignore you - cal newport.jpg "So Good They Can't Ignore You - Cal Newport")
@@ -556,7 +561,7 @@ out. I'll probably have to re-read this book in a year. See my reading-notes
 
 ---
 
-## Turtles All The Way Down - John Green
+## Turtles All The Way Down - John Green (📖)
 
 <br>
 ![Turtles All The Way Down - John Green](public/turtles all the way down - john green.jpeg "Turtles All The Way Down - John Green")
@@ -569,7 +574,7 @@ Had great expectations and it didn't disappoint. Not as good as his other 2 best
 
 ---
 
-## Man's Search for Meaning - Viktor Frankl
+## Man's Search for Meaning - Viktor Frankl (📱)
 
 <br>
 
@@ -588,7 +593,7 @@ See my reading-notes
 
 ---
 
-## Love Yourself Like Your Life Depends On It - Kamil Ravikant
+## Love Yourself Like Your Life Depends On It - Kamil Ravikant (📱)
 
 <br>
 ![Love Yourself Like Your Life Depends On It - Kamil Ravikant](public/love yourself like your life depends on it.jpg "Love Yourself Like Your Life Depends On It - Kamil Ravikant")
@@ -603,7 +608,7 @@ See my reading-notes [Love Yourself Like Your Life Depends On It - Kamil Ravikan
 
 ---
 
-## Show Your Work - Austin Kleon
+## Show Your Work - Austin Kleon (📱)
 
 <br>
 ![Show Your Work - Austin Kleon](public/Show Your Work - Austin Kleon.jpg "Show Your Work - Austin Kleon")
@@ -617,7 +622,7 @@ Another awesome book from Austin Kleon. See my reading-notes
 
 ---
 
-## The 5 Love Languages - Gary Chapman
+## The 5 Love Languages - Gary Chapman (📱)
 
 <br>
 
@@ -629,7 +634,7 @@ Another awesome book from Austin Kleon. See my reading-notes
 
 ---
 
-## Zero To One - Peter Thiel
+## Zero To One - Peter Thiel (📖)
 
 <br>
 ![Zero To One - Peter Thiel](public/Zero To One - Peter Thiel.jpeg " Zero To One - Peter Thiel")
@@ -640,7 +645,7 @@ Another awesome book from Austin Kleon. See my reading-notes
 
 ---
 
-## Letters to a Young Muslim - Omar Saif Ghobash
+## Letters to a Young Muslim - Omar Saif Ghobash (📖)
 
 <br>
 ![Letters to a Young Muslim - Omar Saif Ghobash](public/Letters to a Young Muslim - Omar Saif Ghobash.jpeg "Letters to a Young Muslim - Omar Saif Ghobash")
@@ -651,7 +656,7 @@ Another awesome book from Austin Kleon. See my reading-notes
 
 ---
 
-## This is Water - David Foster Wallace
+## This is Water - David Foster Wallace (📱)
 
 <br>
 
@@ -667,7 +672,7 @@ is about, quote, “teaching you how to think.” See my reading-notes
 
 ---
 
-## Emotional Intelligence - Daniel Goleman
+## Emotional Intelligence - Daniel Goleman (📖)
 
 <br>
 
@@ -683,7 +688,7 @@ extremely essential. See my reading-notes
 
 ---
 
-## Anything You Want - Derek Sivers
+## Anything You Want - Derek Sivers (📱)
 
 <br>
 
@@ -702,7 +707,7 @@ sold for 22 million and had 85 employees at the time. See my reading-notes
 
 ---
 
-## Tuesdays with Morrie - Mitch Albom
+## Tuesdays with Morrie - Mitch Albom (📖)
 
 <br>
 
@@ -716,7 +721,7 @@ A very soul-stirring and poignant book for me.
 
 ---
 
-## The Alchemist - Paulo Coelho
+## The Alchemist - Paulo Coelho (📖)
 
 <br>
 ![The Alchemist - Paulo Coelho](public/the alchemist - paulo coelho.jpg "The Alchemist - Paulo Coelho")
@@ -730,7 +735,7 @@ treasure. The Journey is more important than the destination.
 
 ---
 
-## Dairy of a Young Girl - Anne Frank
+## Dairy of a Young Girl - Anne Frank (📖)
 
 <br>
 ![Dairy of a Young Girl - Anne Frank](public/the dairy of a young girl - anne frank.jpg "Dairy of a Young Girl - Anne Frank")
@@ -747,7 +752,7 @@ and sent to Nazi concentration camps. Only Anne Frank's father survived.
 
 ---
 
-## The Prophet - Kahlil Gibran
+## The Prophet - Kahlil Gibran (📖)
 
 <br>
 ![The Prophet - Kahlil Gibran](public/The Prophet - Kahlil Gibran.jpg " The Prophet - Kahlil Gibran")
@@ -762,7 +767,7 @@ to read but definitely worth it. See my reading-notes
 
 ---
 
-## The Power of Giving - Azim Jamal and Harvey McKinnon
+## The Power of Giving - Azim Jamal and Harvey McKinnon (📖)
 
 <br>
 ![The Power of Giving - Azim Jamal and Harvey McKinnon](public/The Power of Giving - Azim Jamal.jpg "The Power of Giving - Azim Jamal and Harvey McKinnon")
@@ -776,7 +781,7 @@ to read but definitely worth it. See my reading-notes
 
 ---
 
-## If I Stay - Gayle Forman
+## If I Stay - Gayle Forman (📖)
 
 <br>
 ![If I Stay - Gayle Forman](public/If I Stay - Gayle Forman.jpg " If I Stay - Gayle Forman")
@@ -791,7 +796,7 @@ or not to join a music school and the next day she's fighting for survival.
 
 ---
 
-## The Little Prince - Antoine de Saint-Exupe
+## The Little Prince - Antoine de Saint-Exupe (📱)
 
 <br>
 ![The Little Prince - Antoine de Saint-Exupe](public/The Little Prince - Antoine de Saint-Exupe.jpeg " The Little Prince - Antoine de Saint-Exupe")
@@ -802,7 +807,7 @@ or not to join a music school and the next day she's fighting for survival.
 
 ---
 
-## Tell me your dreams - Sidney Sheldon
+## Tell me your dreams - Sidney Sheldon (📖)
 
 <br>
 ![Tell me your dreams - Sidney Sheldon](public/Tell me your dreams - Sidney Sheldon.jpg "Tell me your dreams - Sidney Sheldon")
@@ -816,7 +821,7 @@ love with Fiction.
 
 ---
 
-## A Short Guide To A Happy Life - Anna Quindlen
+## A Short Guide To A Happy Life - Anna Quindlen (📱)
 
 <br>
 ![A Short Guide To A Happy Life - Anna Quindlen](public/A Short Guide to a Happy Guide - Anna Quindlen.jpg "A Short Guide To A Happy Life - Anna Quindlen")
@@ -830,7 +835,7 @@ yes, but another life, too."
 
 ---
 
-## The Fault In Our Stars - John Green
+## The Fault In Our Stars - John Green (📖)
 
 <br>
 ![The Fault In Our Stars - John Green](public/The Fault In Our Stars - John Green.jpg " The Fault In Our Stars - John Green")
@@ -845,7 +850,7 @@ famous and loved by everyone to achieve a meaningful life.
 
 ---
 
-## The Notebook - Nicholas Sparks
+## The Notebook - Nicholas Sparks (📖)
 
 <br>
 ![The Notebook - Nicholas Sparks](public/The Notebook - Nicholas Sparks.jpg "The Notebook - Nicholas Sparks")
@@ -858,7 +863,7 @@ A very compelling love story with intricate details and very well conveyed.
 
 ---
 
-## The Mastery of Love - Don Miguel Ruiz
+## The Mastery of Love - Don Miguel Ruiz (📱)
 
 <br>
 ![The Mastery of Love - Don Miguel Ruiz](public/the mastery of love - don miguel ruiz.jpg "The Mastery of Love - Don Miguel Ruiz")
@@ -870,7 +875,7 @@ You have to focus on the most wonderful relationship you can have: the relations
 
 ---
 
-## Ignore Everybody - Hugh McLeod
+## Ignore Everybody - Hugh McLeod (📱)
 
 <br>
 ![Ignore Everybody - Hugh McLeod](public/Ignore Everybody - Hugh McLeod.jpg "Ignore Everybody - Hugh McLeod")
@@ -886,7 +891,7 @@ for the money. See my reading-notes
 
 ---
 
-## Hunger - Roxane Gay
+## Hunger - Roxane Gay (📖)
 
 <br>
 ![Hunger - Roxane Gay](public/Hunger - Roxane Gay.jpeg " Hunger - Roxane Gay")
@@ -902,7 +907,7 @@ ever willing to share.
 
 ---
 
-## Free Will - Sam Harris
+## Free Will - Sam Harris (📱)
 
 <br>
 ![Free Will - Sam Harris](public/Free Will - Sam Harris.jpg "Free Will - Sam Harris")
@@ -919,7 +924,7 @@ have." See my reading-notes
 
 ---
 
-## Very Good Lives - JK Rowling
+## Very Good Lives - JK Rowling (📱)
 
 ![Very Good Lives - JK Rowling](public/Very Good Lives - JK Rowling.jpg "Very Good Lives - JK Rowling")
 
@@ -930,7 +935,7 @@ JK Rowling talks about her failures and says that you're qualification isn't who
 
 ---
 
-## Rich Dad Poor Dad - Robert Kiyosaki
+## Rich Dad Poor Dad - Robert Kiyosaki (📖)
 
 <br>
 ![Rich Dad Poor Dad - Robert Kiyosaki](public/Rich Dad Poor Dad.jpg "Rich Dad Poor Dad - Robert Kiyosaki")
@@ -943,7 +948,7 @@ Very Instructive and compelling read.
 
 ---
 
-## Outliers | The Story of Success - Malcolm Gladwell
+## Outliers | The Story of Success - Malcolm Gladwell (📖)
 
 <br>
 ![Outliers - The Story of Success - Malcolm Gladwell](public/Outliers - Malcolm Gladwell.jpg "Outliers - The Story of Success - Malcolm Gladwell")
@@ -956,7 +961,7 @@ A very spectacular read indeed. The concept of outliers is truly astonishing.
 
 ---
 
-## The Tipping Point - Malcolm Gladwell
+## The Tipping Point - Malcolm Gladwell (📖)
 
 <br>
 
@@ -970,7 +975,7 @@ A very riveting concept on how some things get so ubiquotous and some don't.
 
 ---
 
-## Good to Great - Jim Collins
+## Good to Great - Jim Collins (📖)
 
 <br>
 ![Good to Great - Jim Collins](public/Good to Great - Jim Collins.jpg "Good to Great - Jim Collins")
@@ -982,7 +987,7 @@ from good to great while some stayed mediocre or regressed.
 
 ---
 
-## Siddhartha - Hermann Hesse
+## Siddhartha - Hermann Hesse (📖)
 
 <br>
 
