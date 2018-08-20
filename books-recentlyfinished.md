@@ -9,12 +9,26 @@ This will contain the books I finished in order. Starting from 2018.
 <br>
 <!-- always 1 minus from total -->
 📱 read from mobile (5)
-📖 read from book (9)
+📖 read from book (10)
 <br>
 
 _36_ more before the year ends. Lets go!
 
 <br>
+
+## 15. Grit - Angela Duckworth(📖)
+
+<br>
+
+![Grit - Angela Duckworth](public/Grit - Angela Duckworth.jpeg " Grit - Angela Duckworth")
+
+**Rating 9.5/10**
+
+Finished on : 19-August-2018
+
+<br>
+
+---
 
 ## 14. An Hour To Live, An Hour To Love - Richard and Kris Carlson (📱)
 
