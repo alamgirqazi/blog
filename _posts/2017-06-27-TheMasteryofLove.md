@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 28. The Mastery of Love - Don Miguel Ruiz
+title: 28. The Mastery of Love - Don Miguel Ruiz (📱)
 permalink: TheMasteryofLove
 ---
 
 ![The Mastery of Love - Don Miguel Ruiz](public/the mastery of love - don miguel ruiz.jpg "The Mastery of Love - Don Miguel Ruiz")
 
-**Rating 9/10** 
+**Rating 9/10**
 
 <br>
 
@@ -96,7 +96,6 @@ We are going to use the truth as a scalpel to open the wounds.
 The truth is like a scalpel because it is painful to open our wounds and uncover all of the lies. The wounds in our emotional body are covered by the denial system, the system of lies we have created to protect those wounds.
 
 You begin by practicing the truth with yourself. When you are truthful with yourself, you start to see everything as it is, not the way you want to see it.
-
 
 The truth is relative in this world; it's changing all the time because we live in a world of illusions. What is true right now is not true later. Then it could be true again.
 

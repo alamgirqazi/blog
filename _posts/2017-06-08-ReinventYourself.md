@@ -1,18 +1,16 @@
 ---
 layout: post
-title: 24. Reinvent Yourself - James Altucher
+title: 24. Reinvent Yourself - James Altucher (📱)
 permalink: ReinventYourself
 ---
 
 ![Reinvent Yourself - James Altucher](public/Reinvent Yourself - James Altucher.jpg "Reinvent Yourself - James Altucher")
- 
 
-**Rating 9.5/10** 
+**Rating 9.5/10**
 
 <br>
 
 #### Reading Notes:
-
 
 We can’t ignore that money is important. Money buys freedom.
 
@@ -36,7 +34,7 @@ Likability – make yourself trustworthy. For instance, outline the negatives of
 
 The entire purpose of language is to influence. We are not strong animals. We are weak. The language of influence saved us.
 
-Chris Voss the negotiator: 
+Chris Voss the negotiator:
 You always want to get more information in a negotiation with as little commitment as possible on your side.
 
 “How am I supposed to get you $1 million by tomorrow?”
@@ -53,7 +51,6 @@ SILENCE. Don’t be afraid to go silent. Mirror and then have the confidence to 
 Nobody wants the negotiation to end. They will keep talking and give you more information.
 Your goal is you want to get them talking as much as possible. The more information you have, the better. And the more likely they will negotiate against themselves.
 
-
 DEADLINES DON‘T MATTER. They need you as much as you need them. Most people don’t realize that in the heat of a negotiation.
 That’s why they are in the negotiation in the first place.
 If they put a deadline on, don’t feel obligated to meet it. The negotiation won’t end. They still need you.
@@ -61,8 +58,8 @@ If they put a deadline on, don’t feel obligated to meet it. The negotiation wo
 get your “how”‘ questions ready. Your “no” questions.
 
 > “What happens after you die?” “Lot’s of things happen after you die—they just don’t involve you.”
-Ask at the end of the day, “Who did I help today?” instead of wondering about life after death.
-That gives you a better life. Nothing will give you a better death.
+> Ask at the end of the day, “Who did I help today?” instead of wondering about life after death.
+> That gives you a better life. Nothing will give you a better death.
 
 “‘I’m bored’ is a useless thing to say. You live in a great, big, vast world that you’ve seen none percent of.”
 Take a walk. Read a book. Write down ideas. Ask someone you love what they are up to.
@@ -99,12 +96,11 @@ Picasso also says, “I am always doing things I can’t do—that’s how I get
 “Find the thing you did where you lost all sense of time while you are doing it,” Chip told me.
 
 > “Remember the equation from Victor Frankl’s Man’s Search for Meaning. “Despair = Suffering - Meaning.
-Find the things that bring you meaning. Suffering is always there in this world. But if you have meaning, you will have less despair. You will find your calling.”
+> Find the things that bring you meaning. Suffering is always there in this world. But if you have meaning, you will have less despair. You will find your calling.”
 
 Here are the qualities of a zero.
 *LISTEN to what people tell you. Maybe they experienced something you have never experienced. Our brain can curate the experiences of others so maybe it can help us live our own lives better.
 *OBSERVE what people do. We have what are called “mirror neurons.”
-
 
 If I watch someone over and over firing a gun, then my mirror neurons kick in and I might be able to do it myself if asked.
 
@@ -112,19 +108,16 @@ When you compare, you despair. When you are humble, you learn. When you get curi
 
 “Continually investing in the success of others is what will eventually lead to success for yourself.”
 
-
-*DON’T BE ENTITLED. I admit, sometimes I get angry feeling like a zero. I want to be a +1 all the time, at everything I do.
+\*DON’T BE ENTITLED. I admit, sometimes I get angry feeling like a zero. I want to be a +1 all the time, at everything I do.
 I get competitive. I want to be the best at this, or the best at that. RIGHT NOW.
 
 > One thing I know for sure is that feeling entitled to anything will automatically put a ceiling on what you get out of life.
-
 
 > Every attempt at art depends first on connection. Every business depends on connection.
 
 The only skill for survival and success is having that ability to connect.
 
 My eight greatest teachers in life were perhaps the many girls in high school who said “no” to me when I was desperate to go out with them. Who knows what would’ve happened to me if everything were easy then. Maybe I would not have been able to handle it when things became really hard later.
-
 
 Every day, don’t try to jump into another box. Just try to think a little bit more outside of the box society has put you in.
 
@@ -141,16 +134,14 @@ Wayne says that if something isn’t working in his life, he always tells himsel
 
 Sergey Brin, for instance, used to interview every potential Google employee. He explained later that he knew within seconds whether he would hire someone and would then spend the rest of the meeting trying to learn at least one new thing from the interviewee so the meeting wouldn’t be a total waste of time.
 
-
 > Nobody can tell you what to do. No matter what they pay you. No matter what obligations you feel you owe them. Every second defines you. Be who you are, not who anyone else is. An entrepreneur, for instance, has investors, customers, partners, employees, competitors. Everyone wants their inputs heard. But only you can act to change the world with your ideas.
 
- The brain has a tendency to believe things even more if they are repeated, regardless of whether or not they are true. This is called an “availability cascade.”
+The brain has a tendency to believe things even more if they are repeated, regardless of whether or not they are true. This is called an “availability cascade.”
 
 When people associate the worth of their lives with any one activity, it’s deadly.
 We have to celebrate what we’re good at. But also celebrate other things in life the love of another person. Our friends. Something funny. I always have to tell myself to diversify my celebrations. Celebrate the small. Not always the big.
 
 > Someone asked me recently where I expect to be in five years. I never think about it. Not ever. I only try every day to improve 1% my physical, emotional, mental, and spiritual health. The results will take care of themselves. This is the ONLY way today to plan for a successful tomorrow.
-
 
 it also underlines the importance that there is never “one thing” that we were all put on Earth to do.
 We were put here to try. Nobody will grade us.
@@ -205,7 +196,6 @@ Too often we get labeled by our degrees and our job titles. Larry Page and Elon 
 
 > Learning to find happiness with less is true wealth. Ultimately we are the sum of our experiences and not the sum of our belongings. There is nothing wrong with making money but it is only one small part of living a life of comfort, of compassion, of calm.
 
-
 Too many people forget that but the only way to really communicate effectively is through story.
 
 the benefits of choosing yourself is that other people’s lives are saved while you avoid waiting for someone else to choose you.
@@ -215,7 +205,6 @@ Don’t do that anymore. Stop it!
 Say instead, “I’m already doing this. Here are the 10 or 20 things I’ve done so far. Here are the results. Are you in?”
 
 “If everyone would just help ONE person today then the world will be a better place tomorrow.”
-
 
 Always think at the end of each day, “Who did I help today?”
 
@@ -232,11 +221,11 @@ Everyone wants the keys to your self-esteem so they can lock you in your own jai
 Success is every day, feeling contentment.
 Contentment is every day:
 
-*Improving your relationships
+\*Improving your relationships
 
-*Improving your competence in something you love
+\*Improving your competence in something you love
 
-*Improving your freedom
+\*Improving your freedom
 
 “Nothing is permanent in this world, not even our troubles.”
 
@@ -261,7 +250,6 @@ Year Three: you’re good enough to start making money. It might not be a living
 Year Four: you’re making a good living.
 
 Year Five: you’re making wealth.
-
 
 Success is better than failure but the biggest lessons are found in failure.
 

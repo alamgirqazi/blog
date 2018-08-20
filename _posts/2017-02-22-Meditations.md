@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 8. Meditations - Marcus Aurelius
+title: 8. Meditations - Marcus Aurelius (📱)
 permalink: meditations
 ---
 
 ![Meditations - Marcus Aurelius](public/meditations - marcus aurelius.jpg "Meditations - Marcus Aurelius")
 
-
-**Rating 9/10** 
+**Rating 9/10**
 
 <br>
 
@@ -28,7 +27,7 @@ Then what can guide us? Only philosophy.
 
 Which means making sure that the power within stays safe and free from assault, superior to pleasure and pain, doing nothing randomly or dishonestly and with imposture, not dependent on anyone else’s doing something or not doing it. And making sure that it accepts what happens and what it is dealt as coming from the same place it came from.
 
-Book 3: 
+Book 3:
 
 You need to get used to winnowing your thoughts, so that if someone says, “What are you thinking about?” you can respond at once (and truthfully) that you are thinking this or thinking that.
 
@@ -65,7 +64,7 @@ But when they obstruct our proper tasks, they become irrelevant to us—like sun
 
 The impediment to action advances action.
 
-What stands in the way becomes the way. 
+What stands in the way becomes the way.
 
 The mind is the ruler of the soul. It should remain unstirred by agitations of the flesh—gentle and violent ones alike. Not mingling with them, but fencing itself off and keeping those feelings in their place. When they make their way into your thoughts, through the sympathetic link between mind and body, don’t try to resist the sensation. The sensation is natural. But don’t let the mind start in with judgments, calling it “good” or “bad.”
 

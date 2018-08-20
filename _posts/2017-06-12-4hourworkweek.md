@@ -1,11 +1,10 @@
 ---
 layout: post
-title: The 4 - Hour Workweek - Tim Ferriss
+title: The 4 - Hour Workweek - Tim Ferriss (📱)
 permalink: 4hourworkweek
 ---
 
 ![The 4 - Hour Workweek - Tim Ferriss](public/four hour work week - tim ferriss.jpg "The 4 - Hour Workweek - Tim Ferriss")
-
 
 <br>
 
@@ -24,7 +23,6 @@ The first principle is that you must not fool yourself, and you are the easiest 
 
 Once you say you’re going to settle for second, that’s what happens to you in life.
 —JOHN F. KENNEDY
-
 
 I can’t give you a surefire formula for success, but I can give you a formula for failure: try to please everybody all the time.
 —HERBERT BAYARD SWOPE
@@ -101,6 +99,5 @@ People think it must be fun to be a super genius, but they don’t realize how h
 Higher pricing means that we can sell fewer units—and thus manage fewer customers—and fulfill our dreamlines. It’s faster.
 
 • Higher pricing attracts lower-maintenance customers (better credit, fewer complaints/questions, fewer returns, etc.). It’s less headache. This is HUGE.
-
 
 • Higher pricing also creates higher profit margins. It’s safer.

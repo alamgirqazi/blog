@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 32. The Power of Giving - Azim Jamal and Harvey McKinnon
+title: 32. The Power of Giving - Azim Jamal and Harvey McKinnon (📖)
 permalink: ThePowerOfGiving
 ---
 
@@ -43,4 +43,3 @@ Kahlil Gibran says, "Someone who has hurt you is also hurting, maybe with your k
 The day you are able to feel joy in giving, no matter what your status, is the day you find bliss in life.
 
 Socrates, "The unexamined life is not worth living."
-

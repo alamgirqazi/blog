@@ -1,18 +1,16 @@
 ---
 layout: post
-title: 9. Man's Search for Meaning - Viktor Frankl
+title: 9. Man's Search for Meaning - Viktor Frankl (📱)
 permalink: MansSearchForMeaning
 ---
 
 ![Man's Search for Meaning - Viktor Frankl](public/man's search for meaning - viktor frankl.jpg "Man's Search for Meaning - Viktor Frankl")
 
-
-**Rating 9/10** 
+**Rating 9/10**
 
 <br>
 
 #### Reading Notes:
-
 
 Life is not primarily a quest for pleasure, as Freud believed, or a quest for power, as Alfred Adler taught, but a quest for meaning. The greatest task for any person is to find meaning in his or her life. Frankl saw three possible sources for meaning: in work (doing something significant), in love (caring for another person), and in courage during difficult times. Suffering in and of itself is meaningless; we give our suffering meaning by the way in which we respond to it.
 

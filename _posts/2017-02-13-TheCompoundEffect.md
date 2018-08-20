@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6. The Compound Effect - Darren Hardy
+title: 6. The Compound Effect - Darren Hardy (📱)
 permalink: TheCompoundEffect
 ---
 
@@ -124,5 +124,3 @@ Robert Schuller told us in his SUCCESS feature (December 2008), “I say no idea
 Let me share with you what motivates me. My core value in life is significance. My desire is to make a positive difference in other people’s lives.
 
 Whatever I want in life, I’ve found that the best way to get it is to focus my energy on giving to others. If I want to boost my confidence, I look for ways to help someone else feel more confident. If I want to feel more hopeful, positive, and inspired, I try to infuse that in someone else’s day. If I want more success for myself, the fastest way to get it is to go about helping someone else obtain it.
-
-

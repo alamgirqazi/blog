@@ -5,9 +5,9 @@ permalink: books
 ---
 
 <br>
-
-📱 read from mobile (33)
-📖 read from book (36)
+<!-- always 1 minus from total -->
+📱 read from mobile (32)
+📖 read from book (35)
 
 <br>
 

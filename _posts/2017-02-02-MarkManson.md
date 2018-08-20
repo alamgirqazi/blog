@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 3. The Subtle Art of Not Giving a Fu*k - Mark Manson
+title: 3. The Subtle Art of Not Giving a Fu*k - Mark Manson (📱)
 permalink: MarkManson
 ---
 
-![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a Fu*k - Mark Manson")
+![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a Fu\*k - Mark Manson")
 
 **rating 10/10**
 
@@ -27,7 +27,7 @@ True happiness occurs only when you find the problems you enjoy having and enjoy
 
 Whatever makes us happy today will no longer make us happy tomorrow, because our biology always needs something more. A fixation on happiness inevitably amounts to a never-ending pursuit of “something else”—a new house, a new relationship, another child, another pay raise. And despite all of our sweat and strain, we end up feeling eerily similar to how we started: inadequate. Psychologists sometimes refer to this concept as the “hedonic treadmill”: the idea that we’re always working hard to change our life situation, but we actually never feel very different.
 
- > “What pain do you want in your life? What are you willing to struggle for?” Because that seems to be a greater determinant of how our lives turn out.
+> “What pain do you want in your life? What are you willing to struggle for?” Because that seems to be a greater determinant of how our lives turn out.
 
 Real, serious, lifelong fulfillment and meaning have to be earned through the choosing and managing of our struggles. Whether you suffer from anxiety or loneliness or obsessive-compulsive disorder or a dickhead boss who ruins half of your waking hours every day, the solution lies in the acceptance and active engagement of that negative experience—not the avoidance of it, not the salvation from it.
 
@@ -54,7 +54,7 @@ Often the only difference between a problem being painful or being powerful is a
 We don’t always control what happens to us. But we always control how we interpret what happens to us, as well as how we respond.
 Whether we consciously recognize it or not, we are always responsible for our experiences. It’s impossible not to be. Choosing to not consciously interpret events in our lives is still an interpretation of the events of our lives. Choosing to not respond to the events in our lives is still a response to the events in our lives.
 
- “With great responsibility comes great power.” The more we choose to accept responsibility in our lives, the more power we will exercise over
+“With great responsibility comes great power.” The more we choose to accept responsibility in our lives, the more power we will exercise over
 our lives. Accepting responsibility for our problems is thus the first step to solving them.
 
 Responsibility results from the choices you’re currently making, every second of every day. You are choosing to read this. You are choosing to think about the concepts. You are choosing to accept or reject the concepts. It may be my fault that you think my ideas are lame, but you are responsible for coming to your own conclusions.
@@ -75,7 +75,7 @@ Buddhism argues that your idea of who “you” are is an arbitrary mental const
 
 When the student admits to himself, “You know, maybe I’m not a rebel; maybe I’m just scared,” then he’s free to be ambitious again. He has no reason to feel threatened by pursuing his academic dreams and maybe failing.
 
- > don’t be special; don’t be unique. Redefine your metrics in mundane and broad ways. Choose to measure yourself not as a rising star or an undiscovered genius. Choose to measure yourself not as some horrible victim or dismal failure. Instead, measure yourself by more mundane identities: a student, a partner, a friend, a creator.
+> don’t be special; don’t be unique. Redefine your metrics in mundane and broad ways. Choose to measure yourself not as a rising star or an undiscovered genius. Choose to measure yourself not as some horrible victim or dismal failure. Instead, measure yourself by more mundane identities: a student, a partner, a friend, a creator.
 
 If someone is better than you at something, then it’s likely because she has failed at it more than you have. If someone is worse than you, it’s
 likely because he hasn’t been through all of the painful learning experiences you have.
@@ -101,7 +101,7 @@ Life is about not knowing and then doing something anyway.
 
 When I was in high school, my math teacher Mr. Packwood used to say, “If you’re stuck on a problem, don’t sit there and think about it; just start working on it. Even if you don’t know what you’re doing, the simple act of working on it will eventually cause the right ideas to show up in your head.”
 
- > Freud once said, “One day, in retrospect, the years of struggle will strike you as the most beautiful.”
+> Freud once said, “One day, in retrospect, the years of struggle will strike you as the most beautiful.”
 
 This is why these values—pleasure, material success, always being right, staying positive—are poor ideals for a person’s life. Some of the greatest moments of one’s life are not pleasant, not successful, not known, and not positive.
 
@@ -127,6 +127,3 @@ Commitment gives you freedom because you’re no longer distracted by the unimpo
 
 Yes, breadth of experience is likely necessary and desirable when you’re young—after all, you have to go out there and discover what seems worth investing yourself in. But depth is where the gold is buried. And you have to stay committed to something and go deep to dig it up. That’s true in
 relationships, in a career, in building a great lifestyle—in everything.
-
-
-

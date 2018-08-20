@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 18. Rising Strong - Brene Brown
+title: 18. Rising Strong - Brene Brown (📱)
 permalink: RisingStrong
 ---
 
 ![Rising Strong - Brene Brown](public/Rising Strong - Brene Brown.jpg "Rising Strong - Brene Brown")
- 
-**Rating 9.5/10** 
+
+**Rating 9.5/10**
 
 <br>
 
@@ -20,7 +20,7 @@ Daring is not saying, “I’m willing to risk failure.” Daring is saying, “
 
 We own our stories so we don’t spend our lives being defined by them or denying them.
 
- Creating is the tool. Creating is the act of paying attention to our experiences and connecting the dots so we can learn more about ourselves and the world around us.
+Creating is the tool. Creating is the act of paying attention to our experiences and connecting the dots so we can learn more about ourselves and the world around us.
 
 The only decision we get to make is what role we’ll play in our own lives: Do we want to write the story or do we want to hand that power over to someone else? Choosing to write our own story means getting uncomfortable; it’s choosing courage over comfort.
 
@@ -106,7 +106,6 @@ Nonjudgment — I can ask for what I need, and you can ask for what you need. We
 
 Generosity — You extend the most generous interpretation possible to the intentions, words, and actions of others.
 
-
 > Mistakes don’t bankrupt trust in the way that violations of personal accountability, integrity, or values can.
 
 My favorite definition of despair comes from author and pastor Rob Bell: Despair is a spiritual condition. It’s the belief that tomorrow will be just like today.
@@ -115,16 +114,13 @@ In my work, I’ve found that moving out of powerlessness, and even despair, req
 
 I’ve also learned in all of my rumbles that if you don’t put value on your work, no one is going to do that for you.
 
-
 > I believe that what we regret most are our failures of courage, whether it’s the courage to be kinder, to show up, to say how we feel, to set boundaries, to be good to ourselves. For that reason, regret can be the birthplace of empathy.
 
 We can’t be brave in the big world without at least one small safe space to work through our fears and falls.
 
 Of all the things trauma takes away from us, the worst is our willingness, or even our ability, to be vulnerable. There’s a reclaiming that has to happen.
 
-
 we start playing smaller and smaller, making ourselves harder targets. We’re more difficult to hit when we’re small, but we’re also less likely to make a contribution.
- 
 
 > When we stop caring what people think, we lose our capacity for connection. But when we are defined by what people think, we lose the courage to be vulnerable. The solution is getting totally clear on the people whose opinions actually matter.
 

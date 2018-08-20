@@ -1,21 +1,20 @@
 ---
 layout: post
-title: 26. Who Moved My Cheese? - Spencer Johnson
+title: 26. Who Moved My Cheese? - Spencer Johnson (📱)
 permalink: WhoMovedMyCheese
 ---
 
 ![Who Moved My Cheese? - Spencer Johnson](public/Who Moved My Cheese - Spencer Johnson.jpg "Who Moved My Cheese? - Spencer Johnson")
 
-**Rating 9.5/10** 
+**Rating 9.5/10**
 
 <br>
 
 #### Reading Notes:
 
-> "Life is no straight and easy corridor along which we travel free and unhampered, but a maze of passages, through which we must seek our way, lost and confused, now and again checked in a blind alley. But always, if we have faith, a door will open for us, not perhaps one that we ourselves would ever have thought of, but one that will ultimately prove good for us." ~ A. J. Cronin 
+> "Life is no straight and easy corridor along which we travel free and unhampered, but a maze of passages, through which we must seek our way, lost and confused, now and again checked in a blind alley. But always, if we have faith, a door will open for us, not perhaps one that we ourselves would ever have thought of, but one that will ultimately prove good for us." ~ A. J. Cronin
 
-
- The mice did not overanalyze things. To the mice, the problem and the answer were both simple. The situation at Cheese Station C had changed. So, Sniff and Scurry decided to change.
+The mice did not overanalyze things. To the mice, the problem and the answer were both simple. The situation at Cheese Station C had changed. So, Sniff and Scurry decided to change.
 
 What Would You Do If You Weren't Afraid
 
@@ -49,35 +48,25 @@ You could be more aware of the need to keep things simple, be flexible, and move
 
 The Handwriting On The wall:
 
- 
 Change Happens.
 They Keep Moving The Cheese
 
- 
 Anticipate Change.
 Get Ready For The Cheese To Move
 
-
- 
 Monitor Change.
 Smell The Cheese Often So You Know When It Is Getting Old
 
- 
 Adapt To Change Quickly.
 The Quicker You Let Go Of Old Cheese, The Sooner You Can Enjoy New Cheese
 
- 
 Change.
 Move With The Cheese
 
- 
 Enjoy Change!
 Savor The Adventure And Enjoy The Taste Of New Cheese.
 
- 
 Be Ready To Change Quickly And Enjoy It Again & Again.
 They Keep Moving The Cheese
 
-
 > Change really can lead you to a new and better place, although you're afraid it won't at the time.
-

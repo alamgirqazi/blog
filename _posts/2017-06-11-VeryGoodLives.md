@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 25. Very Good Lives - JK Rowling
+title: 25. Very Good Lives - JK Rowling (📱)
 permalink: VeryGoodLives
 ---
 
 ![Very Good Lives - JK Rowling](public/Very Good Lives - JK Rowling.jpg "Very Good Lives - JK Rowling")
- 
 
-**Rating 9/10** 
+**Rating 9/10**
 
 <br>
 

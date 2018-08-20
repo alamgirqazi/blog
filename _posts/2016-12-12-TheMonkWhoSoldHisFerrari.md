@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1. The Monk Who Sold His Ferrari - Robin Sharma
+title: 1. The Monk Who Sold His Ferrari - Robin Sharma (📖)
 permalink: TheMonkWhoSoldHisFerrari
 ---
 
@@ -11,7 +11,6 @@ permalink: TheMonkWhoSoldHisFerrari
 <br>
 
 #### Reading Notes:
-
 
 Self Mastery and the consistent care of one’s mind, body and soul are essential to finding one’s highest self and living the life of one’s dreams.
 
@@ -24,7 +23,6 @@ When you form the habit of searching for the positive in every circumstance, you
 The mind is a wonderful servant but a terrible master.
 
 > Winston Churchill said, “the price of greatness is responsibility over each of your thoughts.”
-
 
 The mind truly is like any other muscle in your body. Use it or lose it.
 
@@ -44,12 +42,11 @@ Self-knowledge is the stepping stone to self-mastery.
 
 The quality of your thinking determines the quality of your life.
 
-The mind works through pictures. Pictures affect your self-image and your self-image affects the way you feel, act and achieve. When you run inspiring, imaginative pictures through the movie screen of your mind, wonderful things start to happen in your life. 
+The mind works through pictures. Pictures affect your self-image and your self-image affects the way you feel, act and achieve. When you run inspiring, imaginative pictures through the movie screen of your mind, wonderful things start to happen in your life.
 
 > Einstein said, "Imagination is more important than knowledge."
 
 You must spend some time every day, even if it is just a few minutes, in the practice of self envisioning. See yourself as you want to be, whether this means serving as a great judge, a great father or a great citizen of your community. Use positive images to influence your mind.
-
 
 Your mind has magnetic power to attract all that you desire into your life. If there is a lack in your life, it is because there is lack in your thoughts.
 
@@ -95,7 +92,7 @@ By taking time to get to know yourself, you will connect to a dimension of your 
 
 ‘Happiness comes through good judgement, good judgement comes through experience, and experience comes through bad judgement.’
 
- Pain is often the precursor to personal growth. Don’t dread it. Instead, embrace it.
+Pain is often the precursor to personal growth. Don’t dread it. Instead, embrace it.
 
 The ten-minute period before you sleep and the ten-minute period after you wake up are profoundly influential on your subconscious mind. Only the most inspiring and serene thoughts should be programmed into your mind at those times.
 
@@ -152,4 +149,3 @@ There is a huge difference between making a lot of money and making a lot of lif
 Make decisions to spend more time with those who make your life meaningful.
 
 Savour the gift of achievement. Never sacrifice happiness for achievement.
-

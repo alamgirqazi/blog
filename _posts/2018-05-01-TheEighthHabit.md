@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 8th Habit - Stephen R. Covey
+title: The 8th Habit - Stephen R. Covey (📖)
 permalink: The8thHabit
 ---
 

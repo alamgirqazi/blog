@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2. How To Win Friends and Influence People - Dale Carnegie
+title: 2. How To Win Friends and Influence People - Dale Carnegie (📖)
 permalink: HowToWinFriendsandInfluencePeople
 ---
 
@@ -9,7 +9,6 @@ permalink: HowToWinFriendsandInfluencePeople
 **rating 10/10**
 
 <br>
-
 
 #### Reading Notes:
 

@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 22. This is Water - David Foster Wallace
+title: 22. This is Water - David Foster Wallace  (📱)
 permalink: ThisIsWater
 ---
 
 ![This is Water - David Foster Wallace](public/This is Water - David Foster Wallace.jpg "This is Water - David Foster Wallace")
- 
 
-**Rating 9/10** 
+**Rating 9/10**
 
 <br>
 
@@ -25,7 +24,6 @@ The point here is that I think this is one part of what the liberal arts mantra 
 
 “Learning how to think” really means learning how to exercise some control over how and what you think.
 
-
 It means being conscious and aware enough to choose what you pay attention to and to choose how you construct meaning from experience.
 
 It's the automatic, unconscious way that I experience the boring, frustrating, crowded parts of adult life when I'm operating on the automatic, unconscious belief that I am the center of the world and that my immediate needs and feelings are what should determine the world's priorities.
@@ -39,7 +37,6 @@ Worship your intellect, being seen as smart – you will end up feeling stupid, 
 > “This is water.”
 
 > “These Eskimos might be much more than they seem.”
-
 
 It is unimaginably hard to do this – to live consciously, adultly, day in and day out.
 Your education really is the job of a lifetime, and it commences – now.

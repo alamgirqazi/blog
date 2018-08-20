@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thinking, Fast and Slow - Daniel Kahneman
+title: Thinking, Fast and Slow - Daniel Kahneman (📖)
 permalink: ThinkingFastAndSlow
 ---
 
@@ -81,8 +81,8 @@ Self-criticism is one of the functions of System 2.
 
 people:
 
-* are less confident in a choice when they are asked to produce more arguments to support it.
-* are less impressed by a car after listing many of its advantages.
+- are less confident in a choice when they are asked to produce more arguments to support it.
+- are less impressed by a car after listing many of its advantages.
 
 people form opinions and make choices that directly express their feelings and their basic tendency to approach or avoid, often without knowing that they are doing so.
 

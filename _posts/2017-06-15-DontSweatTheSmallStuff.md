@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 27. Don't Sweat The Small Stuff - Richard Carlson
+title: 27. Don't Sweat The Small Stuff - Richard Carlson (📱)
 permalink: DontSweatTheSmallStuff
 ---
 
 ![Don't Sweat The Small Stuff - Richard Carlson](public/don't sweat the small stuff - richard carlson.jpg "Don't Sweat The Small Stuff - Richard Carlson")
 
-**Rating 10/10** 
+**Rating 10/10**
 
 <br>
 
@@ -48,14 +48,13 @@ Your job is to try to determine what the people in your life are trying to teach
 
 Let Others Be "Right" Most of the Time. One of the most important questions you can ever ask yourself is, "Do I want to be 'right'— or do I want to be happy?" Many times, the two are mutually exclusive! Being right, defending our positions, takes an enormous amount of mental energy and often alienates us from the people in our lives.
 
-
 Suppose you're in the post office and the postal clerk appears to be intentionally moving slowly. Rather than feeling frustrated, ask yourself the question, "What is he trying to teach me?" Maybe you need to learn about compassion—how hard it would be to have a job that you don't like. Or perhaps you could learn a little more about being patient. Standing in line is an excellent opportunity to break your habit of feeling impatient. You may be surprised at how fun and easy this is. All you're really doing is changing your perception from "Why are they doing this?" to "What are they trying to teach me?" Take a look around today at all the enlightened people.
 
 > Being listened to and heard is one of the greatest desires of the human heart.
 
 A wonderful, heartfelt strategy for becoming more peaceful and loving is to practice allowing others the joy of being right — give them the glory. Stop correcting.
 
- The way to be happy is to let go, and reach out. Let other people be right. This doesn't mean that you're wrong. Everything will be fine. You'll experience the peace of letting go, as well as the joy of letting others be right.
+The way to be happy is to let go, and reach out. Let other people be right. This doesn't mean that you're wrong. Everything will be fine. You'll experience the peace of letting go, as well as the joy of letting others be right.
 
 Repeat to Yourself, "Life Isn't an Emergency."
 
@@ -158,5 +157,3 @@ Look for the Extraordinary in the Ordinary
 Life is precious and extraordinary. Put your attention on this fact and little, ordinary things will take on a whole new meaning.
 
 "Life is too important to take too seriously."
-
-

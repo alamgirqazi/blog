@@ -1,18 +1,16 @@
 ---
 layout: post
-title: 16. 5 Major Pieces To The Life Puzzle - Jim Rohn
+title: 16. 5 Major Pieces To The Life Puzzle - Jim Rohn (📱)
 permalink: 5MajorPiecesToTheLifePuzzle
 ---
 
 ![5 Major Pieces To The Life Puzzle - Jim Rohn](public/5 major pieces to the life puzzle - jim rohn.jpg "5 Major Pieces To The Life Puzzle - Jim Rohn")
 
-
-**Rating 9.5/10** 
+**Rating 9.5/10**
 
 <br>
 
 #### Reading Notes:
-
 
 > It is by an intricate design of nature that success is a condition that must be attracted and not pursued. We achieve rewards and we make progress not by our intense pursuits, but by what we become, for it is what we are that finally determines the results we attract.
 
@@ -101,5 +99,3 @@ Only when we have experienced the full spectrum of human existence can we begin 
 We can start right now by offering all that is within our power to share. Whether we offer our time, a shoulder to cry on, a word of sincere appreciation or our undivided attention, if we will just be there and really live that moment, what an experience that could be!
 
 We must not let the years, and the chances, and the –small opportunities for creating moments of joy slip away. If we continue to wait until we have the resources to do the big things before we master the art of experiencing all that life currently has to offer, then we may find that we have -waited too long.
-
-

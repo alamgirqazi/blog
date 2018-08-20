@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 14. The Obstacle Is The Way - Ryan Holiday
+title: 14. The Obstacle Is The Way - Ryan Holiday (📱)
 permalink: TheObstacleIsTheWay
 ---
 
 ![The Obstacle Is The Way - Ryan Holiday](public/obstacle is the way - ryan holiday.jpg "The Obstacle Is The Way - Ryan Holiday")
 
-
-**Rating 9.5/10** 
+**Rating 9.5/10**
 
 <br>
 
@@ -46,7 +45,7 @@ When we aim high, pressure and stress obligingly come along for the ride. Stuff 
 In these situations, talent is not the most sought-after characteristic. Grace and poise are, because these two attributes precede the opportunity to deploy any other skill.
 
 > Would you have a great empire? Rule over yourself.
-—PUBLIUS SYRUS
+> —PUBLIUS SYRUS
 
 Can you fight the urge to panic and instead focus only on what you can change? On the task at hand?
 
@@ -65,11 +64,9 @@ Musashi understood that the observing eye sees simply what is there. The perceiv
 
 > The observing eye sees events, clear of distractions, exaggerations, and misperceptions. The perceiving eye sees “insurmountable obstacles” or “major setbacks” or even just “issues.” It brings its own issues to the fight. The former is helpful, the latter is not.
 
-
 > Perceptions are the problem. They give us the “information” that we don’t need, exactly at the moment when it would be far better to focus on what is immediately in front of us:
 
 Everything changed for Clooney when he tried a new perspective. He realized that casting is an obstacle for producers, too—they need to find somebody, and they’re all hoping that the next person to walk in the room is the right somebody. Auditions were a chance to solve their problem, not his.
-
 
 The difference between the right and the wrong perspective is everything.
 How we interpret the events in our lives, our perspective, is the framework for our forthcoming response—whether there will even be one or whether we’ll just lie there and take it.
@@ -101,7 +98,7 @@ Psychologists call it adversarial growth and post-traumatic growth. “That whic
 Life can be frustrating. Oftentimes we know what our problems are. We may even know what to do about them. But we fear that taking action is too risky, that we don’t have the experience or that it’s not how we pictured it or because it’s too expensive, because it’s too soon, because we think something better might come along, because it might not work.
 And you know what happens as a result? Nothing. We do nothing.
 
-Remember and remind yourself of a phrase favored by Epictetus: “persist and resist.” Persist in your efforts. Resist giving in to distraction, discouragement, or disorder. 
+Remember and remind yourself of a phrase favored by Epictetus: “persist and resist.” Persist in your efforts. Resist giving in to distraction, discouragement, or disorder.
 
 > There’s no need to sweat this or feel rushed. No need to get upset or despair. You’re not going anywhere—you’re not going to be counted out. You’re in this for the long haul.
 
@@ -130,7 +127,6 @@ It’s easier to think and act than it is to practice wisdom.
 We instinctively think about how much better we’d like any given situation to be. We start thinking about what we’d rather have. Rarely do we consider how much worse things could have been.
 
 Our actions can be constrained, but our will can’t be. Our plans—even our bodies—can be broken. But belief in ourselves? No matter how many times we are thrown back, we alone retain the power to decide to go once more. Or to try another route. Or, at the very least, to accept this reality and decide upon a new aim.
-
 
 We’re not special or unique simply by virtue of being. We’re all, at varying points in our lives, the subject of random and often incomprehensible events.
 

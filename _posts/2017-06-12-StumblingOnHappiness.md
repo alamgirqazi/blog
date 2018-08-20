@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stumbling On Happiness - Daniel Gilbert
+title: Stumbling On Happiness - Daniel Gilbert (📱)
 permalink: StumblingOnHappiness
 ---
 
 ![Stumbling On Happiness - Daniel Gilbert](public/Stumbling on Happiness - Daniel Gilbert.jpg "Stumbling On Happiness - Daniel Gilbert")
- 
-<!--**Rating 9/10** 
+
+<!--**Rating 9/10**
 
 <br>-->
 <br>
@@ -31,7 +31,7 @@ The fact is that human beings come into the world with a passion for control, th
 
 Apparently, gaining control can have a positive impact on one’s health and well-being, but losing control can be worse than never having had any at all.
 
- We use our eyes to look into space and our imaginations to look into time. Just as our eyes sometimes lead us to see things as they are not, our imaginations sometimes lead us to foresee things as they will not be.
+We use our eyes to look into space and our imaginations to look into time. Just as our eyes sometimes lead us to see things as they are not, our imaginations sometimes lead us to foresee things as they will not be.
 
 Happiness, then, is the you-know-what-I-mean feeling.
 
@@ -84,7 +84,6 @@ It is difficult to escape the focus of our own attention—difficult to consider
 When we think of events in the distant past or distant future we tend to think abstractly about why they happened or will happen, but when we think of events in the near past or near future we tend to think concretely about how they happened or will happen.
 
 most people would rather receive $20 in a year than $19 in 364 days because a one-day delay that takes place in the far future looks (from here) to be a minor inconvenience. On the other hand, most people would rather receive $19 today than $20 tomorrow because a one-day delay that takes place in the near future looks (from here) to be an unbearable torment.
-
 
 lacked imagination but that he trusted it. Any brain that does the filling-in trick is bound to do the leaving-out trick as well, and thus the futures we imagine contain some details that our brains invented and lack some details that our brains ignored. The problem isn’t that our brains fill in and leave out. God help us if they didn’t.
 

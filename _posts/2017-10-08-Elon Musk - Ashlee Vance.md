@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elon Musk - Ashlee Vance
+title: Elon Musk - Ashlee Vance (📱)
 permalink: ElonMusk
 ---
 

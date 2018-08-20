@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7. Emotional Intelligence - Daniel Goleman
+title: 7. Emotional Intelligence - Daniel Goleman (📖)
 permalink: Emotionalintelligence
 ---
 
@@ -26,15 +26,15 @@ Metacognition – the awareness of one’s mental processes.
 
 And in the day-to-day world no intelligence is more important than the interpersonal. If you don’t have it, you’ll make poor choices about who to marry, what job to take, and so on.
 
-1.	Knowing one’s emotions. Self – awareness – recognizing a feeling as it happens – is the keystone of emotional intelligence. An inability to notice our true feelings leaves us at their mercy. People with greater certainty about their feelings are better pilots of their lives, having a surer sense of how they really feel about personal decisions from whom to marry to what job to take.
+1. Knowing one’s emotions. Self – awareness – recognizing a feeling as it happens – is the keystone of emotional intelligence. An inability to notice our true feelings leaves us at their mercy. People with greater certainty about their feelings are better pilots of their lives, having a surer sense of how they really feel about personal decisions from whom to marry to what job to take.
 
-2.	Managing emotions. Handling feelings so they are appropriate is an ability that builds on self-awareness. 
+2. Managing emotions. Handling feelings so they are appropriate is an ability that builds on self-awareness.
 
-3.	Motivating oneself. People who have this skill tend to be highly productive and effective in whatever they undertake.
+3. Motivating oneself. People who have this skill tend to be highly productive and effective in whatever they undertake.
 
-4.	Recognizing emotions in other. Empathy, is the fundamental “people skill”. People who are empathetic are more attuned to the subdue social signals that indicate what others need or want. 
+4. Recognizing emotions in other. Empathy, is the fundamental “people skill”. People who are empathetic are more attuned to the subdue social signals that indicate what others need or want.
 
-5.	Handling relationships. The art of relationships is, in large part, skill in managing emotions in others.
+5. Handling relationships. The art of relationships is, in large part, skill in managing emotions in others.
 
 Socrates’s injunction “Know Thyself” speaks to the keystone of emotional intelligence: awareness of one’s own feelings as they occur.
 
@@ -42,7 +42,7 @@ Psychologists use the rather ponderous term ‘metacognition’ to refer to an a
 
 Zillmann finds that a universal trigger for anger is the sense of being endangered. Endangerment can be signaled not just by an outright physical threat but also, as is more often the case, by a symbolic threat to self-esteem or dignity.
 
-Self-efficacy, the belief that one has mastery over the events of one’s life and can meet challenges as they come up. 
+Self-efficacy, the belief that one has mastery over the events of one’s life and can meet challenges as they come up.
 
 Empathy builds on self-awareness; the more open we are to our own emotions, the more skilled we will be in reading feelings.
 
@@ -53,4 +53,3 @@ Psychopathy, the incapacity to feel empathy or compassion of any sorts.
 “Popular” and “charming” are terms we use for people we like to be with because their emotional skills make us feel good.
 
 Leadership is not domination, but the art of persuading people to work toward a common goal.
-

@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 12. Personal Development For Smart People - Steve Pavlina
+title: 12. Personal Development For Smart People - Steve Pavlina (📱)
 permalink: PersonalDevelopmentForSmartPeople
 ---
 
 ![Personal Development For Smart People - Steve Pavlina](public/personal development for smart people - steve pavlina.jpg "Personal Development For Smart People - Steve Pavlina")
 
-
-**Rating 9/10** 
+**Rating 9/10**
 
 <br>
 
@@ -49,11 +48,9 @@ When you understand that there's no such thing as an external relationship and t
 
 In truth, your disconnection from other people is a sign that you've disconnected from the best parts of yourself.
 
-
 > The purpose of goal setting isn't to control the future. That would be senseless because the future only exists in your imagination. The point of goal setting is to improve the quality of your present-moment reality.
 
 Whenever you set your sights on achieving something, always ask yourself, "How does setting this goal improve my present reality?" If it doesn't improve your present reality, then the goal is pointless, and you may as well dump it. But if it brings greater clarity, focus, and motivation to your life when you think about it, it's a keeper.
-
 
 Many people set goals and then assume the path to reach them will require suffering and sacrifice. This is a recipe for failure. Whenever you consider a new goal, pay attention to the effect it has on your present reality. Set goals that make you feel powerful, motivated, and driven when you focus on them, long before the final outcome is actually achieved. Avoid setting goals that make you feel powerless, stressed, or weak. Treat this process as a way to enhance your present focus, not as a way to control the future.
 

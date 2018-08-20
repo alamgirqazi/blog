@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5. Ego is the Enemy - Ryan Holiday
+title: 5. Ego is the Enemy - Ryan Holiday (📱)
 permalink: EgoIsTheEnemy
 ---
 
@@ -80,7 +80,7 @@ Acording to Greene, there are two types of time in our lives: dead time, when pe
 
 That’s what so many of us do when we fail or get ourselves into trouble. Lacking the ability to examine ourselves, we reinvest our energy into exactly the patterns of behavior that caused our problems to begin with.
 
-John Wooden’s advice to his players says it: Change the definition of success. “Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to do your best to become the best that you are capable of becoming.” 
+John Wooden’s advice to his players says it: Change the definition of success. “Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to do your best to become the best that you are capable of becoming.”
 
 “Ambition,” Marcus Aurelius reminded himself, “means tying your well-being to what other people say or do . . . Sanity means tying it to your own actions.”
 
@@ -101,9 +101,9 @@ I never look back, except to find out about mistakes . . . I only see danger in 
 > For us, the scoreboard can’t be the only scoreboard. Warren Buffett has said the same thing, making a distinction between the inner scorecard and the external one. Your potential, the absolute best you’re capable of—that’s the metric to measure yourself against. Your standards are. Winning is not enough. People can get lucky and win. People can be assholes and win. Anyone can win. But not everyone is the best possible version of themselves.
 
 > And why should we feel anger at the world? As if the world would notice!
- —EURIPIDES
+> —EURIPIDES
 
-As Harold Geneen put it, “People learn from their failures. Seldom do they learn anything from success.” 
+As Harold Geneen put it, “People learn from their failures. Seldom do they learn anything from success.”
 
 It’s why the old Celtic saying tells us, “See much, study much, suffer much, that is the path to wisdom.”
 

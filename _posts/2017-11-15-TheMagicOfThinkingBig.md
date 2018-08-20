@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Magic of Thinking Big - David Schwartz
+title: The Magic of Thinking Big - David Schwartz (📖)
 permalink: TheMagicOfThinkingBig
 ---
 

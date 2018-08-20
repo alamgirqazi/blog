@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 17. Too Soon Old Too Late Smart - Gordon Livingston
+title: 17. Too Soon Old Too Late Smart - Gordon Livingston (📱)
 permalink: TooSoonOldTooLateSmart
 ---
 
 ![Too Soon Old Too Late Smart - Gordon Livingston](public/too soon old too late smart.jpg "Too Soon Old Too Late Smart - Gordon Livingston")
 
-
-**Rating 9.5/10** 
+**Rating 9.5/10**
 
 <br>
 
@@ -22,7 +21,6 @@ Happiness is not simply the absence of despair. It is an affirmative state in wh
 “When all is said and done, more is said than done.”
 Most of the heartbreak that life contains is a result of ignoring the reality that past behavior is the most reliable predictor of future behavior.
 Woody Allen famously said that “Eighty percent of life is showing up.”
-
 
 > In general we get, not what we deserve, but what we expect.
 
@@ -40,9 +38,7 @@ My favorite therapeutic question is “What’s next?” The question implies bo
 
 Therapy, properly done, is a combination of confessional, re-parenting, and mentoring experiences. There is no perfect therapist for all who seek help. Each person has individual needs that cause them to “fit” well or poorly with a given therapist. In addition, the therapist brings his or her life experience, prejudices, and philosophy of change to the process. Often the attempt to connect is futile—occasionally even harmful.
 
-
 The qualities of a good therapist mirror those of a good parent: patience, empathy, capacity for affection, and an ability to listen nonjudgmentally.
-
 
 What all of us hesitate to admit is that we tend to be more helpful to people who are like us.
 
@@ -83,7 +79,7 @@ The idea that I could reach a point when I would no longer miss my children was 
 
 This is what passes for hope: those we have lost evoked in us feelings of love that we didn’t know we were capable of. These permanent changes are their legacies, their gifts to us. It is our task to transfer that love to those who still need us. In this way we remain faithful to their memories.
 At my daughter’s wedding I borrowed some thoughts from Mark Helprin and constructed the following toast:
- 
+
 The love between parents and children depends heavily on forgiveness. It is our imperfections that mark us as human and our willingness to tolerate them in our families and ourselves redeems the suffering to which all love makes us vulnerable. In happy moments such as this we celebrate the miracle of two people who found each other and created new lives together. If love can indeed overcome death, it is only through the exercise of memory and devotion. Memory and devotion . . . with it your heart, though broken, will be full and you will stay in the fight to the very last.
 
 It is always easier to keep doing what we’re used to, even if it’s evidently not working for us.
@@ -98,7 +94,6 @@ Much of what we do is driven by fear of failure.
 
 Our primary task as parents, beyond attending to the day-to-day physical and emotional welfare of our children, is to convey to them a sense of the world as an imperfect place in which it is possible, nevertheless, to be happy. We can only accomplish this by example.
 
-
 So, when parents, convinced of their crucial roles in shaping the futures of their children, ask me, “What can I do to make sure this kid turns out well?” they are often surprised at my response: “Not much, but maybe cutting down on the fights and not trying to control your child’s every decision might help to make everyone happier right now.”
 
 It is our fallibility and uncertainty that make us human. Our constant challenge is not to seek perfection in ourselves and others, but to find ways to be happy in an imperfect world.
@@ -112,5 +107,3 @@ Forgiveness is a form of letting go, but they are not the same thing.
 Widely confused with forgetting or reconciliation, forgiveness is neither. It is not something we do for others; it is a gift to ourselves.
 
 To acknowledge that we have been harmed by another but choose to let go of our resentment or wishes for retribution requires a high order of emotional and ethical maturity.
-
-

@@ -6,13 +6,17 @@ permalink: recentlyfinished
 
 This will contain the books I finished in order. Starting from 2018.
 
-#### _36_ more before the year ends. Lets go!
+<br>
+<!-- always 1 minus from total -->
+📱 read from mobile (5)
+📖 read from book (9)
+<br>
 
-<!-- # Reading List from 2018 -->
+_36_ more before the year ends. Lets go!
 
 <br>
 
-## 14. An Hour To Live, An Hour To Love - Richard and Kris Carlson
+## 14. An Hour To Live, An Hour To Love - Richard and Kris Carlson (📱)
 
 <br>
 
@@ -26,7 +30,7 @@ Finished on : 11-August-2018
 
 ---
 
-## 13. The War of Art - Steven Pressfield
+## 13. The War of Art - Steven Pressfield (📱)
 
 <br>
 
@@ -40,7 +44,7 @@ Finished on : 9-August-2018
 
 ---
 
-## 12. The 5 Love Languages - Gary Chapman
+## 12. The 5 Love Languages - Gary Chapman (📱)
 
 <br>
 
@@ -54,7 +58,7 @@ Finished on : 2-August-2018
 
 ---
 
-## 11. Mushaf - Nimra Ahmed
+## 11. Mushaf - Nimra Ahmed (📖)
 
 <br>
 
@@ -68,7 +72,7 @@ Finished on : 9-July-2018
 
 ---
 
-## 10. Letters To A Young Muslim - Omar Saif Ghobash
+## 10. Letters To A Young Muslim - Omar Saif Ghobash (📖)
 
 <br>
 
@@ -82,7 +86,7 @@ Finished on : 1-May-2018
 
 ---
 
-## 9. To Kill A Mockingbird - Harper Lee
+## 9. To Kill A Mockingbird - Harper Lee (📖)
 
 <br>
 
@@ -96,7 +100,7 @@ Finished on : 13-April-2018
 
 ---
 
-## 8. The Great Gatsby - F.Scott Fitzgerald
+## 8. The Great Gatsby - F.Scott Fitzgerald (📖)
 
 <br>
 
@@ -110,7 +114,7 @@ Finished on : 23-March-2018
 
 ---
 
-## 7. Fahrenheit 451 - Ray Bradbury
+## 7. Fahrenheit 451 - Ray Bradbury (📱)
 
 <br>
 
@@ -122,7 +126,7 @@ Finished on : 12-March-2018
 
 ---
 
-## 6. 1984 - George Orwell
+## 6. 1984 - George Orwell (📖)
 
 <br>
 
@@ -134,7 +138,7 @@ Finished on : 28-Feb-2018
 
 ---
 
-## 5. The Little Prince - Antoine de Saint-Exupe
+## 5. The Little Prince - Antoine de Saint-Exupe (📱)
 
 <br>
 
@@ -146,7 +150,7 @@ Finished on : 22-Feb-2018
 
 ---
 
-## 4. Zero To One - Peter Thiel
+## 4. Zero To One - Peter Thiel (📖)
 
 <br>
 
@@ -158,7 +162,7 @@ Finished on : 3-Feb-2018
 
 ---
 
-## 3. Animal Farm - George Orwell
+## 3. Animal Farm - George Orwell (📖)
 
 <br>
 
@@ -170,7 +174,7 @@ Finished on : 20-Jan-2018
 
 ---
 
-## 2. Turtles All The Way Down - John Green
+## 2. Turtles All The Way Down - John Green (📖)
 
 <br>
 
@@ -182,7 +186,7 @@ Finished on : 15-Jan-2018
 
 ---
 
-## 1. Siddhartha - Hermann Hesse
+## 1. Siddhartha - Hermann Hesse (📖)
 
 <br>
 

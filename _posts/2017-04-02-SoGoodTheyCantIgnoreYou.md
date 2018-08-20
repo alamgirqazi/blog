@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 15. So Good They Can't Ignore You - Cal Newport
+title: 15. So Good They Can't Ignore You - Cal Newport (📱)
 permalink: SoGoodTheyCantIgnoreYou
 ---
 
 ![So Good They Can't Ignore You - Cal Newport](public/so good they can't ignore you - cal newport.jpg "So Good They Can't Ignore You - Cal Newport")
 
-
-**Rating 9/10** 
+**Rating 9/10**
 
 <br>
 
@@ -18,7 +17,6 @@ The things that make a great job great, I discovered, are rare and valuable. If 
 Don’t follow your passion; rather, let it follow you in your quest to become, in the words of my favorite Steve Martin quote, “so good that they can’t ignore you.”
 
 Do What Steve Jobs Did, Not What He Said.
-
 
 > A job, in Wrzesniewski’s formulation, is a way to pay the bills, a career is a path toward increasingly better work, and a calling is work that’s an important part of your life and a vital part of your identity.
 
@@ -37,7 +35,6 @@ The craftsman mindset offers clarity, while the passion mindset offers a swamp o
 > There’s something liberating about the craftsman mindset: It asks you to leave behind self-centered concerns about whether your job is “just right,” and instead put your head down and plug away at getting really damn good. No one owes you a great career, it argues; you need to earn it—and the process won’t be easy.
 
 > You put aside the question of whether your job is your true passion, and instead turn your focus toward becoming so good they can’t ignore you. That is, regardless of what you do for a living, approach your work like a true performer.
-
 
 Supply and demand says that if you want these traits you need rare and valuable skills to offer in return. Think of these rare and valuable skills you can offer as your career capital.
 
@@ -60,6 +57,5 @@ Hardness scares off the daydreamers and the timid, leaving more opportunity for 
 Seth Godin in his 2002 bestseller, Purple Cow. As he elaborated in a Fast Company manifesto he published on the subject: “The world is full of boring stuff—brown cows—which is why so few people pay attention…. A purple cow… now that would stand out.
 
 If your goal is to love what you do, I discovered, “follow you passion” can be bad advice. It’s more important to become good at something rare and valuable, and then invest the career capital this generates into the˲at type of traits that make a job great.
-
 
 the motivation to write my first book was an idle dare leveled by an entrepreneur I admired whom I met one night for drinks: “Don’t just talk about it,” he scolded me when I offhandedly mentioned the book idea. “If you think it would be cool, go do it.

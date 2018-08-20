@@ -1,17 +1,15 @@
 ---
 layout: post
-title: 23. Ignore Everybody - Hugh McLeod
+title: 23. Ignore Everybody - Hugh McLeod (📱)
 permalink: IgnoreEverybody
 ---
 
 ![Ignore Everybody - Hugh McLeod](public/Ignore Everybody - Hugh McLeod.jpg "Ignore Everybody - Hugh McLeod")
- 
 
-**Rating 8.5/10** 
+**Rating 8.5/10**
 
 <br>
 #### Reading Notes:
-
 
 The more original your idea is, the less good advice other people will be able to give you.
 
@@ -27,7 +25,7 @@ It was so liberating to be free of ambition, for a change.
 > You don’t know if you’re any good or not, but you think you could be. And the idea terrifies you.
 
 > Everybody has their own private Mount Everest they were put on this earth to climb.
-You may never reach the summit; for that you will be forgiven. But if you don’t make at least one serious attempt to get above the snow line, years later you will find yourself lying on your deathbed, and all you will feel is emptiness.
+> You may never reach the summit; for that you will be forgiven. But if you don’t make at least one serious attempt to get above the snow line, years later you will find yourself lying on your deathbed, and all you will feel is emptiness.
 
 The biggest piece of advice I could give anyone would be this: “Admit that your own private Mount Everest exists. That is half the battle.”
 
