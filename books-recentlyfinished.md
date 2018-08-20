@@ -12,7 +12,7 @@ This will contain the books I finished in order. Starting from 2018.
 📖 read from book (10)
 <br>
 
-_36_ more before the year ends. Lets go!
+_35_ more before the year ends. Lets go!
 
 <br>
 
