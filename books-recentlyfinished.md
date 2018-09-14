@@ -48,7 +48,7 @@ Finished on : 11-August-2018
 
 <br>
 
-![The War of Art - Steven Pressfield](public/The War of Art - Steven Pressfield.jpeg "The War of Art - Steven Pressfield")
+![The War of Art - Steven Pressfield](public/the war of art - steven pressfield.jpeg "The War of Art - Steven Pressfield")
 
 **Rating 9/10**
 

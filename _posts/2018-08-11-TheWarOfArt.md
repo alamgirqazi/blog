@@ -4,7 +4,7 @@ title: The War Of Art - Steven Pressfield (📱)
 permalink: TheWarOfArt
 ---
 
-![The War Of Art - Steven Pressfield](public/The War Of Art - Steven Pressfield.jpeg " The War Of Art - Steven Pressfield")
+![The War Of Art - Steven Pressfield](public/the war of art - steven pressfield.jpeg " The War Of Art - Steven Pressfield")
 
 <!-- <!-- **Rating > -->
 
