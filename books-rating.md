@@ -6,7 +6,7 @@ permalink: books
 
 <br>
 <!-- always 1 minus from total -->
-📱 read from mobile (32)
+📱 read from mobile (33)
 📖 read from book (35)
 
 <br>
@@ -275,6 +275,18 @@ Another amazing book from Brene Brown. This book includes alot more real life
 experiences of Brene and her family and how she dealth with self-righteousness
 and Integrity in her own life.
 [Rising Strong - Brene Brown](https://alamgirqazi.github.io/blog/RisingStrong)
+
+---
+
+## Just Listen - Mark Goulston(📱)
+
+<br>
+
+![Just Listen - Mark Goulston](public/Just Listen - Mark Goulston.jpeg "Just Listen - Mark Goulston")
+
+**Rating 9.5/10**
+
+<br>
 
 ---
 

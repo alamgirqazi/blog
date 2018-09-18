@@ -8,11 +8,23 @@ This will contain the books I finished in order. Starting from 2018.
 
 <br>
 <!-- always 1 minus from total -->
-📱 read from mobile (5)
+📱 read from mobile (6)
 📖 read from book (10)
 <br>
 
-_35_ more before the year ends. Lets go!
+_34_ more before the year ends. Lets go!
+
+<br>
+
+## 16. Just Listen - Mark Goulston(📱)
+
+<br>
+
+![Just Listen - Mark Goulston](public/Just Listen - Mark Goulston.jpeg ' Just Listen - Mark Goulston')
+
+**Rating 9.5/10**
+
+Finished on : 17-September-2018
 
 <br>
 
