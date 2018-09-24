@@ -7,91 +7,26 @@ permalink: top5books
 Top 5 books I've read (by genre)
 
 <br>
-<br>
-
-# Top 5 Non-fiction Books
-
-## 1. Don't Sweat The Small Stuff - Richard Carlson
-
-<br>
-
-![Don't Sweat The Small Stuff - Richard Carlson](public/don't sweat the small stuff - richard carlson.jpg "Don't Sweat The Small Stuff - Richard Carlson")
-
 ---
 
-## 2. How to Win Friends and Infuence People
+## Top 5 Non-fiction Books
+
+|                                                                                                                                                                                       |                                                                                                                                                                                                     |                                                                                                                                                                               |                                                                                                                                                       |                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img width="140" alt="Don't Sweat The Small Stuff - Richard Carlson" src="public/don't sweat the small stuff - richard carlson.jpg"> 1. Don't Sweat The Small Stuff - Richard Carlson | <img width="140" alt="How to Win Friends and Influence People - Dale Carnegie" src="public/How to Win Friends and Influence People.jpg"> 2. How to Win Friends and Influence People - Dale Carnegie | <img width="140" alt="The Subtle Art of Not Giving a F\*ck - Mark Manson" src="public/The Subtle Art - Mark Manson.jpg"> 3.The Subtle Art of Not Giving a F\*ck - Mark Manson | <img width="140" alt="The Gifts of Imperfection - Brene Brown" src="public/the gifts of imperfection.jpg"> 4. The Gifts of Imperfection - Brene Brown | <img width="140" alt="The Monk Who Sold His Ferrari - Robin Sharma" src="public/The Monk Who Sold His Ferrari - Robin Sharma.jpg"> 5. The Monk Who Sold His Ferrari - Robin Sharma |
+
 
 <br>
-![How to Win Friends and Infuence People - Dale Carnegie](public/How to Win Friends and Influence People.jpg "How to Win Friends and Infuence People - Dale Carnegie")
-
 ---
-
-## 3. The Subtle Art of Not Giving a F\*ck - Mark Manson
-
 <br>
 
-![The Subtle Art - Mark Manson](public/The Subtle Art - Mark Manson.jpg "The Subtle Art of Not Giving a F\*ck - Mark Manson")
+## Top 5 Non-fiction Books
 
+|                                                                                                                |                                                                                                                                                    |                                                                                                                                                                                  |                                                                                                      |                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| <img width="140" alt="1984 - George Orwell" src="public/1984 - George Orwell.jpg"><br> 1. 1984 - George Orwell | <img width="140" alt="Catcher in the Rye - JD Salinger" src="public/Catcher in the Rye - JD Salinger.jpg"><br> 2. Catcher in the Rye - JD Salinger | <img width="140" alt="And Then There Were None - Agatha Christie" src="public/And Then There Were None - Agatha Christie.jpg"><br> 3. And Then There Were None - Agatha Christie | <img width="140" alt="" src="public/Pir e Kamil - Umera Ahmed.jpg"><br> 4. Pir e Kamil - Umera Ahmed | <img width="140" alt="" src="public/The Kite Runner - Khaled Hosseini.jpg"><br> 5. The Kite Runner - Khaled Hosseini |
+
+
+<br>
 ---
-
-## 4. The Gifts of Imperfection - Brene Brown
-
 <br>
-
-![The Gifts of Imperfection - Brene Brown](public/the gifts of imperfection.jpg "The Gifts of Imperfection - Brene Brown")
-
----
-
-## 5. The Monk Who Sold His Ferrari - Robin Sharma
-
-<br>
-
-![The Monk Who Sold His Ferrari - Robin Sharma](public/The Monk Who Sold His Ferrari - Robin Sharma.jpg "The Monk Who Sold His Ferrari - Robin Sharma")
-
----
-
-### Notable mentions: The Magic of Thinking Big - David Schwartz
-
-<br>
-<hr>
-<br>
-
-# Top 5 Fiction Books
-
-## 1. 1984 - George Orwell
-
-<br>
-![1984 - George Orwell](public/1984 - George Orwell.jpg "1984 - George Orwell")
-
----
-
-## 2. The Catcher in the Rye - JD Salinger
-
-<br>
-![The Catcher in the Rye - JD Salinger](public/Catcher in the Rye - JD Salinger.jpg "The Catcher in the Rye - JD Salinger")
-
-## 3. And Then There Were None - Agatha Christie
-
-<br>
-
-![And Then There Were None - Agatha Christie](public/And Then There Were None - Agatha Christie.jpg "And Then There Were None - Agatha Christie")
-
----
-
-## 4. Pir e Kamil - Umera Ahmed
-
-<br>
-
-![Pir e Kamil - Umera Ahmed](public/Pir e Kamil - Umera Ahmed.jpg "Pir e Kamil - Umera Ahmed")
-
----
-
-## 5. The Kite Runner - Khaled Hosseini
-
-<br>
-
-![The Kite Runner - Khaled Hosseini](public/The Kite Runner - Khaled Hosseini.jpg "The Kite Runner - Khaled Hosseini")
-
----
-
-### Notable mentions: To Kill A Mockingbird - Harper Lee
