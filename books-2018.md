@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Books (Recently Finished)
-permalink: recentlyfinished
+title: Books (2018)
+permalink: books2018
 ---
 
-This will contain the books I finished in order. Starting from 2018.
+This will contain the books I finished in order for 2018.
 
 <br>
 <!-- always 1 minus from total -->
