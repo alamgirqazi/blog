@@ -1254,10 +1254,55 @@ currently reading
 
 ---
 
+## The Six Pillars of Self Esteem - Nathaniel Brandon
+
+<br>
+![The Six Pillars of Self Esteem - Nathaniel Brandon](public/The Six Pillars of Self Esteem - Nathaniel Brandon.jpeg "The Six Pillars of Self Esteem - Nathaniel Brandon")
+
+<!-- **Rating (coming soon)**  -->
+
+<br>
+
+---
+
 ## Don't Sweat The Small Stuff In Love - Richard Carlson
 
 <br>
 ![Don't Sweat The Small Stuff In Love - Richard Carlson](public/Don't Sweat The Small Stuff In Love - Richard Carlson.jpg "Don't Sweat The Small Stuff In Love - Richard Carlson")
+
+<!-- **Rating (coming soon)**  -->
+
+<br>
+
+---
+
+## What Every BODY is Saying - Joe Navarro
+
+<br>
+![What Every BODY is Saying - Joe Navarro](public/What Every BODY is Saying - Joe Navarro.jpeg "What Every BODY is Saying - Joe Navarro")
+
+<!-- **Rating (coming soon)**  -->
+
+<br>
+
+---
+
+## The Gift of Therapy - Irvin D. Yalom
+
+<br>
+![The Gift of Therapy - Irvin D. Yalom](public/The Gift of Therapy - Irvin D. Yalom.jpeg "The Gift of Therapy - Irvin D. Yalom")
+
+<!-- **Rating (coming soon)**  -->
+
+<br>
+
+---
+
+## The 5 Love Languages for Children - Gary Chapman
+
+<br>
+
+![The 5 Love Languages for Children - Gary Chapman](public/The 5 Love Languages for Children - Gary Chapman.jpeg "The 5 Love Languages for Children - Gary Chapman")
 
 <!-- **Rating (coming soon)**  -->
 
