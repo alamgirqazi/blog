@@ -28,6 +28,8 @@ Finished on : 22-September-2018
 
 <br>
 
+---
+
 ## 16. Just Listen - Mark Goulston(📱)
 
 <br>
@@ -39,6 +41,8 @@ Finished on : 22-September-2018
 Finished on : 17-September-2018
 
 <br>
+
+---
 
 ## 15. Grit - Angela Duckworth(📖)
 
@@ -148,9 +152,9 @@ Finished on : 13-April-2018
 
 Finished on : 23-March-2018
 
-<!-- --- -->
+<br>
 
----
+<hr>
 
 ## 7. Fahrenheit 451 - Ray Bradbury (📱)
 
@@ -162,7 +166,9 @@ Finished on : 23-March-2018
 
 Finished on : 12-March-2018
 
----
+<br>
+
+<hr>
 
 ## 6. 1984 - George Orwell (📖)
 
@@ -210,6 +216,8 @@ Finished on : 3-Feb-2018
 
 Finished on : 20-Jan-2018
 
+<br>
+
 ---
 
 ## 2. Turtles All The Way Down - John Green (📖)
@@ -222,7 +230,9 @@ Finished on : 20-Jan-2018
 
 Finished on : 15-Jan-2018
 
----
+<br>
+
+<hr>
 
 ## 1. Siddhartha - Hermann Hesse (📖)
 
