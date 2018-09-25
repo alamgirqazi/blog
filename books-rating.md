@@ -6,7 +6,7 @@ permalink: books
 
 <br>
 <!-- always 1 minus from total -->
-📱 read from mobile (33)
+📱 read from mobile (34)
 📖 read from book (35)
 
 <br>
@@ -369,6 +369,18 @@ reading-notes
 
 <br>
 ![The Great Gatsby - F.Scott Fitzgerald](public/The Great Gatsby - F.Scott Fitzgerald.jpeg "The Great Gatsby - F.Scott Fitzgerald")
+
+**Rating 9.5/10**
+
+<br>
+
+---
+
+## The Four Agreements - Don Miguel Ruiz(📱)
+
+<br>
+
+![The Four Agreements - Don Miguel Ruiz](public/The Four Agreements - Don Miguel Ruiz.jpeg ' The Four Agreements - Don Miguel Ruiz')
 
 **Rating 9.5/10**
 

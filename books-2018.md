@@ -8,11 +8,23 @@ This will contain the books I finished in order for 2018.
 
 <br>
 <!-- always 1 minus from total -->
-📱 read from mobile (6)
+📱 read from mobile (7)
 📖 read from book (10)
 <br>
 
-_34_ more before the year ends. Lets go!
+_33_ more before the year ends. Lets go!
+
+<br>
+
+## 17. The Four Agreements - Don Miguel Ruiz(📱)
+
+<br>
+
+![The Four Agreements - Don Miguel Ruiz](public/The Four Agreements - Don Miguel Ruiz.jpeg ' The Four Agreements - Don Miguel Ruiz')
+
+**Rating 9.5/10**
+
+Finished on : 22-September-2018
 
 <br>
 
