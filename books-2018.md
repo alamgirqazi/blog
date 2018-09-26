@@ -20,7 +20,7 @@ _33_ more before the year ends. Lets go!
 
 <br>
 
-![The Four Agreements - Don Miguel Ruiz](public/The Four Agreements - Don Miguel Ruiz.jpeg ' The Four Agreements - Don Miguel Ruiz')
+![The Four Agreements - Don Miguel Ruiz](public/the four agreements - Don Miguel Ruiz.jpeg ' The Four Agreements - Don Miguel Ruiz')
 
 **Rating 9.5/10**
 
