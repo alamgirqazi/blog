@@ -231,6 +231,18 @@ Rye'. A very gripping and intense novel with full of emotions.
 
 ---
 
+
+## The Gift of Therapy - Irvin D. Yalom
+
+<br>
+![The Gift of Therapy - Irvin D. Yalom](public/The Gift of Therapy - Irvin D. Yalom.jpeg "The Gift of Therapy - Irvin D. Yalom")
+
+**Rating 10/10**
+
+<br>
+
+---
+
 ## 5 Major Pieces To The Life Puzzle - Jim Rohn (📱)
 
 <br>
@@ -1280,17 +1292,6 @@ currently reading
 
 <br>
 ![What Every BODY is Saying - Joe Navarro](public/What Every BODY is Saying - Joe Navarro.jpeg "What Every BODY is Saying - Joe Navarro")
-
-<!-- **Rating (coming soon)**  -->
-
-<br>
-
----
-
-## The Gift of Therapy - Irvin D. Yalom
-
-<br>
-![The Gift of Therapy - Irvin D. Yalom](public/The Gift of Therapy - Irvin D. Yalom.jpeg "The Gift of Therapy - Irvin D. Yalom")
 
 <!-- **Rating (coming soon)**  -->
 

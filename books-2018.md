@@ -8,13 +8,27 @@ This will contain the books I finished in order for 2018.
 
 <br>
 <!-- always 1 minus from total -->
-📱 read from mobile (7)
+📱 read from mobile (8)
 📖 read from book (10)
 <br>
 
-_33_ more before the year ends. Lets go!
+_32_ more before the year ends. Lets go!
 
 <br>
+
+## 18. The Gift Of Therapy - Irvin D. Yalom(📱)
+
+<br>
+
+![The Gift of Therapy - Irvin D. Yalom](public/The Gift of Therapy - Irvin D. Yalom.jpeg "The Gift of Therapy - Irvin D. Yalom")
+
+**Rating 10/10**
+
+Finished on : 27-September-2018
+
+<br>
+
+---
 
 ## 17. The Four Agreements - Don Miguel Ruiz(📱)
 
