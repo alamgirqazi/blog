@@ -9,12 +9,26 @@ This will contain the books I finished in order for 2018.
 <br>
 <!-- always 1 minus from total -->
 📱 read from mobile (8)
-📖 read from book (10)
+📖 read from book (11)
 <br>
 
-_32_ more before the year ends. Lets go!
+_31_ more before the year ends. Lets go!
 
 <br>
+
+## 19. Mind Platter - Najwa Zebian (📖)
+
+<br>
+
+![Mind Platter - Najwa Zebian ](public/Mind Platter - Najwa Zebian.jpeg "Mind Platter - Najwa Zebian")
+
+**Rating 9.5/10**
+
+Finished on : 11-October-2018
+
+<br>
+
+---
 
 ## 18. The Gift Of Therapy - Irvin D. Yalom(📱)
 

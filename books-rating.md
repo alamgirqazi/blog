@@ -7,7 +7,7 @@ permalink: books
 <br>
 <!-- always 1 minus from total -->
 📱 read from mobile (34)
-📖 read from book (35)
+📖 read from book (36)
 
 <br>
 
@@ -231,7 +231,6 @@ Rye'. A very gripping and intense novel with full of emotions.
 
 ---
 
-
 ## The Gift of Therapy - Irvin D. Yalom
 
 <br>
@@ -297,6 +296,20 @@ and Integrity in her own life.
 ![Just Listen - Mark Goulston](public/Just Listen - Mark Goulston.jpeg "Just Listen - Mark Goulston")
 
 **Rating 9.5/10**
+
+<br>
+
+---
+
+## Mind Platter - Najwa Zebian (📖)
+
+<br>
+
+![Mind Platter - Najwa Zebian ](public/Mind Platter - Najwa Zebian.jpeg "Mind Platter - Najwa Zebian")
+
+**Rating 9.5/10**
+
+Finished on : 11-October-2018
 
 <br>
 
