@@ -9,12 +9,26 @@ This will contain the books I finished in order for 2018.
 <br>
 <!-- always 1 minus from total -->
 📱 read from mobile (8)
-📖 read from book (11)
+📖 read from book (12)
 <br>
 
-_31_ more before the year ends. Lets go!
+_30_ more before the year ends. Lets go!
 
 <br>
+
+## 20. The Forty Rules of Love - Elif Shafak (📖)
+
+<br>
+
+![The Forty Rules of Love - Elif Shafak](public/The Forty Rules of Love - Elif Shafak.jpeg "The Forty Rules of Love - Elif Shafak")
+
+**Rating 10/10**
+
+Finished on : 26-October-2018
+
+<br>
+
+---
 
 ## 19. Mind Platter - Najwa Zebian (📖)
 

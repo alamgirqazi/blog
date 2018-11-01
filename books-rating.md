@@ -7,7 +7,7 @@ permalink: books
 <br>
 <!-- always 1 minus from total -->
 📱 read from mobile (34)
-📖 read from book (36)
+📖 read from book (37)
 
 <br>
 
@@ -163,6 +163,17 @@ my reading-notes
 What a thriller. Definitely my favourite fiction novel.
 
 ---
+
+## The Forty Rules of Love - Elif Shafak (📖)
+
+<br>
+![The Forty Rules of Love - Elif Shafak](public/The Forty Rules of Love - Elif Shafak.jpeg "The Forty Rules of Love - Elif Shafak")
+
+**Rating 10/10**
+
+<br>
+
+<hr>
 
 ## The Kite Runner - Khaled Hosseini (📖)
 
