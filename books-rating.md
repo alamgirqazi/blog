@@ -6,7 +6,7 @@ permalink: books
 
 <br>
 <!-- always 1 minus from total -->
-📱 read from mobile (34)
+📱 read from mobile (35)
 📖 read from book (37)
 
 <br>
@@ -27,6 +27,18 @@ live a happy and fulfilled life. Easily the best self-help book out there. See
 my reading-notes
 
 [Don't Sweat The Small Stuff - Richard Carlson](https://alamgirqazi.github.io/blog/DontSweatTheSmallStuff)
+
+---
+
+## Love's Executioner and Other Tales of Psychotherapy - Irwin D. Yalom (📱)
+
+<br>
+![Love's Executioner and Other Tales of Psychotherapy - Irwin D. Yalom](public/Love's Executioner - Irwin D. Yalom.jpeg "Love's Executioner and Other Tales of Psychotherapy - Irwin D. Yalom")
+
+
+**Rating 10/10**
+
+<br>
 
 ---
 

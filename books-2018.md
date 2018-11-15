@@ -8,14 +8,27 @@ This will contain the books I finished in order for 2018.
 
 <br>
 <!-- always 1 minus from total -->
-📱 read from mobile (8)
+📱 read from mobile (9)
 📖 read from book (12)
 <br>
 
-_30_ more before the year ends. Lets go!
+_29_ more before the year ends. Lets go!
 
 <br>
 
+## 21. Love's Executioner and Other Tales of Psychotherapy - Irwin D. Yalom  (📱)
+
+<br>
+
+![Love's Executioner and Other Tales of Psychotherapy - Irwin D. Yalom](public/Love's Executioner - Irwin D. Yalom.jpeg "Love's Executioner and Other Tales of Psychotherapy - Irwin D. Yalom")
+
+**Rating 10/10**
+
+Finished on : 13-November-2018
+
+<br>
+
+---
 ## 20. The Forty Rules of Love - Elif Shafak (📖)
 
 <br>
