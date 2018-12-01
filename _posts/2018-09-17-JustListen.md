@@ -10,7 +10,7 @@ permalink: JustListen
 
 #### Reading Notes:
 
-Cycle, you need to speak with them in a manner that moves them:
+You need to speak with them in a manner that moves them:
 
 From resisting to listening
 
@@ -24,7 +24,7 @@ From doing to glad they did and continuing to do.
 
 MIRROR NEURONS. studies suggest that these remarkable cells may form the basis for human empathy. That’s because, in effect, they transport us into another person’s mind, briefly making us feel what the person is feeling.
 
-Do NOT deny that you’re upset and afraid. Instead, identify your feelings and acknowledge them, silently using words to describe your feelings. (“I’m really scared.
+Do NOT deny that you’re upset and afraid. Instead, identify your feelings and acknowledge them, silently using words to describe your feelings. “I’m really scared".
 
 When you go from “Oh F#@& to OK,” you go from being fixated on the way you are convinced the world should or shouldn’t be, but never will be, to being ready to deal with the world the way it is.
 
