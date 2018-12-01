@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 28. The Mastery of Love - Don Miguel Ruiz (📱)
+title: 30. The Mastery of Love - Don Miguel Ruiz (📱)
 permalink: TheMasteryofLove
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 31. The Prophet - Kahlil Gibran (📖)
+title: 33. The Prophet - Kahlil Gibran (📖)
 permalink: TheProphet
 ---
 

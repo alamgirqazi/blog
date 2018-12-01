@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 4 - Hour Workweek - Tim Ferriss (📱)
+title: 26. The 4 - Hour Workweek - Tim Ferriss (📱)
 permalink: 4hourworkweek
 ---
 

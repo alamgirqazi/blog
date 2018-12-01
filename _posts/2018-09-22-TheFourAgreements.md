@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Four Agreements - Don Miguel Ruiz (📱)
+title: 43. The Four Agreements - Don Miguel Ruiz (📱)
 permalink: TheFourAgreements
 ---
 

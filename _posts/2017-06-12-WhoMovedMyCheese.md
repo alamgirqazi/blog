@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 26. Who Moved My Cheese? - Spencer Johnson (📱)
+title: 28. Who Moved My Cheese? - Spencer Johnson (📱)
 permalink: WhoMovedMyCheese
 ---
 

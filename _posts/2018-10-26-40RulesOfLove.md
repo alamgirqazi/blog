@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Forty Rules of Love - Elif Shafak (📖)
+title: 46. The Forty Rules of Love - Elif Shafak (📖)
 permalink: FortyRulesOfLove
 ---
 

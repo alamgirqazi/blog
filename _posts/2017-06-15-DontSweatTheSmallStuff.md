@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 27. Don't Sweat The Small Stuff - Richard Carlson (📱)
+title: 29. Don't Sweat The Small Stuff - Richard Carlson (📱)
 permalink: DontSweatTheSmallStuff
 ---
 

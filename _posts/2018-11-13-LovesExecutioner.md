@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Love's Executioner and Other Tales of Psychotherapy - Irwin D. Yalom  (📱)
+title: 47. Love's Executioner and Other Tales of Psychotherapy - Irwin D. Yalom  (📱)
 permalink: LovesExecutioner
 ---
 

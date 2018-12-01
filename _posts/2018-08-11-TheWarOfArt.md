@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The War Of Art - Steven Pressfield (📱)
+title: 40. The War Of Art - Steven Pressfield (📱)
 permalink: TheWarOfArt
 ---
 

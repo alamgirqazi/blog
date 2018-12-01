@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zero To One - Peter Thiel (📖)
+title: 38. Zero To One - Peter Thiel (📖)
 permalink: ZeroToOne
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Just Listen - Mark Goulston (📱)
+title: 42. Just Listen - Mark Goulston (📱)
 permalink: JustListen
 ---
 

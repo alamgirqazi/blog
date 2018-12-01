@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 32. The Power of Giving - Azim Jamal and Harvey McKinnon (📖)
+title: 35. The Power of Giving - Azim Jamal and Harvey McKinnon (📖)
 permalink: ThePowerOfGiving
 ---
 

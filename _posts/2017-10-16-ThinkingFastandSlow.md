@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thinking, Fast and Slow - Daniel Kahneman (📖)
+title: 36. Thinking, Fast and Slow - Daniel Kahneman (📖)
 permalink: ThinkingFastAndSlow
 ---
 
