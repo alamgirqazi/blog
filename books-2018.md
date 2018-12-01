@@ -26,6 +26,8 @@ _29_ more before the year ends. Lets go!
 
 Finished on : 13-November-2018
 
+my reading-notes [Love's Executioner and Other Tales of Psychotherapy - Irwin D. Yalom](https://alamgirqazi.github.io/blog/LovesExecutioner)
+
 <br>
 
 ---
@@ -38,6 +40,9 @@ Finished on : 13-November-2018
 **Rating 10/10**
 
 Finished on : 26-October-2018
+
+
+my reading-notes [The Forty Rules of Love - Elif Shafak](https://alamgirqazi.github.io/blog/FortyRulesOfLove)
 
 <br>
 
@@ -53,11 +58,14 @@ Finished on : 26-October-2018
 
 Finished on : 11-October-2018
 
+
+my reading-notes [Mind Platter - Najwa Zebian](https://alamgirqazi.github.io/blog/MindPlatter)
+
 <br>
 
 ---
 
-## 18. The Gift Of Therapy - Irvin D. Yalom(📱)
+## 18. The Gift Of Therapy - Irvin D. Yalom (📱)
 
 <br>
 
@@ -66,6 +74,9 @@ Finished on : 11-October-2018
 **Rating 10/10**
 
 Finished on : 27-September-2018
+
+
+my reading-notes [The Gift Of Therapy - Irvin D. Yalom](https://alamgirqazi.github.io/blog/TheGiftOfTherapy)
 
 <br>
 
@@ -81,6 +92,10 @@ Finished on : 27-September-2018
 
 Finished on : 22-September-2018
 
+
+my reading-notes [The Four Agreements - Don Miguel Ruiz](https://alamgirqazi.github.io/blog/TheFourAgreements)
+
+
 <br>
 
 ---
@@ -94,6 +109,10 @@ Finished on : 22-September-2018
 **Rating 9.5/10**
 
 Finished on : 17-September-2018
+
+
+my reading-notes [Just Listen - Mark Goulston](https://alamgirqazi.github.io/blog/JustListen)
+
 
 <br>
 
@@ -109,6 +128,10 @@ Finished on : 17-September-2018
 
 Finished on : 19-August-2018
 
+
+my reading-notes [Grit - Angela Duckworth](https://alamgirqazi.github.io/blog/Grit)
+
+
 <br>
 
 ---
@@ -122,6 +145,10 @@ Finished on : 19-August-2018
 **Rating 9/10**
 
 Finished on : 11-August-2018
+
+
+<!-- [An Hour To Live, An Hour To Love - Richard and Kris Carlson](https://alamgirqazi.github.io/blog/AnHourToLive) -->
+
 
 <br>
 
@@ -137,6 +164,10 @@ Finished on : 11-August-2018
 
 Finished on : 9-August-2018
 
+
+my reading-notes [The War of Art - Steven Pressfield](https://alamgirqazi.github.io/blog/TheWarOfArt)
+
+
 <br>
 
 ---
@@ -150,6 +181,9 @@ Finished on : 9-August-2018
 **Rating 9/10**
 
 Finished on : 2-August-2018
+
+
+<!-- [Love's Executioner and Other Tales of Psychotherapy - Irwin D. Yalom](https://alamgirqazi.github.io/blog/LovesExecutioner) -->
 
 <br>
 
@@ -258,6 +292,9 @@ Finished on : 22-Feb-2018
 **Rating 9/10**
 
 Finished on : 3-Feb-2018
+
+my reading-notes [Zero To One - Peter Thiel](https://alamgirqazi.github.io/blog/ZeroToOne)
+
 
 ---
 
