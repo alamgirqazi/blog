@@ -146,8 +146,7 @@ my reading-notes [Grit - Angela Duckworth](https://alamgirqazi.github.io/blog/Gr
 
 Finished on : 11-August-2018
 
-
-<!-- [An Hour To Live, An Hour To Love - Richard and Kris Carlson](https://alamgirqazi.github.io/blog/AnHourToLive) -->
+my reading-notes [An Hour To Live, An Hour To Love - Richard and Kris Carlson](https://alamgirqazi.github.io/blog/AnHourToLive)
 
 
 <br>
@@ -181,9 +180,6 @@ my reading-notes [The War of Art - Steven Pressfield](https://alamgirqazi.github
 **Rating 9/10**
 
 Finished on : 2-August-2018
-
-
-<!-- [Love's Executioner and Other Tales of Psychotherapy - Irwin D. Yalom](https://alamgirqazi.github.io/blog/LovesExecutioner) -->
 
 <br>
 
