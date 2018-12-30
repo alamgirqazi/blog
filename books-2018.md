@@ -4,17 +4,30 @@ title: Books (2018)
 permalink: books2018
 ---
 
-This will contain the books I finished in order for 2018.
+Books I've read in 2018.
 
 <br>
 <!-- always 1 minus from total -->
 📱 read from mobile (9)
-📖 read from book (12)
+📖 read from book (13)
+<br>
 <br>
 
-_29_ more before the year ends. Lets go!
+## 22. Reclaim Your Heart - Yasmin Mogahed (📖)
 
 <br>
+
+![Reclaim Your Heart - Yasmin Mogahed](public/Reclaim Your Heart - Yasmin Mogahed.jpeg "Reclaim Your Heart - Yasmin Mogahed")
+
+**Rating 10/10**
+
+Finished on : 26-December-2018
+
+my reading-notes [Reclaim Your Heart - Yasmin Mogahed](https://alamgirqazi.github.io/blog/ReclaimYourHeart)
+
+<br>
+
+---
 
 ## 21. Love's Executioner and Other Tales of Psychotherapy - Irwin D. Yalom  (📱)
 
@@ -31,6 +44,7 @@ my reading-notes [Love's Executioner and Other Tales of Psychotherapy - Irwin D.
 <br>
 
 ---
+
 ## 20. The Forty Rules of Love - Elif Shafak (📖)
 
 <br>
