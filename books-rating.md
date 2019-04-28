@@ -7,7 +7,7 @@ permalink: books
 <br>
 <!-- always 1 minus from total -->
 📱 read from mobile (35)
-📖 read from book (37)
+📖 read from book (38)
 
 <br>
 
@@ -27,6 +27,21 @@ live a happy and fulfilled life. Easily the best self-help book out there. See
 my reading-notes
 
 [Don't Sweat The Small Stuff - Richard Carlson](https://alamgirqazi.github.io/blog/DontSweatTheSmallStuff)
+
+---
+
+## Mindset - Carol Dweck (📖)
+
+<br>
+
+![Mindset - Carol Dweck](public/Mindset - Carol Dweck.jpg "Mindset - Carol Dweck")
+
+**Rating 10/10**
+
+<br>
+
+
+[Mindset - Carol Dweck](https://alamgirqazi.github.io/blog/Mindset)
 
 ---
 
