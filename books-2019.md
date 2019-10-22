@@ -17,7 +17,7 @@ Books I've read in 2019.
 
 <br>
 
-![The Murder of Roger Ackroyd - Agatha Christie](public/new/The Murder of Roger Ackroyd - Agatha Christie.jpg" The Murder of Roger Ackroyd - Agatha Christie")
+![The Murder of Roger Ackroyd - Agatha Christie](public/new/The Murder of Roger Ackroyd - Agatha Christie.jpg "The Murder of Roger Ackroyd - Agatha Christie")
 
 **Rating 10/10**
 
@@ -31,7 +31,7 @@ Finished on : 19-Oct-2019
 
 <br>
 
-![Rework - Jason Fried and David Heinemeier Hansson](public/new/Rework - Jason Fried and David Heinemeier Hansson.jpg" Rework - Jason Fried and David Heinemeier Hansson")
+![Rework - Jason Fried and David Heinemeier Hansson](public/new/Rework - Jason Fried and David Heinemeier Hansson.jpg "Rework - Jason Fried and David Heinemeier Hansson")
 
 **Rating 8.5/10**
 
@@ -46,7 +46,7 @@ Finished on : 5-Sep-2019
 
 <br>
 
-![Emotional Intelligence 2.0 - Travis Bradberry](public/new/Emotional Intelligence 2.0 - Travis Bradberry.jpg" Emotional Intelligence 2.0 - Travis Bradberry")
+![Emotional Intelligence 2.0 - Travis Bradberry](public/new/Emotional Intelligence 2.0 - Travis Bradberry.jpg "Emotional Intelligence 2.0 - Travis Bradberry")
 
 **Rating 9/10**
 
@@ -61,7 +61,7 @@ Finished on : 13-June-2019
 
 <br>
 
-![Harry Potter and The Philosophers Stone - JK Rowling ](public/new/Harry Potter and the Philosopher's stone - JK Rowling.jpg" Harry Potter and The Philosophers Stone")
+![Harry Potter and The Philosophers Stone - JK Rowling ](public/new/Harry Potter and the Philosopher's stone - JK Rowling.jpg "Harry Potter and The Philosophers Stone")
 
 **Rating 10/10**
 
