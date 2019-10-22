@@ -17,7 +17,7 @@ Books I've read in 2019.
 
 <br>
 
-![The Murder of Roger Ackroyd - Agatha Christie](public/new/The Murder of Roger Ackroyd - Agatha Christie.jpg "The Murder of Roger Ackroyd - Agatha Christie")
+![The Murder of Roger Ackroyd - Agatha Christie](public/new/The Murder Of Roger Ackroyd - Agatha Christie.jpg "The Murder of Roger Ackroyd - Agatha Christie")
 
 **Rating 10/10**
 
