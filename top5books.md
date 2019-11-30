@@ -23,7 +23,7 @@ Top 5 books I've read (by genre)
 
 <br>
 
-## Top 5 Non-fiction Books
+## Top 5 Fiction Books
 
 <div class="twrapper" markdown="block">
 
