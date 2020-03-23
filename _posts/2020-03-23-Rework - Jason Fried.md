@@ -4,7 +4,7 @@ title: 56. Rework -Jason Fried & David Heinemaeier Hansson (📖)
 permalink: Rework
 ---
 
-![Rework -Jason Fried](public/new/Rework -Jason Fried.jpg "Rework -Jason Fried")
+![Rework -Jason Fried](public/new/Rework - Jason Fried and David Heinemeier Hansson.jpg "Rework -Jason Fried")
 
 <br>
 
