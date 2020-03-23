@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 56. Rework -Jason Fried & David Heinemaeier Hansson (📖)
+title: 57. Rework -Jason Fried & David Heinemaeier Hansson (📖)
 permalink: Rework
 ---
 
